@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Sharon Klinkenberg"
 theme = "mainroad"
 googleAnalytics = ""
 disqusShortname = ""
@@ -16,7 +16,7 @@ publishDir = "docs"
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/ShKlinkenberg"
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/rstudio"
