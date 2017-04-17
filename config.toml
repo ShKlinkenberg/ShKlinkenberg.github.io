@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   role = "Senior Lecturer at the Department of Psychology"
   organization = "University of Amsterdam"
   organization_url = "http://www.uva.nl"
-  avatar = "headers/klinkenberg.jpg"
+  avatar = "klinkenberg.jpg"
   email = "javascript:window.location.href = 'mailto:' + ['s.klinkenberg','uva.nl'].join('@')"
   address = "Nieuwe Achtergracht 129B, 1018 VZ Amsterdam, Room REC-G –1.12, Netherlands"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
