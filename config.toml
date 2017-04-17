@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Sharon Klinkenberg"
-  role = "Senior lecturer at the department of Psychology"
+  role = "Senior Lecturer at the Department of Psychology"
   organization = "University of Amsterdam"
   organization_url = "http://www.uva.nl"
   avatar = "portrait.jpg"
@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
