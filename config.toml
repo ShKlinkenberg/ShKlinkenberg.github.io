@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "Academic"
 copyright = "&copy; 2016 Your Name"
+relativeurls = true
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
