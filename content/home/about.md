@@ -20,7 +20,7 @@ weight = 1
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  institution = "University of Amsterdam"
   year = 2012
 
 [[education.courses]]
