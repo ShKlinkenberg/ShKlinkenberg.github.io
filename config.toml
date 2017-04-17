@@ -6,6 +6,7 @@ title = "Sharon Klinkenberg"
 # theme = "hugo-academic"
 # theme = "Mainroad"
 theme = "hugo-lithium-theme"
+# theme = "startbootstrap-clean-blog"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
