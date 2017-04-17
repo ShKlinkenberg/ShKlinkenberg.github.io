@@ -26,12 +26,12 @@ defaultContentLanguageInSubdir = false
   organization = "University of Amsterdam"
   organization_url = "http://www.uva.nl"
   avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "javascript:window.location.href = 'mailto:' + ['s.klinkenberg','uva.nl'].join('@')"
+  address = "Nieuwe Achtergracht 129B, 1018 VZ Amsterdam, Room REC-G –1.12, Netherlands"
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "+31 20 525 6904"
+  # skype = "echo123"
+  # telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
