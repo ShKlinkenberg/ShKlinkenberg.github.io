@@ -1,4 +1,5 @@
 baseurl = "https://shklinkenberg.github.io/site/"
+source: ""
 title = "Klinkenberg"
 copyright = "&copy; 2016 Sharon Klinkenberg"
 relativeurls = true
