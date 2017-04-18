@@ -12,7 +12,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Assessment",
+    "Digital Assessment",
     "Computer Adaptive Testing",
     "Psychometrics",
     "Higher Education",
