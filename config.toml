@@ -1,7 +1,7 @@
 baseurl = "https://shklinkenberg.github.io/site"
 title = "Klinkenberg"
 copyright = "&copy; 2016 Sharon Klinkenberg"
-# relativeurls = true
+# relativeurls = false
 # canonifyURLs = true
 theme = "hugo-academic"
 enableEmoji = true
