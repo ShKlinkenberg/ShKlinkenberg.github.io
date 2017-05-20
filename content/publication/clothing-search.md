@@ -22,7 +22,7 @@ url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/rekentuin.png"
 caption = "My caption :smile:"
 
 +++
