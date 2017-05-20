@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weblectures on Klinkenberg</title>
+    <link>/site/tags/weblectures/</link>
+    <description>Recent content in Weblectures on Klinkenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/site/tags/weblectures/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VR Lecture recordings</title>
+      <link>/site/project/vr-lectures/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/site/project/vr-lectures/</guid>
+      <description>&lt;p&gt;Visit &lt;a href=&#34;https://www.surfspace.nl/artikel/1958-virtual-reality-lectures--1/&#34; target=&#34;_blank&#34;&gt;SURFspace&lt;/a&gt; for the complete blog.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

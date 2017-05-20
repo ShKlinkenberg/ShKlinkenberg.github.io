@@ -11,21 +11,20 @@
     <atom:link href="/site/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/site/publication/person-re-identification/</link>
+      <title>A Practical Procedure for the Construction and Reliability Analysis of Fixed-Length Tests with Randomly Drawn Test Items</title>
+      <link>/site/publication/cbalpha/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/site/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/site/publication/cbalpha/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</title>
-      <link>/site/publication/clothing-search/</link>
+      <link>/site/publication/math-garden/</link>
       <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>/site/publication/clothing-search/</guid>
+      <guid>/site/publication/math-garden/</guid>
       <description></description>
     </item>
     
