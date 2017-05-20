@@ -5,7 +5,7 @@ date = "2011-02-03"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "In *Computers and Education*, IEEE."
+publication = "In *Computers and Education*, Springer."
 publication_short = ""
 selected = true
 title = "Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation"
@@ -17,8 +17,8 @@ url_slides = "#"
 url_video = "#"
 
 [[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
+name = "Go to Springer"
+url = "http://www.sciencedirect.com/science/article/pii/S0360131511000418"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -26,5 +26,3 @@ image = "headers/rekentuin.png"
 caption = "Math Garden"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
