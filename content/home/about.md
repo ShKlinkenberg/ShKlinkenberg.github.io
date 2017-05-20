@@ -21,12 +21,12 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "SKO Senior Lecturer Qualivication"
+  course = "SKO Senior Lecturer Qualification"
   institution = "University of Amsterdam"
   year = 2015
   
 [[education.courses]]
-  course = "BKO Lecturing Qualivication"
+  course = "BKO Lecturing Qualification"
   institution = "CNA"
   year = 2009
 
