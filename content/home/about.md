@@ -21,19 +21,24 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "SKO Senior Lecturer Qualivication"
   institution = "University of Amsterdam"
-  year = 2012
-
+  year = 2015
+  
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BKO Lecturing Qualivication"
+  institution = "CNA"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Drs. in Psychology"
+  institution = "University of Amsterdam"
+  year = 2004
+
+[[education.courses]]
+  course = "Minor computer applications in social science"
+  institution = "University of Amsterdam"
+  year = 2003
  
 +++
 
