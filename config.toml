@@ -1,4 +1,4 @@
-baseurl = "https://shklinkenberg.github.io/site/"
+baseurl = "https://shklinkenberg.github.io/site/docs"
 title = "Klinkenberg"
 copyright = "&copy; 2016 Sharon Klinkenberg"
 relativeurls = true
@@ -6,7 +6,7 @@ relativeurls = true
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-publishDir = "docs"
+# publishDir = "docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
