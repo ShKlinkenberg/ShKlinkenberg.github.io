@@ -131,6 +131,11 @@ defaultContentLanguageInSubdir = false
     link = "javascript:window.location.href = 'mailto:' + ['s.klinkenberg','uva.nl'].join('@')"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/sharonklinkenberg/"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/ShKlinkenberg"
