@@ -14,7 +14,7 @@ weight = 20
 
 +++
 
-I am a teaching instructor for the following courses at University of Amsterdam:
+I am a teaching instructor for the following courses at the University of Amsterdam:
 
 - Scientific and Statistical Reasoning
 - Test Theory and Practice

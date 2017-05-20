@@ -1,11 +1,11 @@
 +++
-date = "2017-01-01T00:00:00"
-title = "Example Talk"
+date = "2017-06-13T13:00:00"
+title = "Assessment as driving force for personalised blended learning"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "elearning symposium - Erasmus MC"
+event_url = "https://www.erasmusmc.nl/desideriusschool/"
+location = "Rotterdam, Netherlands"
 
 selected = false
 math = true

@@ -11,11 +11,11 @@
     <atom:link href="/site/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>/site/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Assessment as driving force for personalised blended learning</title>
+      <link>/site/talk/2017-06-elearning/</link>
+      <pubDate>Tue, 13 Jun 2017 13:00:00 +0000</pubDate>
       
-      <guid>/site/talk/example-talk/</guid>
+      <guid>/site/talk/2017-06-elearning/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
