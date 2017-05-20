@@ -44,4 +44,4 @@ weight = 1
 
 # About
 
-Sharon Klinkenberg is a senior lecturer at the department of Psychology of the University of Amsterdam. His teaching is mainly focussed on statistics and Psychological methods. Sharon is an educational innovator at the forefront of educational technology. Specialised in digital assessment, he integrates formative and summative assessment in order to personlalize large scale education. His research is focussed on the validity and reliability of adeptive assessment methods and also the affectiveness of blended learning interventions.
+Sharon Klinkenberg is a senior lecturer at the department of Psychology of the University of Amsterdam. His teaching is mainly focussed on statistics and Psychological methods. Sharon is an educational innovator at the forefront of educational technology. Specialised in digital assessment, he integrates formative and summative assessment in order to personlalize large scale education. His research is focussed on the validity and reliability of adeptive assessment methods and also the effectiveness of blended learning interventions.
