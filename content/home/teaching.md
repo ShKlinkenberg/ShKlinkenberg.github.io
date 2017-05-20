@@ -14,14 +14,13 @@ weight = 20
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am a teaching instructor for the following courses at University of Amsterdam:
 
-I am a teaching instructor for the following courses at University X:
+- Scientific and Statistical Reasoning
+- Test Theory and Practice
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+Past courses:
+
+- Introductory statistics at the department of Psychobiology and Beta-Gamma
+- SPSS at the department of Psychology and Psychobiology
+- Reasearch methods at computer applications in social science
