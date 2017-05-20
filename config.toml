@@ -134,6 +134,11 @@ defaultContentLanguageInSubdir = false
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/ShKlinkenberg"
+    
+  [[params.social]]
+    icon = "youtube"
+    icon_pack = "fa"
+    link = "https://www.youtube.com/channel/UCscyOTFuPepIFyyDWrf2CkQ"    
 
   [[params.social]]
     icon = "google-scholar"

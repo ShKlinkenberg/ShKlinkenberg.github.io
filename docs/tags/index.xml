@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Klinkenberg</title>
-    <link>/site/tags/</link>
+    <link>https://shklinkenberg.github.io/site/tags/</link>
     <description>Recent content in Tags on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,74 +12,74 @@
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/site/tags/academic/</link>
+      <link>https://shklinkenberg.github.io/site/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/site/tags/academic/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/site/tags/deep-learning/</link>
+      <link>https://shklinkenberg.github.io/site/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/site/tags/deep-learning/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/site/tags/demo/</link>
+      <link>https://shklinkenberg.github.io/site/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/site/tags/demo/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/site/tags/hugo/</link>
+      <link>https://shklinkenberg.github.io/site/tags/hugo/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
-      <guid>/site/tags/hugo/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>/site/tags/jekyll/</link>
+      <link>https://shklinkenberg.github.io/site/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/site/tags/jekyll/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>/site/tags/plot/</link>
+      <link>https://shklinkenberg.github.io/site/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/site/tags/plot/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/site/tags/r-markdown/</link>
+      <link>https://shklinkenberg.github.io/site/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/site/tags/r-markdown/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>/site/tags/regression/</link>
+      <link>https://shklinkenberg.github.io/site/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/site/tags/regression/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/regression/</guid>
       <description></description>
     </item>
     

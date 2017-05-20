@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Klinkenberg</title>
-    <link>/site/home/</link>
+    <link>https://shklinkenberg.github.io/site/home/</link>
     <description>Recent content in Homes on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
