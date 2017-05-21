@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ci on Klinkenberg</title>
-    <link>/site/tags/ci/</link>
+    <link>/tags/ci/</link>
     <description>Recent content in Ci on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Mon, 08 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/site/tags/ci/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ci/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CI mixed ANOVA</title>
-      <link>/site/project/cimixed/</link>
+      <link>/project/cimixed/</link>
       <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/site/project/cimixed/</guid>
+      <guid>/project/cimixed/</guid>
       <description></description>
     </item>
     

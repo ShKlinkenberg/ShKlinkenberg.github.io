@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Klinkenberg</title>
-    <link>/site/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/site/publication_types/2/" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Practical Procedure for the Construction and Reliability Analysis of Fixed-Length Tests with Randomly Drawn Test Items</title>
-      <link>/site/publication/cbalpha/</link>
+      <link>/publication/cbalpha/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/site/publication/cbalpha/</guid>
+      <guid>/publication/cbalpha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</title>
-      <link>/site/publication/math-garden/</link>
+      <link>/publication/math-garden/</link>
       <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>/site/publication/math-garden/</guid>
+      <guid>/publication/math-garden/</guid>
       <description></description>
     </item>
     

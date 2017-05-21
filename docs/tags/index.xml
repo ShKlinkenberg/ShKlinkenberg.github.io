@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Klinkenberg</title>
-    <link>/site/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/site/tags/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/site/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/site/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ci</title>
-      <link>/site/tags/ci/</link>
+      <link>/tags/ci/</link>
       <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/site/tags/ci/</guid>
+      <guid>/tags/ci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotlight</title>
-      <link>/site/tags/spotlight/</link>
+      <link>/tags/spotlight/</link>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
       
-      <guid>/site/tags/spotlight/</guid>
+      <guid>/tags/spotlight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vr</title>
-      <link>/site/tags/vr/</link>
+      <link>/tags/vr/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/site/tags/vr/</guid>
+      <guid>/tags/vr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weblectures</title>
-      <link>/site/tags/weblectures/</link>
+      <link>/tags/weblectures/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/site/tags/weblectures/</guid>
+      <guid>/tags/weblectures/</guid>
       <description></description>
     </item>
     

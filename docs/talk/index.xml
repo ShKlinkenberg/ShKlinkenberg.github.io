@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Klinkenberg</title>
-    <link>/site/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/site/talk/" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Assessment as driving force for personalised blended learning</title>
-      <link>/site/talk/2017-06-elearning/</link>
+      <link>/talk/2017-06-elearning/</link>
       <pubDate>Tue, 13 Jun 2017 13:00:00 +0000</pubDate>
       
-      <guid>/site/talk/2017-06-elearning/</guid>
+      <guid>/talk/2017-06-elearning/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using personalized learning in your class</title>
-      <link>/site/talk/2017-05-31-education-day/</link>
+      <link>/talk/2017-05-31-education-day/</link>
       <pubDate>Wed, 31 May 2017 15:00:00 +0000</pubDate>
       
-      <guid>/site/talk/2017-05-31-education-day/</guid>
+      <guid>/talk/2017-05-31-education-day/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Assessment in the BKO</title>
-      <link>/site/talk/2017-05-11-bko/</link>
+      <link>/talk/2017-05-11-bko/</link>
       <pubDate>Thu, 11 May 2017 11:00:00 +0000</pubDate>
       
-      <guid>/site/talk/2017-05-11-bko/</guid>
+      <guid>/talk/2017-05-11-bko/</guid>
       <description></description>
     </item>
     

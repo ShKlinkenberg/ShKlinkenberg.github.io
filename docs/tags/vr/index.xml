@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vr on Klinkenberg</title>
-    <link>/site/tags/vr/</link>
+    <link>/tags/vr/</link>
     <description>Recent content in Vr on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/site/tags/vr/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/vr/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>VR Lecture recordings</title>
-      <link>/site/project/vr-lectures/</link>
+      <link>/project/vr-lectures/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/site/project/vr-lectures/</guid>
+      <guid>/project/vr-lectures/</guid>
       <description>&lt;p&gt;Visit &lt;a href=&#34;https://www.surfspace.nl/artikel/1958-virtual-reality-lectures--1/&#34; target=&#34;_blank&#34;&gt;SURFspace&lt;/a&gt; for the complete blog.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>VR is so last year</title>
-      <link>/site/post/spotlight/</link>
+      <link>/post/spotlight/</link>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
       
-      <guid>/site/post/spotlight/</guid>
+      <guid>/post/spotlight/</guid>
       <description>&lt;p&gt;So, we’re done with VR for lecture recordings. Why? We just can’t see the presentation, let alone the laser pointer. VR is out. Enter the next generation of presenter tools: The Logi(tech) Spotlight. The spotlight presenter promises to boost your confidence. But let’s ignore that nonsense.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/BPrKQx1wcXQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;

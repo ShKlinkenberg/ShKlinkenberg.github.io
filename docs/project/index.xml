@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Klinkenberg</title>
-    <link>/site/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/site/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>VR Lecture recordings</title>
-      <link>/site/project/vr-lectures/</link>
+      <link>/project/vr-lectures/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/site/project/vr-lectures/</guid>
+      <guid>/project/vr-lectures/</guid>
       <description>&lt;p&gt;Visit &lt;a href=&#34;https://www.surfspace.nl/artikel/1958-virtual-reality-lectures--1/&#34; target=&#34;_blank&#34;&gt;SURFspace&lt;/a&gt; for the complete blog.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CI mixed ANOVA</title>
-      <link>/site/project/cimixed/</link>
+      <link>/project/cimixed/</link>
       <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/site/project/cimixed/</guid>
+      <guid>/project/cimixed/</guid>
       <description></description>
     </item>
     

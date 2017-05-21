@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Klinkenberg on Klinkenberg</title>
-    <link>/site/</link>
+    <link>/</link>
     <description>Recent content in Klinkenberg on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/site/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Assessment as driving force for personalised blended learning</title>
-      <link>/site/talk/2017-06-elearning/</link>
+      <link>/talk/2017-06-elearning/</link>
       <pubDate>Tue, 13 Jun 2017 13:00:00 +0000</pubDate>
       
-      <guid>/site/talk/2017-06-elearning/</guid>
+      <guid>/talk/2017-06-elearning/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using personalized learning in your class</title>
-      <link>/site/talk/2017-05-31-education-day/</link>
+      <link>/talk/2017-05-31-education-day/</link>
       <pubDate>Wed, 31 May 2017 15:00:00 +0000</pubDate>
       
-      <guid>/site/talk/2017-05-31-education-day/</guid>
+      <guid>/talk/2017-05-31-education-day/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>VR Lecture recordings</title>
-      <link>/site/project/vr-lectures/</link>
+      <link>/project/vr-lectures/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/site/project/vr-lectures/</guid>
+      <guid>/project/vr-lectures/</guid>
       <description>&lt;p&gt;Visit &lt;a href=&#34;https://www.surfspace.nl/artikel/1958-virtual-reality-lectures--1/&#34; target=&#34;_blank&#34;&gt;SURFspace&lt;/a&gt; for the complete blog.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Assessment in the BKO</title>
-      <link>/site/talk/2017-05-11-bko/</link>
+      <link>/talk/2017-05-11-bko/</link>
       <pubDate>Thu, 11 May 2017 11:00:00 +0000</pubDate>
       
-      <guid>/site/talk/2017-05-11-bko/</guid>
+      <guid>/talk/2017-05-11-bko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VR is so last year</title>
-      <link>/site/post/spotlight/</link>
+      <link>/post/spotlight/</link>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
       
-      <guid>/site/post/spotlight/</guid>
+      <guid>/post/spotlight/</guid>
       <description>&lt;p&gt;So, we’re done with VR for lecture recordings. Why? We just can’t see the presentation, let alone the laser pointer. VR is out. Enter the next generation of presenter tools: The Logi(tech) Spotlight. The spotlight presenter promises to boost your confidence. But let’s ignore that nonsense.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/BPrKQx1wcXQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -71,28 +71,28 @@
     
     <item>
       <title>A Practical Procedure for the Construction and Reliability Analysis of Fixed-Length Tests with Randomly Drawn Test Items</title>
-      <link>/site/publication/cbalpha/</link>
+      <link>/publication/cbalpha/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/site/publication/cbalpha/</guid>
+      <guid>/publication/cbalpha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI mixed ANOVA</title>
-      <link>/site/project/cimixed/</link>
+      <link>/project/cimixed/</link>
       <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/site/project/cimixed/</guid>
+      <guid>/project/cimixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</title>
-      <link>/site/publication/math-garden/</link>
+      <link>/publication/math-garden/</link>
       <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>/site/publication/math-garden/</guid>
+      <guid>/publication/math-garden/</guid>
       <description></description>
     </item>
     
