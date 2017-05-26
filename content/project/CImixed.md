@@ -13,7 +13,7 @@ image_preview = "CImixed.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["CI"]
+tags = ["stats"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://shklinkenberg.github.io/CI_for_mixed_design_ANOVA/CI_for_mixed_design_ANOVA_report.html"

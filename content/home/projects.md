@@ -10,7 +10,7 @@ subtitle = ""
 widget = "projects"
 
 # Order that this section will appear in.
-weight = 60
+weight = 70
 
 # View.
 # Customize how projects are displayed.
@@ -30,8 +30,8 @@ view = 1
   tag = ".VR"
 
 [[filter]]
-  name = "CI"
-  tag = ".CI"
+  name = "Statistics"
+  tag = ".stats"
 
 +++
 
