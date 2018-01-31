@@ -3,7 +3,7 @@ date = "2017-11-08T13:00:00"
 title = "Wegwijs in de jungle van digitale toetsvragen"
 abstract = ""
 abstract_short = ""
-event = "De onderwijsdagen 2018 - SURF"
+event = "De onderwijsdagen 2017 - SURF"
 event_url = "https://www.surfspace.nl/artikel/2243-wegwijs-in-de-jungle-van-digitale-toetsvragen/"
 location = "Rotterdam, Netherlands"
 
