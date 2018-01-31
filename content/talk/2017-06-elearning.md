@@ -1,10 +1,10 @@
 +++
-date = "2017-06-13T13:00:00"
-title = "Assessment as driving force for personalised blended learning"
+date = "2017-11-08T13:00:00"
+title = "Wegwijs in de jungle van digitale toetsvragen"
 abstract = ""
 abstract_short = ""
-event = "elearning symposium - Erasmus MC"
-event_url = "https://www.erasmusmc.nl/desideriusschool/"
+event = "De onderwijsdagen 2018 - SURF"
+event_url = "https://www.surfspace.nl/artikel/2243-wegwijs-in-de-jungle-van-digitale-toetsvragen/"
 location = "Rotterdam, Netherlands"
 
 selected = false
