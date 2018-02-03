@@ -14,12 +14,12 @@ weight = 40
 
 +++
 
-I am a teaching instructor for the following courses at the University of Amsterdam:
+### Current courses:
 
-- Scientific and Statistical Reasoning
-- Test Theory and Practice
+- [Scientific and Statistical Reasoning](http://studiegids.uva.nl/xmlpages/page/2017-2018/zoek-vak/vak/34483)
+- [Test Theory and Practice](http://studiegids.uva.nl/xmlpages/page/2017-2018/zoek-vak/vak/31855)
 
-Past courses:
+### Past courses:
 
 - Introductory statistics at the department of Psychobiology and Beta-Gamma
 - SPSS at the department of Psychology and Psychobiology
