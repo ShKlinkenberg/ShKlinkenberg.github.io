@@ -17,6 +17,7 @@ weight = 40
 ### Current courses:
 
 - [Scientific and Statistical Reasoning](http://studiegids.uva.nl/xmlpages/page/2017-2018/zoek-vak/vak/34483) <br>
+Lecture slides: [Hosted on GitHub](http://shklinkenberg.github.io/statistics-lectures/) <br>
 Evaluations: [2017-2018](https://surfdrive.surf.nl/files/index.php/s/qJAwXm1pDXQaW7M), [2016-2017](https://surfdrive.surf.nl/files/index.php/s/qAldS3Xk4E2xrsj), [2015-2016](https://surfdrive.surf.nl/files/index.php/s/TqzD5NrMnPKmxUS). [2014-2015](https://surfdrive.surf.nl/files/index.php/s/Fgz7yBFgjI6vYMH), [2013-2014](https://surfdrive.surf.nl/files/index.php/s/OkvT401iBjwrYsX)
 - [Test Theory and Practice](http://studiegids.uva.nl/xmlpages/page/2017-2018/zoek-vak/vak/31855)
 
