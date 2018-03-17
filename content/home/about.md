@@ -23,25 +23,25 @@ weight = 1
 [[education.courses]]
   course = "SKO Senior Lecturer Qualification"
   institution = "University of Amsterdam"
-  year = 2015
+#  year = 2015
   
 [[education.courses]]
   course = "BKO Lecturing Qualification"
   institution = "CNA"
-  year = 2009
+#  year = 2009
 
 [[education.courses]]
   course = "Drs. in Psychology"
   institution = "University of Amsterdam"
-  year = 2004
+#  year = 2004
 
 [[education.courses]]
   course = "Minor computer applications in social science"
   institution = "University of Amsterdam"
-  year = 2003
+#  year = 2003
  
 +++
 
 # About
 
-Sharon Klinkenberg is a senior lecturer at the department of Psychology of the University of Amsterdam. His teaching is mainly focussed on statistics and Psychological methods. Sharon is an educational innovator at the forefront of educational technology. Specialised in digital assessment, he integrates formative and summative assessment in order to personalize large scale education. His research is focussed on the validity and reliability of adaptive assessment methods and also the effectiveness of blended learning interventions.
+Sharon Klinkenberg is a senior lecturer at the department of Psychology. His teaching is mainly focussed on statistics and Psychological methods. Sharon is an educational innovator at the forefront of educational technology. Specialised in digital assessment, he integrates formative and summative assessment in order to personalize large scale education. His research is focussed on the validity and reliability of adaptive assessment methods and the effectiveness of blended learning interventions.
