@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Role of Assessment for Remediation</title>
+      <link>/talk/2019-02-19-assessment-remediation/</link>
+      <pubDate>Tue, 19 Feb 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-02-19-assessment-remediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GitHub on Rstudio</title>
       <link>/talk/2019-02-14-bds-github/</link>
       <pubDate>Thu, 14 Feb 2019 13:00:00 +0000</pubDate>
@@ -146,15 +155,6 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>/publication/cbalpha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI mixed ANOVA</title>
-      <link>/project/cimixed/</link>
-      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/project/cimixed/</guid>
       <description></description>
     </item>
     
