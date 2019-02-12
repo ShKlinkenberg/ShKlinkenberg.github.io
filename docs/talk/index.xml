@@ -8,7 +8,18 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geen flexibilisering zonder digitaal toetsen</title>
+      <link>/talk/2019-11-06-owd2018/</link>
+      <pubDate>Tue, 06 Nov 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-11-06-owd2018/</guid>
+      <description>Topic also covered by Scienceguide.nl</description>
+    </item>
     
     <item>
       <title>The Ultimate Teaching Time Savers</title>
