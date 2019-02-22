@@ -11,7 +11,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = ""
+url_slides = "https://shklinkenberg.github.io/presentations/2019-02-19_ACLA_assessment_remediation/Role_of_Assessment_for_Remediation.html#1"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
