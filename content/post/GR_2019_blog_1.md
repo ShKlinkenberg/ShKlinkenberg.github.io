@@ -14,7 +14,7 @@ caption = "EA Tutorials"
 
 It's that time of the year again. the grass is turning green and so, it's time for a new grassroots project. This time I'm going to dive into the word of 3D tracking in Adobe After Effect to create next level knowledge videos. 
 
-I was inspired by the awesome [Peter McKinnen](https://www.youtube.com/user/petermckinnon24) and his short tutorial on how to merge 3D graphics and video footage. I thought, how cool would it be to explain some statistical concepts and have it play out right in front of me on the table. Looking at what [AE Tutorials](https://www.youtube.com/channel/UCswCpVHySdNMVwIekKThGyQ) created, I could totally see this happening.
+I was inspired by the awesome [Peter McKinnon](https://www.youtube.com/user/petermckinnon24) and his short tutorial on how to merge 3D graphics and video footage. I thought, how cool would it be to explain some statistical concepts and have it play out right in front of me on the table. Looking at what [AE Tutorials](https://www.youtube.com/channel/UCswCpVHySdNMVwIekKThGyQ) created, I could totally see this happening.
 
 <div style="margin:15px 0 15px 0;">
 <iframe style="width:350px;" src="https://www.youtube.com/embed/m5_QznjzAlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
