@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Klinkenberg</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Klinkenberg</description>
+    <title>Videos on Klinkenberg</title>
+    <link>/tags/videos/</link>
+    <description>Recent content in Videos on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/videos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,24 +20,6 @@
       <guid>/project/grassroots_2019_blog_1/</guid>
       <description>It&amp;rsquo;s that time of the year again. the grass is turning green and so, it&amp;rsquo;s time for a new grassroots project. This time I&amp;rsquo;m going to dive into the word of 3D tracking in Adobe After Effect to create next level knowledge videos.
 I was inspired by the awesome Peter McKinnen and his short tutorial on how to merge 3D graphics and video footage. I thought, how cool would it be to explain some statistical concepts and have it play out right in front of me on the table.</description>
-    </item>
-    
-    <item>
-      <title>VR Lecture recordings</title>
-      <link>/project/vr-lectures/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/vr-lectures/</guid>
-      <description>Visit SURFspace for the complete blog.</description>
-    </item>
-    
-    <item>
-      <title>CI mixed ANOVA</title>
-      <link>/project/cimixed/</link>
-      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/project/cimixed/</guid>
-      <description></description>
     </item>
     
   </channel>
