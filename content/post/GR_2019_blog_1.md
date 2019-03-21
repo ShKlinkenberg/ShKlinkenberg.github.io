@@ -26,4 +26,4 @@ So, the grassroots project got approved and we're going to do this. The goal is 
 
 The process is looking fairly easy, but I reckon we'll bump into problems along the way. What we need to do is: Create some vector graphics and formula's to use in the video. In my case, I will be making them in R, exporting to PDF and layering them in illustrator. Next up is to create a storyboard. Shoot a video, and finally edit it all together in after effects.
 
-That's the plan at least. I will be doing a remake of my earlier analysis of variance videos. And if all goes well, I'll tackle the fundamentals of null hypotheses testing.
+That's the plan at least. I will be doing a remake of my [earlier](https://youtu.be/Q86DiHcuOVE) analysis of variance [videos](https://youtu.be/lZqwTzCb_0A). And if all goes well, I'll tackle the fundamentals of null hypotheses testing.
