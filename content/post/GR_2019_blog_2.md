@@ -16,7 +16,7 @@ So, it’s taken some time before I could really start this grassroot project, b
 
 Reading through the transcript, it became clear this was much to long. So, based on this I wrote a shortened script that is much more to the point.
 
-Next up, was creating the graph I want to show in the video. Writing some are code, quickly landed me the plot I wanted. In the next step I followed the [instruction that Peter Farago laid out in the video](https://youtu.be/prnmH3YVrQo) below, and fired up illustrator to import my PDF. There, adding layers was easy. But getting the right path into the correct layer was a bit of a puzzle. Turning paths on and off, showed me which vector element was what. Making it easier to identify where everyting needed to go.  
+Next up, was creating the graph I want to show in the video. Writing some R code, quickly landed me the plot I wanted. In the next step I followed the [instruction that Peter Farago laid out in the video](https://youtu.be/prnmH3YVrQo) below, and fired up illustrator to import my PDF. There, adding layers was easy. But getting the right path into the correct layer was a bit of a puzzle. Turning paths on and off, showed me which vector element was what. Making it easier to identify where everyting needed to go.  
 
 <div style="margin:15px 0 15px 0;">
 <iframe style="width:350px;" src="https://www.youtube.com/embed/prnmH3YVrQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
