@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
-    <lastBuildDate>Wed, 20 Mar 2019 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/videos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Not 3D tracking yet</title>
+      <link>/post/gr_2019_blog_2/</link>
+      <pubDate>Fri, 06 Dec 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/post/gr_2019_blog_2/</guid>
+      <description>So, it’s taken some time before I could really start this grassroot project, but I finally got the ball rolling. Looking at my own plan in my previous post I immediately went another rout. As I will base my first video on my earlier screencast on ANOVA (in Dutch), I decided to download the auto generated transcript from my YouTube channel. This gave me a rough outline with timestamps and all.</description>
+    </item>
     
     <item>
       <title>3D tracked knowledge video</title>

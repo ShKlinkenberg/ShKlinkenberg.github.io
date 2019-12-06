@@ -11,6 +11,32 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Not 3D tracking yet</title>
+      <link>/post/gr_2019_blog_2/</link>
+      <pubDate>Fri, 06 Dec 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/post/gr_2019_blog_2/</guid>
+      <description>&lt;p&gt;So, it’s taken some time before I could really start this grassroot project, but I finally got the ball rolling. Looking at my own plan in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34;&gt;previous post&lt;/a&gt; I immediately went another rout. As I will base my first video on my &lt;a href=&#34;https://youtu.be/Q86DiHcuOVE&#34; target=&#34;_blank&#34;&gt;earlier screencast on ANOVA&lt;/a&gt; (in Dutch), I decided to download the auto generated transcript from my YouTube channel. This gave me a rough outline with timestamps and all.&lt;/p&gt;
+
+&lt;p&gt;Reading through the transcript, it became clear this was much to long. So, based on this I wrote a shortened script that is much more to the point.&lt;/p&gt;
+
+&lt;p&gt;Next up, was creating the graph I want to show in the video. Writing some are code, quickly landed me the plot I wanted. In the next step I followed the &lt;a href=&#34;https://youtu.be/prnmH3YVrQo&#34; target=&#34;_blank&#34;&gt;instruction that Peter Farago laid out in the video&lt;/a&gt; below, and fired up illustrator to import my PDF. There, adding layers was easy. But getting the right path into the correct layer was a bit of a puzzle. Turning paths on and off, showed me which vector element was what. Making it easier to identify where everyting needed to go.&lt;/p&gt;
+
+&lt;div style=&#34;margin:15px 0 15px 0;&#34;&gt;
+&lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/prnmH3YVrQo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/-iXhbMjQoNU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I made a lot of mistakes along the way, but I will spare you that pain. In the final Illustrator step, a quick CMD-A selected everything. Turning all the line colors white made sure I could see the plot in After Effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/prnmH3YVrQo&#34; target=&#34;_blank&#34;&gt;Peter’s instructions&lt;/a&gt; were still very helpful as I initially forgot to convert the vector layer to shapes. Now that this is all covered, I could create a trim path to animate the individual lines. I’m now creating the animation as we speak. You can watch the preview above.&lt;/p&gt;
+
+&lt;p&gt;One of the problems with the animating is the timing. How long should each part be visible. For that, it might be easier if I first record the script and tune the animation accordingly. I will follow up on this progress in the next post.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>3D tracked knowledge video</title>
       <link>/post/gr_2019_blog_1/</link>
       <pubDate>Wed, 20 Mar 2019 10:30:00 +0000</pubDate>
@@ -156,15 +182,6 @@
       <guid>/project/vr-lectures/</guid>
       <description>&lt;p&gt;Visit &lt;a href=&#34;https://www.surfspace.nl/artikel/1958-virtual-reality-lectures--1/&#34; target=&#34;_blank&#34;&gt;SURFspace&lt;/a&gt; for the complete blog.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Role of Formative Assessment in a Blended Learning Course</title>
-      <link>/publication/formative_assessment/</link>
-      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/formative_assessment/</guid>
-      <description></description>
     </item>
     
   </channel>
