@@ -14,7 +14,7 @@ caption = "After Effects"
 
 So, it’s taken some time before I could really start this grassroot project, but I finally got the ball rolling. Looking at my own plan in my [previous post]( http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/) I immediately went another rout. As I will base my first video on my [earlier screencast on ANOVA](https://youtu.be/Q86DiHcuOVE) (in Dutch), I decided to download the auto generated transcript from my YouTube channel. This gave me a rough outline with timestamps and all.
 
-Reading through the transcript, it became clear this was much to long. So, based on this I wrote a shortened script that is much more to the point.
+Reading through the transcript, it became clear this was much too long. So, based on this I wrote a shortened script that is much more to the point.
 
 Next up, was creating the graph I want to show in the video. Writing some R code, quickly landed me the plot I wanted. In the next step I followed the [instruction that Peter Farago laid out in the video](https://youtu.be/prnmH3YVrQo) below (left), and fired up illustrator to import my PDF. There, adding layers was easy. But getting the right path into the correct layer was a bit of a puzzle. Turning paths on and off, showed me which vector element was what. Making it easier to identify where everyting needed to go.  
 
