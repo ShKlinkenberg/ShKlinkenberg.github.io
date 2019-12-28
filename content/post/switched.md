@@ -1,5 +1,5 @@
 +++
-date = "2019-012-28T14:45:00"
+date = "2019-12-28T14:45:00"
 draft = false
 tags = ["blog", "switched"]
 title = "I switched to windows!"
@@ -19,6 +19,8 @@ But the Mac was a big relief. It just worked. And, in a time where I needed to g
 And there it started to lag. As I started to get restless and wanting to update, there was no update available. So I waited, and waited, but a significant update fell short. As I wanted to stay with the small form factor, the 2019 discontinuation of the 12” model was a major disappointment. So, I stuck to my 12” until it started to show problems with charging, battery life and random quirks.
 
 A new Machine was inevitable but witch one? As the departure from the 12” would land me in a category of Macs that was plagued by keyboard issues and were not on par with today’s processing specs, the decision to switch started to loom. There was a sparkle of hope with the introduction of the 16” MacBook pro, but the keyboard and spec update stayed limited to the largest Machine of the bunch.
+
+![XPS 13](/img/xps13.jpg)
 
 So, here I am, typing this blog on a DELL XPS 13” only slightly larger than my 12” MacBook, but with an intel 10th gen CPU, 16 gigs of RAM and a 512 SSD. Throwing on a 4K touch screen with a 10% discount, costed a fraction of the price of a Mac. Though windows 10 is the real price to pay.
 

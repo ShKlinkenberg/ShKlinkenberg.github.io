@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Switched on Klinkenberg</title>
+    <link>/tags/switched/</link>
+    <description>Recent content in Switched on Klinkenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
+    <lastBuildDate>Sat, 28 Dec 2019 14:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/switched/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I switched to windows!</title>
+      <link>/post/switched/</link>
+      <pubDate>Sat, 28 Dec 2019 14:45:00 +0000</pubDate>
+      
+      <guid>/post/switched/</guid>
+      <description>#OMG it really happened. I switched to windows. After some twenty years of personal Mac use, I decided to switch. Now I’m not a complete noob to windows. I had my fair share of windows 98 trouble shooting back in the day. You know, the days where buying a new computer really meant getting a beige box with a DOS floppy, and finding a windows cd and drivers and solving al the problems associated with owning a computer.</description>
+    </item>
+    
+  </channel>
+</rss>
