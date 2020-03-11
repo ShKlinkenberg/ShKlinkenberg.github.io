@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
-    <lastBuildDate>Fri, 06 Dec 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/videos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Timing is everything</title>
+      <link>/post/gr_2019_blog_3/</link>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/gr_2019_blog_3/</guid>
+      <description>As mentioned in my previous grassroots blog, creating the animation I wanted for my 3D tracking video wasn&amp;rsquo;t that hard. This time I decided to follow my own advice and write the script first. After recording the audio in one session and trimming all the mistakes, I finally had an outline for the timing of the animation.
+By importing the audio track into after effects, I was able to place the animation in such a way that it aligned perfectly.</description>
+    </item>
     
     <item>
       <title>Not 3D tracking yet</title>

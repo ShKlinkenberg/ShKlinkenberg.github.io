@@ -11,6 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Timing is everything</title>
+      <link>/post/gr_2019_blog_3/</link>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/gr_2019_blog_3/</guid>
+      <description>&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_2/&#34; target=&#34;_blank&#34;&gt;previous grassroots blog&lt;/a&gt;, creating the animation I wanted for my 3D tracking video wasn&amp;rsquo;t that hard. This time I decided to follow my own advice and write the script first. After recording the audio in one session and trimming all the mistakes, I finally had an outline for the timing of the animation.&lt;/p&gt;
+
+&lt;p&gt;By importing the audio track into after effects, I was able to place the animation in such a way that it aligned perfectly. So I now have a synced animation that you can view in the clip below.&lt;/p&gt;
+
+&lt;div style=&#34;margin:15px 0 15px 0;&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/SN2aH8iyiVw?start=29&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now the next puzzle will be the video recording. By first recording only the audio, I essentially ruined the possibility of doing a talking-head video. So, I plan to shoot some videos of only my hands explaining the animation without showing my head. And maybe try to do a lip-sync recording for a few parts.&lt;/p&gt;
+
+&lt;p&gt;If you missed the previous posts on my grassroots project, you can &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34;&gt;find them here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>I switched to windows!</title>
       <link>/post/switched/</link>
       <pubDate>Sat, 28 Dec 2019 14:45:00 +0000</pubDate>
@@ -184,15 +204,6 @@
       <pubDate>Tue, 13 Jun 2017 13:00:00 +0000</pubDate>
       
       <guid>/talk/2017-06-13-elearning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using personalized learning in your class</title>
-      <link>/talk/2017-05-31-education-day/</link>
-      <pubDate>Wed, 31 May 2017 15:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017-05-31-education-day/</guid>
       <description></description>
     </item>
     
