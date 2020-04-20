@@ -34,11 +34,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="/post/presentation_overlay/">
 
   
 
-  <title>404 Page not found | Klinkenberg</title>
+  <title>Presentation Overlay | Klinkenberg</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -156,62 +156,134 @@
   </div>
 </nav>
 
-<div class="container">
 
-  <h1>Page not found</h1>
-  <p>Maybe you were looking for one of these?</p>
+<article class="article" itemscope itemtype="http://schema.org/Article">
 
-  <h2>Recent Posts</h2>
   
-  <ul>
-    <li><a href="/post/presentation_overlay/">Presentation Overlay</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/post/gr_2019_blog_3/">Timing is everything</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/post/switched/">I switched to windows!</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/post/gr_2019_blog_2/">Not 3D tracking yet</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/post/gr_2019_blog_1/">3D tracked knowledge video</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/post/spotlight/">VR is so last year</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/post/">Posts</a></li>
-  </ul>
+  <div class="article-header">
+    <img src="/img//headers/layers.png" class="article-banner" itemprop="image">
+    <span class="article-header-caption">Layers</span>
+  </div>
   
 
-  <h2>Recent Publications</h2>
+  <div class="article-container">
+    <h1 itemprop="name">Presentation Overlay</h1>
+    
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2020-04-20 14:45:00 &#43;0000 UTC" itemprop="datePublished">
+      Mon, Apr 20, 2020
+    </time>
+  </span>
+
   
-  <ul>
-    <li><a href="/publication/formative_assessment/">The Role of Formative Assessment in a Blended Learning Course</a></li>
-  </ul>
+
   
-  <ul>
-    <li><a href="/publication/">Publications</a></li>
-  </ul>
   
-  <ul>
-    <li><a href="/publication/cbalpha/">A Practical Procedure for the Construction and Reliability Analysis of Fixed-Length Tests with Randomly Drawn Test Items</a></li>
-  </ul>
   
-  <ul>
-    <li><a href="/publication/math-garden/">Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</a></li>
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/blog">blog</a
+    >, 
+    
+    <a href="/tags/obs">OBS</a
+    >, 
+    
+    <a href="/tags/overlay">overlay</a
+    >
+    
+  </span>
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2fpresentation_overlay%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Presentation%20Overlay&amp;url=%2fpost%2fpresentation_overlay%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fpresentation_overlay%2f&amp;title=Presentation%20Overlay"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2fpresentation_overlay%2f&amp;title=Presentation%20Overlay"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Presentation%20Overlay&amp;body=%2fpost%2fpresentation_overlay%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
   </ul>
+</div>
+
+
   
 
 </div>
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<p>So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wzMtb3vFJm4?start=2461" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 id="all-about-the-layers">All about the layers</h2>
+
+<p>To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called <a href="https://obsproject.com" target="_blank">OBS studio</a>. The three essential layers needed are, of course, the webcam middle layer, a white image background layer, and the presentation layer, which is a PowerPoint with a chroma-key (green) background.</p>
+
+<p>In OBS you need to set the webcam layer&rsquo;s opacity to 70%, and you will get a more transparent image. To add the Powerpoint overlay, <a href="https://superuser.com/questions/865094/how-can-i-view-a-powerpoint-slideshow-in-windowed-mode-ie-not-full-screen" target="_blank">set Powerpoint to windowed mode</a> and window <a href="https://youtu.be/1V9rxexjyXU?t=615" target="_blank">capture this window in OBS</a>. NerOrDie will show you all options there are available in OBS sources.</p>
+
+<p>In the final step, you just need to select a <a href="https://obsproject.com/forum/threads/preview-output-on-second-monitor.112853/" target="_blank">second monitor as output in OBS</a> and use this second monitor as input for your conferencing software like zoom, meets, or teams. Well, here you go.</p>
+
+    </div>
+  </div>
+
+</article>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="/post/gr_2019_blog_3/"><span
+      aria-hidden="true">&larr;</span> Timing is everything</a></li>
+    
+
+    
+  </ul>
+</nav>
+
+</div>
+
+<div class="article-container">
+  
+
+</div>
+
 <footer class="site-footer">
   <div class="container">
     <p class="powered-by">

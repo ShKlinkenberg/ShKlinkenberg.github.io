@@ -11,6 +11,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Presentation Overlay</title>
+      <link>/post/presentation_overlay/</link>
+      <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
+      
+      <guid>/post/presentation_overlay/</guid>
+      <description>
+
+&lt;p&gt;So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wzMtb3vFJm4?start=2461&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;all-about-the-layers&#34;&gt;All about the layers&lt;/h2&gt;
+
+&lt;p&gt;To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34;&gt;OBS studio&lt;/a&gt;. The three essential layers needed are, of course, the webcam middle layer, a white image background layer, and the presentation layer, which is a PowerPoint with a chroma-key (green) background.&lt;/p&gt;
+
+&lt;p&gt;In OBS you need to set the webcam layer&amp;rsquo;s opacity to 70%, and you will get a more transparent image. To add the Powerpoint overlay, &lt;a href=&#34;https://superuser.com/questions/865094/how-can-i-view-a-powerpoint-slideshow-in-windowed-mode-ie-not-full-screen&#34; target=&#34;_blank&#34;&gt;set Powerpoint to windowed mode&lt;/a&gt; and window &lt;a href=&#34;https://youtu.be/1V9rxexjyXU?t=615&#34; target=&#34;_blank&#34;&gt;capture this window in OBS&lt;/a&gt;. NerOrDie will show you all options there are available in OBS sources.&lt;/p&gt;
+
+&lt;p&gt;In the final step, you just need to select a &lt;a href=&#34;https://obsproject.com/forum/threads/preview-output-on-second-monitor.112853/&#34; target=&#34;_blank&#34;&gt;second monitor as output in OBS&lt;/a&gt; and use this second monitor as input for your conferencing software like zoom, meets, or teams. Well, here you go.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Timing is everything</title>
       <link>/post/gr_2019_blog_3/</link>
       <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
@@ -195,15 +217,6 @@
       <pubDate>Wed, 08 Nov 2017 13:00:00 +0000</pubDate>
       
       <guid>/talk/2017-11-08-owd2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessment as driving force for personalised blended learning</title>
-      <link>/talk/2017-06-13-elearning/</link>
-      <pubDate>Tue, 13 Jun 2017 13:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017-06-13-elearning/</guid>
       <description></description>
     </item>
     

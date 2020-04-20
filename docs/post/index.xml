@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Presentation Overlay</title>
+      <link>/post/presentation_overlay/</link>
+      <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
+      
+      <guid>/post/presentation_overlay/</guid>
+      <description>So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay.
+ All about the layers To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called OBS studio.</description>
+    </item>
+    
+    <item>
       <title>Timing is everything</title>
       <link>/post/gr_2019_blog_3/</link>
       <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
