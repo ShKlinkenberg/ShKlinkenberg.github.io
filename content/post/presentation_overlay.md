@@ -12,13 +12,15 @@ caption = "Layers"
 
 +++
 
-So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay.
+So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.
 
-<iframe width="100%" height="385px" src="https://www.youtube.com/embed/wzMtb3vFJm4?start=2461" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="385px" src="https://www.youtube.com/embed/wzMtb3vFJm4?start=124" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## All about the layers
 
 To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called [OBS studio](https://obsproject.com). The three essential layers needed are, of course, the webcam middle layer, a white image background layer, and the presentation layer, which is a PowerPoint with a chroma-key (green) background ([Download Template](http://www.klinkenberg.amsterdam/files/Chroma_Key_PowerPoint.pptx)).
+
+<!-- http://cogentstudios.com/how-to-set-opacity-obs-studio/ -->
 
 In OBS you need to set the webcam layer's opacity to 70%, and you will get a more transparent image. To add the Powerpoint overlay, [set Powerpoint to windowed mode](https://superuser.com/questions/865094/how-can-i-view-a-powerpoint-slideshow-in-windowed-mode-ie-not-full-screen) and window [capture this window in OBS](https://youtu.be/1V9rxexjyXU?t=615). Watch [this last video](https://youtu.be/1V9rxexjyXU) entirely for all the sources options available in OBS.
 
