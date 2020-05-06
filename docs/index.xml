@@ -20,7 +20,7 @@
 
 &lt;p&gt;So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.&lt;/p&gt;
 
-&lt;iframe width=&#34;100%&#34; height=&#34;385px&#34; src=&#34;https://www.youtube.com/embed/wzMtb3vFJm4?start=124&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;385px&#34; src=&#34;https://www.youtube.com/embed/wzMtb3vFJm4?start=168&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&#34;all-about-the-layers&#34;&gt;All about the layers&lt;/h2&gt;
 
@@ -28,9 +28,11 @@
 
 &lt;!-- http://cogentstudios.com/how-to-set-opacity-obs-studio/ --&gt;
 
-&lt;p&gt;In OBS you need to set the webcam layer&amp;rsquo;s opacity to 70%, and you will get a more transparent image. To add the Powerpoint overlay, &lt;a href=&#34;https://superuser.com/questions/865094/how-can-i-view-a-powerpoint-slideshow-in-windowed-mode-ie-not-full-screen&#34; target=&#34;_blank&#34;&gt;set Powerpoint to windowed mode&lt;/a&gt; and window &lt;a href=&#34;https://youtu.be/1V9rxexjyXU?t=615&#34; target=&#34;_blank&#34;&gt;capture this window in OBS&lt;/a&gt;. Watch &lt;a href=&#34;https://youtu.be/1V9rxexjyXU&#34; target=&#34;_blank&#34;&gt;this last video&lt;/a&gt; entirely for all the sources options available in OBS.&lt;/p&gt;
+&lt;p&gt;In OBS you need to set the webcam layer&amp;rsquo;s opacity to 40% by applying a a &lt;strong&gt;color key&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/-aXtar17E3o?t=64&#34; target=&#34;_blank&#34;&gt;filter&lt;/a&gt;, and you will get a more transparent image. To add the Powerpoint overlay, &lt;a href=&#34;https://superuser.com/questions/865094/how-can-i-view-a-powerpoint-slideshow-in-windowed-mode-ie-not-full-screen&#34; target=&#34;_blank&#34;&gt;set Powerpoint to windowed mode&lt;/a&gt; and window &lt;a href=&#34;https://youtu.be/1V9rxexjyXU?t=615&#34; target=&#34;_blank&#34;&gt;capture this window in OBS&lt;/a&gt;. Watch &lt;a href=&#34;https://youtu.be/1V9rxexjyXU&#34; target=&#34;_blank&#34;&gt;this last video&lt;/a&gt; entirely for all the sources options available in OBS.&lt;/p&gt;
 
 &lt;p&gt;In the final step, you just need to select a &lt;a href=&#34;https://obsproject.com/forum/threads/preview-output-on-second-monitor.112853/&#34; target=&#34;_blank&#34;&gt;second monitor as output in OBS&lt;/a&gt; and use this second monitor as input for your conferencing software like zoom, meets, or teams. Well, here you go.&lt;/p&gt;
+
+&lt;p&gt;So, am I satisfied? Nah, the text overlaying the eyes is just too distracting to me. I already experimented with using a half-width PowerPoint presentation, so you only use half of the screen. I&amp;rsquo;ll come back to that in the next post.&lt;/p&gt;
 </description>
     </item>
     
