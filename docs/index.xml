@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Back to the Mac</title>
+      <link>/post/2020-07-24-back-to-the-mac/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-07-24-back-to-the-mac/</guid>
+      <description>&lt;p&gt;After less than half a year, I already caved. Though I really tried to make this relationship work, in the end, there was just no love. Within a month of purchasing the DELL XPS 13, I already had significant regret. Not for mac craving but because a new XPS was announced. An even slicker smaller better one than the one I just got. So, initially, it was not windows that made me restless. I even invested heavily in learning the superuser tricks. Installing linux subsystem for windows, getting to know a bunch of shortcuts, and diving deep into system thingies to customize the heck out of the XPS. Setting up incremental backups and system restore points, the whole shebang.&lt;/p&gt;
+
+&lt;p&gt;All the while, having that beautiful 4K touch screen to stare at. But wait, that screen is sucking the battery dry in no time. I ended up with a DELL powerbank because the ones I oned could not output 90 Watts.&lt;/p&gt;
+
+&lt;p&gt;And then came the updates. The OCD in me wants to have an up to date system. So, I installed the first update, and the second, and they kept coming. Not just the windows updates, but also an insane amount of DELL command center updates. It just would not stop.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s when I started to play around with Linux. Trying out different distros, But I always ran into one or the other problem. I was searching for solutions to problems I didn&amp;rsquo;t have on the mac.&lt;/p&gt;
+
+&lt;p&gt;And then, out of nowhere, came the salvation. Apple updated its MacBook Pro lineup. Bringing the 13-inch model back on spec with no keyboard issues anymore. So here I am, back in my walled garden, writing this blog on a mac again.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Presentation Overlay</title>
       <link>/post/presentation_overlay/</link>
       <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
@@ -212,15 +230,6 @@
       <pubDate>Tue, 20 Feb 2018 17:00:00 +0000</pubDate>
       
       <guid>/talk/2018-02-20-ultimate-teaching-timesavers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wegwijs in de jungle van digitale toetsvragen</title>
-      <link>/talk/2017-11-08-owd2017/</link>
-      <pubDate>Wed, 08 Nov 2017 13:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017-11-08-owd2017/</guid>
       <description></description>
     </item>
     
