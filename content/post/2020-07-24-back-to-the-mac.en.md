@@ -11,7 +11,7 @@ image   = "headers/back_to_mac.png"
 caption = "MacBook Pro"
 +++
 
-After less than half a year, I already caved. Though I really tried to make this relationship work, in the end, there was just no love. Within a month of purchasing the DELL XPS 13, I already had significant regret. Not for Mac craving but because a new XPS was announced. An even slicker smaller better one than the one I just got. So, initially, it was not windows that made me restless. I even invested heavily in learning the superuser tricks. Installing linux subsystem for windows, getting to know a bunch of shortcuts, and diving deep into system thingies to customize the heck out of the XPS. Setting up incremental backups and system restore points, the whole shebang.
+Remember that time [I switched to windows](http://www.klinkenberg.amsterdam/post/switched/)? Well, after less than half a year, I already caved. Though I really tried to make this relationship work, in the end, there was just no love. Within a month of purchasing the DELL XPS 13, I already had significant regret. Not for Mac craving but because a new XPS was announced. An even slicker smaller better one than the one I just got. So, initially, it was not windows that made me restless. I even invested heavily in learning the superuser tricks. Installing linux subsystem for windows, getting to know a bunch of shortcuts, and diving deep into system thingies to customize the heck out of the XPS. Setting up incremental backups and system restore points, the whole shebang.
 
 All the while, having that beautiful 4K touch screen to stare at. But wait, that screen is sucking the battery dry in no time. I ended up with a DELL powerbank because the ones I owned could not output 90 Watts. 
 
