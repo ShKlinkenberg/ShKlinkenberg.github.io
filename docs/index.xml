@@ -153,6 +153,18 @@
     </item>
     
     <item>
+      <title>Naar een inrichtingsmodel voor flexibele en veilige toetsafname</title>
+      <link>/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</link>
+      <pubDate>Fri, 24 May 2019 15:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34;  src=&#34;https://www.youtube.com/embed/F8iGR4tILE4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Sharon Klinkenberg, voorzitter van SIG DT, startte de bijeenkomst met een droomscenario, voortbouwend op de 2e expertbijeenkomst in november 2018. Hij schetst een verdergaand droomscenario voor een student die een authentieke toets gaat maken. Stel je voor: “Je logt op een device in als student met je instellings ID, waarna een virtuele machine opstart, met daarin alleen de applicaties en bestanden die jij nodig hebt bij jouw toets. De toets start automatisch op, je werkt met de applicatie(s), levert uiteindelijk de bestanden/resultaten in en bij het afsluiten wordt een backup gemaakt van je materialen.” Dit is nu al technisch mogelijk. Maar is het schaalbaar, is er voldoende bandbreedte? Is het flexibel in de architectuur in te passen? Is het goed en flexibel koppelbaar met andere systemen, om bestanden in te leveren? En zijn de kosten beheersbaar? De vragen en antwoorden die deze droom oproept, kwamen in deze bijeenkomst aan bod met vier demo’s en daaraan gekoppelde werksessies. Deze demo&amp;rsquo;s worden verderop in dit artikel nader toegelicht.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>3D tracked knowledge video</title>
       <link>/post/gr_2019_blog_1/</link>
       <pubDate>Wed, 20 Mar 2019 10:30:00 +0000</pubDate>
@@ -234,15 +246,6 @@
       <guid>/talk/2019-11-06-owd2018/</guid>
       <description>&lt;p&gt;Topic also covered by &lt;a href=&#34;https://www.scienceguide.nl/2018/11/onderwijs-moment-plek/&#34; target=&#34;_blank&#34;&gt;Scienceguide.nl&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Blended Learning: Beyond the Hype</title>
-      <link>/talk/2018-09-18-blended-learning-beyond-the-hype/</link>
-      <pubDate>Tue, 18 Sep 2018 13:00:00 +0000</pubDate>
-      
-      <guid>/talk/2018-09-18-blended-learning-beyond-the-hype/</guid>
-      <description></description>
     </item>
     
   </channel>
