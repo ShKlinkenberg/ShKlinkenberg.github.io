@@ -11,6 +11,50 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>My Online Lecture Setup</title>
+      <link>/post/2020-08-16-lecture-setup/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-16-lecture-setup/</guid>
+      <description>
+
+&lt;p&gt;Strap in there, because this is going to be a deep dive. In a previous blog post, I already described how you could use open broadcast software (OBS) to overly a logo or presentation on your webcam feed, and switch between scenes while presenting. Based on that experience, I recently gave a two-hour online workshop taking this to the next level. The video below shows live interaction with the students. In this post, I will elaborate on how to connect all the applications and the hardware I use.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/epsqxVKkYpE?start=2224&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;As I &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac/&#34; target=&#34;_blank&#34;&gt;recently switched back to the mac&lt;/a&gt;, this post focusses on the setup for the mac only. Though it also works on windows. Sometimes even easier.&lt;/p&gt;
+
+&lt;h2 id=&#34;connecting-obs-and-zoom&#34;&gt;Connecting OBS and zoom&lt;/h2&gt;
+
+&lt;p&gt;Using OBS as the central hub for all video input means we have to get that video feed into zoom. For windows, this is easy with the &lt;a href=&#34;https://obsproject.com/forum/resources/obs-virtualcam.539/&#34; target=&#34;_blank&#34;&gt;OBS webcam plugin&lt;/a&gt;. Though on the MAC, we have to use the &lt;a href=&#34;https://obsproject.com/forum/resources/obs-ndi-newtek-ndi™-integration-into-obs-studio.528/&#34; target=&#34;_blank&#34;&gt;Network Device Interface (NDI) plugin&lt;/a&gt; to send out a video and convert that to a virtual camera, using the NDI Virtual input application, which is available in the &lt;a href=&#34;https://ndi.tv/tools/&#34; target=&#34;_blank&#34;&gt;NDITools package at NDI.tv&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While zoom initially supported virtual camera input, the current version 5.0.4 seems to break that support. Though by unsigning the zoom application, this problem can be resolved quickly. Just paste the following command in the terminal.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;codesign --remove-signature /Applications/zoom.us.app&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, we are finally ready to stream video from OBS to zoom, and at the same time, we can record or stream the OBS output in HD, which lands us at the next problem. The only audio recorded is your voice and not the questions or conversations with your students.&lt;/p&gt;
+
+&lt;p&gt;For OBS to pick up the sound from zoom, the audio needs to be redirected. For this purpose, the best application on the mac is &lt;a href=&#34;https://rogueamoeba.com/loopback/&#34; target=&#34;_blank&#34;&gt;Loopback&lt;/a&gt;. However, this will set you back $120. I tried a bunch of free alternatives, but none seemed to work consistently.&lt;/p&gt;
+
+&lt;p&gt;While this allowed me to record all the necessary audio and I could tell my students their faces would not end up online, the recordings do feel a bit eery, with student voices coming out of nowhere. To fix this problem, I added a &lt;a href=&#34;https://obsproject.com/forum/resources/spectralizer.861/&#34; target=&#34;_blank&#34;&gt;spectralizer in OBS&lt;/a&gt; to visualize the audio from my students.&lt;/p&gt;
+
+&lt;p&gt;In my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/presentation_overlay/&#34; target=&#34;_blank&#34;&gt;previous post on using OBS&lt;/a&gt;, I described using a second monitor to use as input for zoom. I recently realized this is not even needed. Because you can screen share in zoom using the same virtual camera input. Screen sharing in zoom forces the presenter mode on the students. So, you, as a teacher, are assured they are not just staring at each other.&lt;/p&gt;
+
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+
+&lt;p&gt;As I am an &lt;a href=&#34;https://www.facebook.com/119450864790538/photos/pb.119450864790538.-2207520000../121665361235755/?type=3&amp;amp;theater&#34; target=&#34;_blank&#34;&gt;award-winning amateur photographer&lt;/a&gt; :-) I have some camera gear lying around.&lt;/p&gt;
+
+&lt;p&gt;So, instead of using my laptop webcam, I connect my canon M50 camera through USB, added a continuous power source, and attached my 24mm F2 canon EF lens for a nice wide-angle. For audio, I recently switched to the RodeVideoMic NTG. Attached to the cold shoe of my camera, with a magic arm, it makes for a pretty compact recording setup. Though, the icing on the cake is the 3D printed camera mounted teleprompter, which I use with my iPhone running an extra zoom session. This way, it is easier to look straight into the camera at your students asking questions.&lt;/p&gt;
+
+&lt;p&gt;With only one USB-c hub connected to my mac, the USB from the M50 and Mic go straight into the MacBook pro. The USB-c hub also supports a network cable, which is a must to ensure an uninterrupted connection.&lt;/p&gt;
+
+&lt;h2 id=&#34;tying-it-all-together&#34;&gt;Tying it all together&lt;/h2&gt;
+
+&lt;p&gt;So, to run an online lecture, I fire up zoom on the computer and iPhone using the same account. iPhone in the teleprompter with all notifications and audio video turned off. I set the &amp;ldquo;starting in 5 minutes scene&amp;rdquo;, turn on screen sharing from 2nd camera (advanced tab) and hit record in OBS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Back to the Mac</title>
       <link>/post/2020-07-24-back-to-the-mac/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
@@ -236,16 +280,6 @@
       
       <guid>/talk/2018-11-13-assessment-mobile/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Geen flexibilisering zonder digitaal toetsen</title>
-      <link>/talk/2019-11-06-owd2018/</link>
-      <pubDate>Tue, 06 Nov 2018 13:00:00 +0000</pubDate>
-      
-      <guid>/talk/2019-11-06-owd2018/</guid>
-      <description>&lt;p&gt;Topic also covered by &lt;a href=&#34;https://www.scienceguide.nl/2018/11/onderwijs-moment-plek/&#34; target=&#34;_blank&#34;&gt;Scienceguide.nl&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

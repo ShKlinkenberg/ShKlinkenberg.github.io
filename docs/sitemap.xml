@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/2020-08-16-lecture-setup/</loc>
+      <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2020-07-24-back-to-the-mac/</loc>
       <lastmod>2020-07-24T00:00:00+00:00</lastmod>
     </url>
@@ -342,6 +351,16 @@
     
     <url>
     
+      <loc>/tags/lecture/</loc>
+      <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/mac/</loc>
       <lastmod>2020-07-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -353,7 +372,17 @@
     <url>
     
       <loc>/tags/obs/</loc>
-      <lastmod>2020-04-20T14:45:00+00:00</lastmod>
+      <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/online/</loc>
+      <lastmod>2020-08-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

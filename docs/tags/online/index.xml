@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Obs on Klinkenberg</title>
-    <link>/tags/obs/</link>
-    <description>Recent content in Obs on Klinkenberg</description>
+    <title>Online on Klinkenberg</title>
+    <link>/tags/online/</link>
+    <description>Recent content in Online on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/obs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/online/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>/post/2020-08-16-lecture-setup/</guid>
       <description>Strap in there, because this is going to be a deep dive. In a previous blog post, I already described how you could use open broadcast software (OBS) to overly a logo or presentation on your webcam feed, and switch between scenes while presenting. Based on that experience, I recently gave a two-hour online workshop taking this to the next level. The video below shows live interaction with the students.</description>
-    </item>
-    
-    <item>
-      <title>Presentation Overlay</title>
-      <link>/post/presentation_overlay/</link>
-      <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
-      
-      <guid>/post/presentation_overlay/</guid>
-      <description>So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.
- All about the layers To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called OBS studio.</description>
     </item>
     
   </channel>
