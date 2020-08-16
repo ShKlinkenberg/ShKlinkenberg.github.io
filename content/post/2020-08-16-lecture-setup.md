@@ -13,9 +13,11 @@ caption = "Application Connections"
 
 Strap in there, because this is going to be a deep dive. In a previous blog post, I already described how you could use open broadcast software (OBS) to overly a logo or presentation on your webcam feed, and switch between scenes while presenting. Based on that experience, I recently gave a two-hour online workshop taking this to the next level. The video below shows live interaction with the students. In this post, I will elaborate on how to connect all the applications and the hardware I use.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epsqxVKkYpE?start=2224" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415"   src="https://www.youtube.com/embed/epsqxVKkYpE?start=2224" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As I [recently switched back to the mac](http://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac/), this post focusses on the setup for the mac only. Though it also works on windows. Sometimes even easier.
+
+![Camera Setup](/img/camera.png)
 
 ## Connecting OBS and zoom
 
@@ -38,6 +40,8 @@ In my [previous post on using OBS](http://www.klinkenberg.amsterdam/post/present
 As I am an [award-winning amateur photographer](https://www.facebook.com/119450864790538/photos/pb.119450864790538.-2207520000../121665361235755/?type=3&theater) :-) I have some camera gear lying around.
 
 So, instead of using my laptop webcam, I connect my canon M50 camera through USB, added a continuous power source, and attached my 24mm F2 canon EF lens for a nice wide-angle. For audio, I recently switched to the RodeVideoMic NTG. Attached to the cold shoe of my camera, with a magic arm, it makes for a pretty compact recording setup. Though, the icing on the cake is the 3D printed camera mounted teleprompter, which I use with my iPhone running an extra zoom session. This way, it is easier to look straight into the camera at your students asking questions.
+
+![USB-C Hub](/img/hub.png)
 
 With only one USB-c hub connected to my mac, the USB from the M50 and Mic go straight into the MacBook pro. The USB-c hub also supports a network cable, which is a must to ensure an uninterrupted connection.
 
