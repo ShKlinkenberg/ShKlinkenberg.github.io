@@ -19,7 +19,7 @@ As I [recently switched back to the mac](http://www.klinkenberg.amsterdam/post/2
 
 ![Camera Setup](/img/camera.png)
 
-## Connecting OBS and zoom
+## Connecting OBS to zoom
 
 Using OBS as the central hub for all video input means we have to get that video feed into zoom. For windows, this is easy with the [OBS webcam plugin](https://obsproject.com/forum/resources/obs-virtualcam.539/). Though on the MAC, we have to use the [Network Device Interface (NDI) plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi™-integration-into-obs-studio.528/) to send out a video and convert that to a virtual camera, using the NDI Virtual input application, which is available in the [NDITools package at NDI.tv](https://ndi.tv/tools/).
 
