@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Lecture</title>
+      <link>/tags/lecture/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mac</title>
       <link>/tags/mac/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
@@ -51,9 +60,18 @@
     <item>
       <title>Obs</title>
       <link>/tags/obs/</link>
-      <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/obs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>/tags/online/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/online/</guid>
       <description></description>
     </item>
     

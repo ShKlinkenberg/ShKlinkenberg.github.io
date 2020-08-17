@@ -13,6 +13,34 @@
     
     
     <item>
+      <title>Workflow Digitaal Toetsen</title>
+      <link>/talk/2020-06-19-workshop-using-r/</link>
+      <pubDate>Tue, 07 Jul 2020 16:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020-06-19-workshop-using-r/</guid>
+      <description>Duurzaam en robuuste inrichting van het digitale toetsproces.
+Waar digitaal toetsen een paar maanden geleden nog slechts een optie was, is het nu plots een noodzaak geworden. Voor die afdelingen die het digitaal toetsen nog niet omarmt hadden kan dit behoorlijk overweldigend zijn. Nu de plannen voor het komend studiejaar gemaakt worden lijkt het ons het moment om met elkaar na te denken hoe met name digitale tentaminering idealiter ingeregeld zou moeten worden.</description>
+    </item>
+    
+    <item>
+      <title>Online workshop: Introduction to R, Rstudio, Rstudio Cloud and Rmarkdown</title>
+      <link>/talk/2020-07-07-digital-assessment-workflow/</link>
+      <pubDate>Fri, 19 Jun 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020-07-07-digital-assessment-workflow/</guid>
+      <description>In this workshop, we will dive into using Rmarkdown for presentations and reproducible research. We will use Rstudio cloud for education. At the end of this workshop, you will have a basic understanding of these tools and be able to apply it in your own research and courses.</description>
+    </item>
+    
+    <item>
+      <title>Naar een inrichtingsmodel voor flexibele en veilige toetsafname</title>
+      <link>/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</link>
+      <pubDate>Fri, 24 May 2019 15:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</guid>
+      <description>Sharon Klinkenberg, voorzitter van SIG DT, startte de bijeenkomst met een droomscenario, voortbouwend op de 2e expertbijeenkomst in november 2018. Hij schetst een verdergaand droomscenario voor een student die een authentieke toets gaat maken. Stel je voor: “Je logt op een device in als student met je instellings ID, waarna een virtuele machine opstart, met daarin alleen de applicaties en bestanden die jij nodig hebt bij jouw toets. De toets start automatisch op, je werkt met de applicatie(s), levert uiteindelijk de bestanden/resultaten in en bij het afsluiten wordt een backup gemaakt van je materialen.</description>
+    </item>
+    
+    <item>
       <title>De weg naar Digitaal Toegankelijk Toetsen</title>
       <link>/talk/2019-03-14-ntt/</link>
       <pubDate>Thu, 14 Mar 2019 10:00:00 +0000</pubDate>

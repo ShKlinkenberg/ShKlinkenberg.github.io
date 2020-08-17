@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>My Online Lecture Setup</title>
+      <link>/post/2020-08-16-lecture-setup/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-16-lecture-setup/</guid>
+      <description>Strap in there, because this is going to be a deep dive. In a previous blog post, I already described how you could use open broadcast software (OBS) to overly a logo or presentation on your webcam feed, and switch between scenes while presenting. Based on that experience, I recently gave a two-hour online workshop taking this to the next level. The video below shows live interaction with the students.</description>
+    </item>
+    
+    <item>
       <title>Back to the Mac</title>
       <link>/post/2020-07-24-back-to-the-mac/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
