@@ -1,5 +1,5 @@
 # baseurl = "https://shklinkenberg.github.io/"
-baseurl = "www.klinkenberg.amsterdam"
+baseurl = "https://www.klinkenberg.amsterdam/"
 title = "Klinkenberg"
 copyright = "&copy; 2016 Sharon Klinkenberg"
 relativeurls = false

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Klinkenberg</title>
-    <link>www.klinkenberg.amsterdam/publication/</link>
+    <link>https://www.klinkenberg.amsterdam/publication/</link>
     <description>Recent content in Publications on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.klinkenberg.amsterdam/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.klinkenberg.amsterdam/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Role of Formative Assessment in a Blended Learning Course</title>
-      <link>www.klinkenberg.amsterdam/publication/formative_assessment/</link>
+      <link>https://www.klinkenberg.amsterdam/publication/formative_assessment/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/publication/formative_assessment/</guid>
+      <guid>https://www.klinkenberg.amsterdam/publication/formative_assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Practical Procedure for the Construction and Reliability Analysis of Fixed-Length Tests with Randomly Drawn Test Items</title>
-      <link>www.klinkenberg.amsterdam/publication/cbalpha/</link>
+      <link>https://www.klinkenberg.amsterdam/publication/cbalpha/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/publication/cbalpha/</guid>
+      <guid>https://www.klinkenberg.amsterdam/publication/cbalpha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</title>
-      <link>www.klinkenberg.amsterdam/publication/math-garden/</link>
+      <link>https://www.klinkenberg.amsterdam/publication/math-garden/</link>
       <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/publication/math-garden/</guid>
+      <guid>https://www.klinkenberg.amsterdam/publication/math-garden/</guid>
       <description></description>
     </item>
     

@@ -2,159 +2,159 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Klinkenberg</title>
-    <link>www.klinkenberg.amsterdam/talk/</link>
+    <link>https://www.klinkenberg.amsterdam/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.klinkenberg.amsterdam/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.klinkenberg.amsterdam/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Workflow Digitaal Toetsen</title>
-      <link>www.klinkenberg.amsterdam/talk/2020-06-19-workshop-using-r/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2020-06-19-workshop-using-r/</link>
       <pubDate>Tue, 07 Jul 2020 16:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2020-06-19-workshop-using-r/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2020-06-19-workshop-using-r/</guid>
       <description>Duurzaam en robuuste inrichting van het digitale toetsproces.
 Waar digitaal toetsen een paar maanden geleden nog slechts een optie was, is het nu plots een noodzaak geworden. Voor die afdelingen die het digitaal toetsen nog niet omarmt hadden kan dit behoorlijk overweldigend zijn. Nu de plannen voor het komend studiejaar gemaakt worden lijkt het ons het moment om met elkaar na te denken hoe met name digitale tentaminering idealiter ingeregeld zou moeten worden.</description>
     </item>
     
     <item>
       <title>Online workshop: Introduction to R, Rstudio, Rstudio Cloud and Rmarkdown</title>
-      <link>www.klinkenberg.amsterdam/talk/2020-07-07-digital-assessment-workflow/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2020-07-07-digital-assessment-workflow/</link>
       <pubDate>Fri, 19 Jun 2020 15:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2020-07-07-digital-assessment-workflow/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2020-07-07-digital-assessment-workflow/</guid>
       <description>In this workshop, we will dive into using Rmarkdown for presentations and reproducible research. We will use Rstudio cloud for education. At the end of this workshop, you will have a basic understanding of these tools and be able to apply it in your own research and courses.</description>
     </item>
     
     <item>
       <title>Naar een inrichtingsmodel voor flexibele en veilige toetsafname</title>
-      <link>www.klinkenberg.amsterdam/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</link>
       <pubDate>Fri, 24 May 2019 15:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</guid>
       <description>Sharon Klinkenberg, voorzitter van SIG DT, startte de bijeenkomst met een droomscenario, voortbouwend op de 2e expertbijeenkomst in november 2018. Hij schetst een verdergaand droomscenario voor een student die een authentieke toets gaat maken. Stel je voor: “Je logt op een device in als student met je instellings ID, waarna een virtuele machine opstart, met daarin alleen de applicaties en bestanden die jij nodig hebt bij jouw toets. De toets start automatisch op, je werkt met de applicatie(s), levert uiteindelijk de bestanden/resultaten in en bij het afsluiten wordt een backup gemaakt van je materialen.</description>
     </item>
     
     <item>
       <title>De weg naar Digitaal Toegankelijk Toetsen</title>
-      <link>www.klinkenberg.amsterdam/talk/2019-03-14-ntt/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2019-03-14-ntt/</link>
       <pubDate>Thu, 14 Mar 2019 10:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2019-03-14-ntt/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2019-03-14-ntt/</guid>
       <description>In this talk we discussed the state of large scale digital assessment in higher education and what is needed to facilitate accessibility. The main take away, first make sure you have an established infrastructure for regular digital assessment and build your accessibility layer on top of that.
 My challenge to the National network on Accessibility Assessment: Write a model policy memorandum which outlines the needs and course of action to facilitate accessible digital assessment.</description>
     </item>
     
     <item>
       <title>Role of Assessment for Remediation</title>
-      <link>www.klinkenberg.amsterdam/talk/2019-02-19-assessment-remediation/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2019-02-19-assessment-remediation/</link>
       <pubDate>Tue, 19 Feb 2019 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2019-02-19-assessment-remediation/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2019-02-19-assessment-remediation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub on Rstudio</title>
-      <link>www.klinkenberg.amsterdam/talk/2019-02-14-bds-github/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2019-02-14-bds-github/</link>
       <pubDate>Thu, 14 Feb 2019 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2019-02-14-bds-github/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2019-02-14-bds-github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical basis for experimentation</title>
-      <link>www.klinkenberg.amsterdam/talk/2019-01-07-stat-basis-exp/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2019-01-07-stat-basis-exp/</link>
       <pubDate>Mon, 07 Jan 2019 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2019-01-07-stat-basis-exp/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2019-01-07-stat-basis-exp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expertbijeenkomst Veilig en veelzijdig toetsen op mobiele apparaten</title>
-      <link>www.klinkenberg.amsterdam/talk/2018-11-13-assessment-mobile/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2018-11-13-assessment-mobile/</link>
       <pubDate>Tue, 13 Nov 2018 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2018-11-13-assessment-mobile/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2018-11-13-assessment-mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geen flexibilisering zonder digitaal toetsen</title>
-      <link>www.klinkenberg.amsterdam/talk/2019-11-06-owd2018/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2019-11-06-owd2018/</link>
       <pubDate>Tue, 06 Nov 2018 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2019-11-06-owd2018/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2019-11-06-owd2018/</guid>
       <description>Topic also covered by Scienceguide.nl</description>
     </item>
     
     <item>
       <title>Blended Learning: Beyond the Hype</title>
-      <link>www.klinkenberg.amsterdam/talk/2018-09-18-blended-learning-beyond-the-hype/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2018-09-18-blended-learning-beyond-the-hype/</link>
       <pubDate>Tue, 18 Sep 2018 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2018-09-18-blended-learning-beyond-the-hype/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2018-09-18-blended-learning-beyond-the-hype/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blended M&amp;T</title>
-      <link>www.klinkenberg.amsterdam/talk/2018-06-12-blended-m-t/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2018-06-12-blended-m-t/</link>
       <pubDate>Tue, 12 Jun 2018 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2018-06-12-blended-m-t/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2018-06-12-blended-m-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Ultimate Teaching Time Savers</title>
-      <link>www.klinkenberg.amsterdam/talk/2018-02-20-ultimate-teaching-timesavers/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2018-02-20-ultimate-teaching-timesavers/</link>
       <pubDate>Tue, 20 Feb 2018 17:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2018-02-20-ultimate-teaching-timesavers/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2018-02-20-ultimate-teaching-timesavers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wegwijs in de jungle van digitale toetsvragen</title>
-      <link>www.klinkenberg.amsterdam/talk/2017-11-08-owd2017/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2017-11-08-owd2017/</link>
       <pubDate>Wed, 08 Nov 2017 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2017-11-08-owd2017/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2017-11-08-owd2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment as driving force for personalised blended learning</title>
-      <link>www.klinkenberg.amsterdam/talk/2017-06-13-elearning/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2017-06-13-elearning/</link>
       <pubDate>Tue, 13 Jun 2017 13:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2017-06-13-elearning/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2017-06-13-elearning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using personalized learning in your class</title>
-      <link>www.klinkenberg.amsterdam/talk/2017-05-31-education-day/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2017-05-31-education-day/</link>
       <pubDate>Wed, 31 May 2017 15:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2017-05-31-education-day/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2017-05-31-education-day/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment in the BKO</title>
-      <link>www.klinkenberg.amsterdam/talk/2017-05-11-bko/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/2017-05-11-bko/</link>
       <pubDate>Thu, 11 May 2017 11:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/talk/2017-05-11-bko/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/2017-05-11-bko/</guid>
       <description></description>
     </item>
     

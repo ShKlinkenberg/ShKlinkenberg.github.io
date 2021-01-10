@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Live on Klinkenberg</title>
-    <link>www.klinkenberg.amsterdam/tags/live/</link>
+    <link>https://www.klinkenberg.amsterdam/tags/live/</link>
     <description>Recent content in Live on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.klinkenberg.amsterdam/tags/live/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.klinkenberg.amsterdam/tags/live/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Live Online Lecturing</title>
-      <link>www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</link>
+      <link>https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</guid>
+      <guid>https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</guid>
       <description>I have been teaching a large scale course amidst the pandemic. In this post, I want to share my experiences with live lecturing online.
 As the course has been around for quite some time, we had the lecture recordings of previous years at our disposal. Though simply providing these recordings would have been an easy solution, it did not feel right to throw this over the fence and call it a day.</description>
     </item>
