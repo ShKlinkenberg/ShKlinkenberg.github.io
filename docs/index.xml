@@ -11,6 +11,44 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Live Online Lecturering</title>
+      <link>https://shklinkenberg.github.io/post/2021-01-10-online-lecture/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shklinkenberg.github.io/post/2021-01-10-online-lecture/</guid>
+      <description>&lt;p&gt;I have been teaching two large scale courses amidst the pandemic. In this post, I want to share my experiences with lecturing online. First off, my classes started in September, so I had quite some time to prepare.&lt;/p&gt;
+
+&lt;p&gt;As the courses have been around for quite some time, we had the lecture recordings of previous years at our disposal. Though simply providing these recordings would have been an easy solution, it did not feel right to throw this over the fence and call it a day. To me, It felt like a signal to students that they could just figure it all out on their own. So the plan arose to provide live lectures. Spending way too many hours in zoom from March to June gave us the confidence to pull this off.&lt;/p&gt;
+
+&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/&#34; target=&#34;_blank&#34;&gt;previous blog&lt;/a&gt;, I used &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34;&gt;OBS&lt;/a&gt; as my central hub. Though the whole process has become much more straightforward with the new OBS virtual webcam feature. Just hit the start virtual webcam button, and you can use it in any video conferencing tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/img/desk.png&#34; alt=&#34;Desk&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As can be seen from the picture above, I teach from my kids&amp;rsquo; bedroom, armed with a couple of NERF&amp;rsquo;s. I use apple&amp;rsquo;s &lt;a href=&#34;https://www.imore.com/how-use-sidecar-your-mac-and-ipad&#34; target=&#34;_blank&#34;&gt;Sidecar&lt;/a&gt; to use my iPad as a second monitor, &lt;a href=&#34;https://www.smallrig.com/smallrig-multi-functional-crab-shaped-clamp-with-ballhead-magic-arm-2164.html&#34; target=&#34;_blank&#34;&gt;clamped&lt;/a&gt; to a shelf with a &lt;a href=&#34;https://joby.com/be-en/griptight-pro-tablet-jb01395-config/&#34; target=&#34;_blank&#34;&gt;JOBI tablet grip&lt;/a&gt;. Placed at eye level at the right side of my camera, it matches the scene when I look at the screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/img/screen_grab.png&#34; alt=&#34;Screen grab&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My camera has a cheap plastic teleprompter mounted. With my iPhone, I also log into zoom. This means I can see my presentation when I speak, see my students when they ask questions, and Look straight into the camera.&lt;/p&gt;
+
+&lt;p&gt;For audio, I use the amazingly versatile &lt;a href=&#34;https://www.rode.com/microphones/videomicntg&#34; target=&#34;_blank&#34;&gt;RØDE VideoMic NTG&lt;/a&gt;. Furthermore, the &lt;a href=&#34;https://www.elgato.com/en/gaming/stream-deck-mini&#34; target=&#34;_blank&#34;&gt;Stream Deck&lt;/a&gt; makes tactile scene switching a breeze. So, without looking away from the camera, I can easily change the scene.&lt;/p&gt;
+
+&lt;p&gt;Speaking of scenes, I essentially have two. One is a &lt;a href=&#34;https://www.studiobinder.com/blog/types-of-camera-shot-angles-in-film/#shoulder-level-shot&#34; target=&#34;_blank&#34;&gt;shoulder level shot&lt;/a&gt;, and the second is a side by side shot with about two-third desktop and one-third camera. Additionally, I have a &amp;ldquo;starting in 5 minutes&amp;rdquo; and a &amp;ldquo;Right Back&amp;rdquo; scene. During the break, I actually step out and get a cup of coffee.&lt;/p&gt;
+
+&lt;p&gt;Looking at the monitor, you can see my desktop layout. I have OBS running at the right side and on the left bottom, the zoom chat and mute all button. With at least 150 students in a session, I sometimes have to mute all, for unintended loud noises. The top left has the YouTube Livestream panel. Yes, I stream the entire session to YouTube, where students who cannot attend the zoom session can watch the lecture. Students that are constrained by timezones can view the lecture afterward on YouTube. Though some only watch the YouTube lecture at double speed.&lt;/p&gt;
+
+&lt;p&gt;The web lecture recordings from the previous course serve as a backup. This served us well, for we had just a few incidents where my internet service provider had an outage. Being logged in through my iPhone proved to be very useful in these cases. Because I was still connected to students, I could tell them what was going on. And in one case, even continued my lecture on my phone.&lt;/p&gt;
+
+&lt;p&gt;As for the most important question, did our students actually enjoy this type of online lecture. Well, see for yourself in the video below.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/d-hs6LPXtJ8?start=6286&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You can find all my lectures on the following &lt;a href=&#34;https://youtube.com/playlist?list=PL5Zp3a0DklNyQlBF9MYorFzNlXxL5iDb-&#34; target=&#34;_blank&#34;&gt;YouTube playlist&lt;/a&gt;. Looking at the time indication, you can see that my classes are about two hours long. I recently came across some articles stating that this is way too long for students to retain their concentration. Though I think we should not underestimate our students.&lt;/p&gt;
+
+&lt;p&gt;Apart from these lectures, our students attend &lt;a href=&#34;https://youtu.be/9KxgKDZxKr8?t=847&#34; target=&#34;_blank&#34;&gt;two-hour tutorial sessions&lt;/a&gt; and had weekly assignments. So with the help of our outstanding tutors, I think we managed to pull off a pretty amazing online course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My Online Lecture Setup</title>
       <link>https://shklinkenberg.github.io/post/2020-08-16-lecture-setup/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
@@ -274,15 +312,6 @@
       <pubDate>Mon, 07 Jan 2019 13:00:00 +0000</pubDate>
       
       <guid>https://shklinkenberg.github.io/talk/2019-01-07-stat-basis-exp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expertbijeenkomst Veilig en veelzijdig toetsen op mobiele apparaten</title>
-      <link>https://shklinkenberg.github.io/talk/2018-11-13-assessment-mobile/</link>
-      <pubDate>Tue, 13 Nov 2018 13:00:00 +0000</pubDate>
-      
-      <guid>https://shklinkenberg.github.io/talk/2018-11-13-assessment-mobile/</guid>
       <description></description>
     </item>
     
