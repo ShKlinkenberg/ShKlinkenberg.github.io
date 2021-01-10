@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/site/publication/</link>
+    <link>https://shklinkenberg.github.io/publication/</link>
     <description>Recent content in Publications on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/site/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Role of Formative Assessment in a Blended Learning Course</title>
-      <link>https://shklinkenberg.github.io/site/publication/formative_assessment/</link>
+      <link>https://shklinkenberg.github.io/publication/formative_assessment/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/publication/formative_assessment/</guid>
+      <guid>https://shklinkenberg.github.io/publication/formative_assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Practical Procedure for the Construction and Reliability Analysis of Fixed-Length Tests with Randomly Drawn Test Items</title>
-      <link>https://shklinkenberg.github.io/site/publication/cbalpha/</link>
+      <link>https://shklinkenberg.github.io/publication/cbalpha/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/publication/cbalpha/</guid>
+      <guid>https://shklinkenberg.github.io/publication/cbalpha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</title>
-      <link>https://shklinkenberg.github.io/site/publication/math-garden/</link>
+      <link>https://shklinkenberg.github.io/publication/math-garden/</link>
       <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/publication/math-garden/</guid>
+      <guid>https://shklinkenberg.github.io/publication/math-garden/</guid>
       <description></description>
     </item>
     

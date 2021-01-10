@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Klinkenberg on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/site/</link>
+    <link>https://shklinkenberg.github.io/</link>
     <description>Recent content in Klinkenberg on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/site/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Live Online Lecturing</title>
-      <link>https://shklinkenberg.github.io/site/post/2021-01-10-online-lecture/</link>
+      <link>https://shklinkenberg.github.io/post/2021-01-10-online-lecture/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/2021-01-10-online-lecture/</guid>
+      <guid>https://shklinkenberg.github.io/post/2021-01-10-online-lecture/</guid>
       <description>&lt;p&gt;I have been teaching a large scale course amidst the pandemic. In this post, I want to share my experiences with live lecturing online.&lt;/p&gt;
 
 &lt;p&gt;As the course has been around for quite some time, we had the lecture recordings of previous years at our disposal. Though simply providing these recordings would have been an easy solution, it did not feel right to throw this over the fence and call it a day. To me, It felt like a signal to students that they could just figure it all out on their own. So the plan arose to provide live lectures. Spending way too many hours in zoom from March to June gave us the confidence to pull this off.&lt;/p&gt;
 
 &lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/&#34; target=&#34;_blank&#34;&gt;previous blog&lt;/a&gt;, I used &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34;&gt;OBS&lt;/a&gt; as my central hub. Though the whole process has become much more straightforward with the new OBS virtual webcam feature. Just hit the start virtual webcam button, and you can use it in any video conferencing tool.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/site/img/desk.png&#34; alt=&#34;Desk&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/img/desk.png&#34; alt=&#34;Desk&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As can be seen from the picture above, I teach from my kids&amp;rsquo; bedroom, armed with a couple of NERF&amp;rsquo;s. I use apple&amp;rsquo;s &lt;a href=&#34;https://www.imore.com/how-use-sidecar-your-mac-and-ipad&#34; target=&#34;_blank&#34;&gt;Sidecar&lt;/a&gt; to use my iPad as a second monitor, &lt;a href=&#34;https://www.smallrig.com/smallrig-multi-functional-crab-shaped-clamp-with-ballhead-magic-arm-2164.html&#34; target=&#34;_blank&#34;&gt;clamped&lt;/a&gt; to a shelf with a &lt;a href=&#34;https://joby.com/be-en/griptight-pro-tablet-jb01395-config/&#34; target=&#34;_blank&#34;&gt;JOBI tablet grip&lt;/a&gt;. Placed at eye level to the right of &lt;a href=&#34;https://www.canon.nl/cameras/eos-m50/&#34; target=&#34;_blank&#34;&gt;my camera&lt;/a&gt;, it matches the scene when I look at the screen.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/site/img/screen_grab.png&#34; alt=&#34;Screen grab&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/img/screen_grab.png&#34; alt=&#34;Screen grab&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My camera has a cheap plastic teleprompter mounted. With my iPhone logged into zoom. This lets me see my presentation when I speak, see my students when they ask questions, and Look straight into the camera.&lt;/p&gt;
 
@@ -48,10 +48,10 @@
     
     <item>
       <title>My Online Lecture Setup</title>
-      <link>https://shklinkenberg.github.io/site/post/2020-08-16-lecture-setup/</link>
+      <link>https://shklinkenberg.github.io/post/2020-08-16-lecture-setup/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/2020-08-16-lecture-setup/</guid>
+      <guid>https://shklinkenberg.github.io/post/2020-08-16-lecture-setup/</guid>
       <description>
 
 &lt;p&gt;Strap in there, because this is going to be a deep dive. In a previous blog post, I already described how you could use open broadcast software (OBS) to overly a logo or presentation on your webcam feed, and switch between scenes while presenting. Based on that experience, I recently gave a two-hour online workshop taking this to the next level. The video below shows live interaction with the students. In this post, I will elaborate on how to connect all the applications and the hardware I use.&lt;/p&gt;
@@ -60,7 +60,7 @@
 
 &lt;p&gt;As I &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac/&#34; target=&#34;_blank&#34;&gt;recently switched back to the mac&lt;/a&gt;, this post focusses on the setup for the mac only. Though it also works on windows. Sometimes even easier.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/site/img/camera.png&#34; alt=&#34;Camera Setup&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/img/camera.png&#34; alt=&#34;Camera Setup&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;connecting-obs-to-zoom&#34;&gt;Connecting OBS to zoom&lt;/h2&gt;
 
@@ -84,7 +84,7 @@
 
 &lt;p&gt;So, instead of using my laptop webcam, I connect my canon M50 camera through USB, added a continuous power source, and attached my 24mm F2 canon EF lens for a nice wide-angle. For audio, I recently switched to the RodeVideoMic NTG. Attached to the cold shoe of my camera, with a magic arm, it makes for a pretty compact recording setup. Though, the icing on the cake is the 3D printed camera mounted teleprompter, which I use with my iPhone running an extra zoom session. This way, it is easier to look straight into the camera at your students asking questions.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/site/img/hub.png&#34; alt=&#34;USB-C Hub&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/img/hub.png&#34; alt=&#34;USB-C Hub&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;With only one USB-c hub connected to my mac, the USB from the M50 and Mic go straight into the MacBook pro. The USB-c hub also supports a network cable, which is a must to ensure an uninterrupted connection.&lt;/p&gt;
 
@@ -96,17 +96,17 @@
     
     <item>
       <title>Back to the Mac</title>
-      <link>https://shklinkenberg.github.io/site/post/2020-07-24-back-to-the-mac/</link>
+      <link>https://shklinkenberg.github.io/post/2020-07-24-back-to-the-mac/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/2020-07-24-back-to-the-mac/</guid>
+      <guid>https://shklinkenberg.github.io/post/2020-07-24-back-to-the-mac/</guid>
       <description>&lt;p&gt;Remember that time &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/switched/&#34; target=&#34;_blank&#34;&gt;I switched to windows&lt;/a&gt;? Well, after less than half a year, I already caved. Though I really tried to make this relationship work, in the end, there was just no love. Within a month of purchasing the DELL XPS 13, I already had significant regret. Not for Mac craving but because a new XPS was announced. An even slicker smaller better one than the one I just got. So, initially, it was not windows that made me restless. I even invested heavily in learning the superuser tricks. Installing linux subsystem for windows, getting to know a bunch of shortcuts, and diving deep into system thingies to customize the heck out of the XPS. Setting up incremental backups and system restore points, the whole shebang.&lt;/p&gt;
 
 &lt;p&gt;All the while, having that beautiful 4K touch screen to stare at. But wait, that screen is sucking the battery dry in no time. I ended up with a DELL powerbank because the ones I owned could not output 90 Watts.&lt;/p&gt;
 
 &lt;p&gt;And then came the updates. The OCD in me wants to have an up to date system. So, I installed the first update, and the second, and they kept coming. Not just the windows updates, but also an insane amount of DELL command center updates. It just would not stop.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/site/img/back_to_mac_2.png&#34; alt=&#34;MacBook Pro&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/img/back_to_mac_2.png&#34; alt=&#34;MacBook Pro&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;That&amp;rsquo;s when I started to play around with Linux. Trying out different distros, but I always ran into one or the other problem. I was searching for solutions to problems I didn&amp;rsquo;t have on the Mac.&lt;/p&gt;
 
@@ -116,10 +116,10 @@
     
     <item>
       <title>Workflow Digitaal Toetsen</title>
-      <link>https://shklinkenberg.github.io/site/talk/2020-06-19-workshop-using-r/</link>
+      <link>https://shklinkenberg.github.io/talk/2020-06-19-workshop-using-r/</link>
       <pubDate>Tue, 07 Jul 2020 16:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/talk/2020-06-19-workshop-using-r/</guid>
+      <guid>https://shklinkenberg.github.io/talk/2020-06-19-workshop-using-r/</guid>
       <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/quxrQqjHlfA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Duurzaam en robuuste inrichting van het digitale toetsproces.&lt;/p&gt;
@@ -132,10 +132,10 @@
     
     <item>
       <title>Online workshop: Introduction to R, Rstudio, Rstudio Cloud and Rmarkdown</title>
-      <link>https://shklinkenberg.github.io/site/talk/2020-07-07-digital-assessment-workflow/</link>
+      <link>https://shklinkenberg.github.io/talk/2020-07-07-digital-assessment-workflow/</link>
       <pubDate>Fri, 19 Jun 2020 15:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/talk/2020-07-07-digital-assessment-workflow/</guid>
+      <guid>https://shklinkenberg.github.io/talk/2020-07-07-digital-assessment-workflow/</guid>
       <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34;  src=&#34;https://www.youtube.com/embed/epsqxVKkYpE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;In this workshop, we will dive into using Rmarkdown for presentations and reproducible research. We will use Rstudio cloud for education. At the end of this workshop, you will have a basic understanding of these tools and be able to apply it in your own research and courses.&lt;/p&gt;
@@ -144,10 +144,10 @@
     
     <item>
       <title>Presentation Overlay</title>
-      <link>https://shklinkenberg.github.io/site/post/presentation_overlay/</link>
+      <link>https://shklinkenberg.github.io/post/presentation_overlay/</link>
       <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/presentation_overlay/</guid>
+      <guid>https://shklinkenberg.github.io/post/presentation_overlay/</guid>
       <description>
 
 &lt;p&gt;So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.&lt;/p&gt;
@@ -170,10 +170,10 @@
     
     <item>
       <title>Timing is everything</title>
-      <link>https://shklinkenberg.github.io/site/post/gr_2019_blog_3/</link>
+      <link>https://shklinkenberg.github.io/post/gr_2019_blog_3/</link>
       <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/gr_2019_blog_3/</guid>
+      <guid>https://shklinkenberg.github.io/post/gr_2019_blog_3/</guid>
       <description>&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_2/&#34; target=&#34;_blank&#34;&gt;previous grassroots blog&lt;/a&gt;, creating the animation I wanted for my 3D tracking video wasn&amp;rsquo;t that hard. This time I decided to follow my own advice and write the script first. After recording the audio in one session and trimming all the mistakes, I finally had an outline for the timing of the animation.&lt;/p&gt;
 
 &lt;p&gt;By importing the audio track into after effects, I was able to place the animation in such a way that it aligned perfectly. So I now have a synced animation that you can view in the clip below.&lt;/p&gt;
@@ -190,10 +190,10 @@
     
     <item>
       <title>I switched to windows!</title>
-      <link>https://shklinkenberg.github.io/site/post/switched/</link>
+      <link>https://shklinkenberg.github.io/post/switched/</link>
       <pubDate>Sat, 28 Dec 2019 14:45:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/switched/</guid>
+      <guid>https://shklinkenberg.github.io/post/switched/</guid>
       <description>&lt;p&gt;#OMG it really happened. I switched to windows. After some twenty years of personal Mac use, I decided to switch. Now I’m not a complete noob to windows. I had my fair share of windows 98 trouble shooting back in the day. You know, the days where buying a new computer really meant getting a beige box with a DOS floppy, and finding a windows cd and drivers and solving al the problems associated with owning a computer.&lt;/p&gt;
 
 &lt;p&gt;But the Mac was a big relief. It just worked. And, in a time where I needed to get actual work done, and I could afford a Mac, it was a very welcome relief. I managed for years to alleviate the price tag by selling after about two years, and getting a very reasonable return. So I went from a 12” MacBook to a 15” and then the black 13”, after which I stayed with the second generation MacBook air for two consecutive units, and eventually landing back at 12” with the 2015 MacBook.&lt;/p&gt;
@@ -202,7 +202,7 @@
 
 &lt;p&gt;A new Machine was inevitable but witch one? As the departure from the 12” would land me in a category of Macs that was plagued by keyboard issues and were not on par with today’s processing specs, the decision to switch started to loom. There was a sparkle of hope with the introduction of the 16” MacBook pro, but the keyboard and spec update stayed limited to the largest Machine of the bunch.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/site/img/xps13.jpg&#34; alt=&#34;XPS 13&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shklinkenberg.github.io/img/xps13.jpg&#34; alt=&#34;XPS 13&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So, here I am, typing this blog on a DELL XPS 13” only slightly larger than my 12” MacBook, but with an intel 10th gen CPU, 16 gigs of RAM and a 512 SSD. Throwing on a 4K touch screen with a 10% discount, costed a fraction of the price of a Mac. Though windows 10 is the real price to pay.&lt;/p&gt;
 
@@ -212,10 +212,10 @@
     
     <item>
       <title>Not 3D tracking yet</title>
-      <link>https://shklinkenberg.github.io/site/post/gr_2019_blog_2/</link>
+      <link>https://shklinkenberg.github.io/post/gr_2019_blog_2/</link>
       <pubDate>Fri, 06 Dec 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/gr_2019_blog_2/</guid>
+      <guid>https://shklinkenberg.github.io/post/gr_2019_blog_2/</guid>
       <description>&lt;p&gt;So, it’s taken some time before I could really start this grassroot project, but I finally got the ball rolling. Looking at my own plan in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34;&gt;previous post&lt;/a&gt; I immediately went another rout. As I will base my first video on my &lt;a href=&#34;https://youtu.be/Q86DiHcuOVE&#34; target=&#34;_blank&#34;&gt;earlier screencast on ANOVA&lt;/a&gt; (in Dutch), I decided to download the auto generated transcript from my YouTube channel. This gave me a rough outline with timestamps and all.&lt;/p&gt;
 
 &lt;p&gt;Reading through the transcript, it became clear this was much too long. So, I wrote a shortened script that is much more to the point.&lt;/p&gt;
@@ -238,10 +238,10 @@
     
     <item>
       <title>Naar een inrichtingsmodel voor flexibele en veilige toetsafname</title>
-      <link>https://shklinkenberg.github.io/site/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</link>
+      <link>https://shklinkenberg.github.io/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</link>
       <pubDate>Fri, 24 May 2019 15:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</guid>
+      <guid>https://shklinkenberg.github.io/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</guid>
       <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34;  src=&#34;https://www.youtube.com/embed/F8iGR4tILE4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Sharon Klinkenberg, voorzitter van SIG DT, startte de bijeenkomst met een droomscenario, voortbouwend op de 2e expertbijeenkomst in november 2018. Hij schetst een verdergaand droomscenario voor een student die een authentieke toets gaat maken. Stel je voor: “Je logt op een device in als student met je instellings ID, waarna een virtuele machine opstart, met daarin alleen de applicaties en bestanden die jij nodig hebt bij jouw toets. De toets start automatisch op, je werkt met de applicatie(s), levert uiteindelijk de bestanden/resultaten in en bij het afsluiten wordt een backup gemaakt van je materialen.” Dit is nu al technisch mogelijk. Maar is het schaalbaar, is er voldoende bandbreedte? Is het flexibel in de architectuur in te passen? Is het goed en flexibel koppelbaar met andere systemen, om bestanden in te leveren? En zijn de kosten beheersbaar? De vragen en antwoorden die deze droom oproept, kwamen in deze bijeenkomst aan bod met vier demo’s en daaraan gekoppelde werksessies. Deze demo&amp;rsquo;s worden verderop in dit artikel nader toegelicht.&lt;/p&gt;
@@ -250,10 +250,10 @@
     
     <item>
       <title>3D tracked knowledge video</title>
-      <link>https://shklinkenberg.github.io/site/post/gr_2019_blog_1/</link>
+      <link>https://shklinkenberg.github.io/post/gr_2019_blog_1/</link>
       <pubDate>Wed, 20 Mar 2019 10:30:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/gr_2019_blog_1/</guid>
+      <guid>https://shklinkenberg.github.io/post/gr_2019_blog_1/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s that time of the year again. The grass is turning green and so, it&amp;rsquo;s time for a new grassroots project. This time I&amp;rsquo;m going to dive into the world of 3D tracking in Adobe After Effects to create next level knowledge videos.&lt;/p&gt;
 
 &lt;p&gt;I was inspired by the awesome &lt;a href=&#34;https://www.youtube.com/user/petermckinnon24&#34; target=&#34;_blank&#34;&gt;Peter McKinnon&lt;/a&gt; and his short tutorial on how to merge 3D graphics and video footage. I thought, how cool would it be to explain some statistical concepts and have it play out right in front of me on the table. Looking at what &lt;a href=&#34;https://www.youtube.com/channel/UCswCpVHySdNMVwIekKThGyQ&#34; target=&#34;_blank&#34;&gt;AE Tutorials&lt;/a&gt; created, I could totally see this happening.&lt;/p&gt;
@@ -274,10 +274,10 @@
     
     <item>
       <title>De weg naar Digitaal Toegankelijk Toetsen</title>
-      <link>https://shklinkenberg.github.io/site/talk/2019-03-14-ntt/</link>
+      <link>https://shklinkenberg.github.io/talk/2019-03-14-ntt/</link>
       <pubDate>Thu, 14 Mar 2019 10:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/talk/2019-03-14-ntt/</guid>
+      <guid>https://shklinkenberg.github.io/talk/2019-03-14-ntt/</guid>
       <description>&lt;p&gt;In this talk we discussed the state of large scale digital assessment in higher education and what is needed to facilitate accessibility. The main take away, first make sure you have an established infrastructure for regular digital assessment and build your &lt;a href=&#34;https://en.wikipedia.org/wiki/Accessibility&#34; target=&#34;_blank&#34;&gt;accessibility&lt;/a&gt; layer on top of that.&lt;/p&gt;
 
 &lt;p&gt;My challenge to the National network on Accessibility Assessment: Write a model policy memorandum which outlines the needs and course of action to facilitate accessible digital assessment.&lt;/p&gt;
@@ -288,28 +288,28 @@
     
     <item>
       <title>Role of Assessment for Remediation</title>
-      <link>https://shklinkenberg.github.io/site/talk/2019-02-19-assessment-remediation/</link>
+      <link>https://shklinkenberg.github.io/talk/2019-02-19-assessment-remediation/</link>
       <pubDate>Tue, 19 Feb 2019 13:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/talk/2019-02-19-assessment-remediation/</guid>
+      <guid>https://shklinkenberg.github.io/talk/2019-02-19-assessment-remediation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub on Rstudio</title>
-      <link>https://shklinkenberg.github.io/site/talk/2019-02-14-bds-github/</link>
+      <link>https://shklinkenberg.github.io/talk/2019-02-14-bds-github/</link>
       <pubDate>Thu, 14 Feb 2019 13:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/talk/2019-02-14-bds-github/</guid>
+      <guid>https://shklinkenberg.github.io/talk/2019-02-14-bds-github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical basis for experimentation</title>
-      <link>https://shklinkenberg.github.io/site/talk/2019-01-07-stat-basis-exp/</link>
+      <link>https://shklinkenberg.github.io/talk/2019-01-07-stat-basis-exp/</link>
       <pubDate>Mon, 07 Jan 2019 13:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/talk/2019-01-07-stat-basis-exp/</guid>
+      <guid>https://shklinkenberg.github.io/talk/2019-01-07-stat-basis-exp/</guid>
       <description></description>
     </item>
     

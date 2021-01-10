@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grassroots on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/site/tags/grassroots/</link>
+    <link>https://shklinkenberg.github.io/tags/grassroots/</link>
     <description>Recent content in Grassroots on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Wed, 11 Mar 2020 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/site/tags/grassroots/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/tags/grassroots/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Timing is everything</title>
-      <link>https://shklinkenberg.github.io/site/post/gr_2019_blog_3/</link>
+      <link>https://shklinkenberg.github.io/post/gr_2019_blog_3/</link>
       <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/gr_2019_blog_3/</guid>
+      <guid>https://shklinkenberg.github.io/post/gr_2019_blog_3/</guid>
       <description>As mentioned in my previous grassroots blog, creating the animation I wanted for my 3D tracking video wasn&amp;rsquo;t that hard. This time I decided to follow my own advice and write the script first. After recording the audio in one session and trimming all the mistakes, I finally had an outline for the timing of the animation.
 By importing the audio track into after effects, I was able to place the animation in such a way that it aligned perfectly.</description>
     </item>
     
     <item>
       <title>Not 3D tracking yet</title>
-      <link>https://shklinkenberg.github.io/site/post/gr_2019_blog_2/</link>
+      <link>https://shklinkenberg.github.io/post/gr_2019_blog_2/</link>
       <pubDate>Fri, 06 Dec 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/gr_2019_blog_2/</guid>
+      <guid>https://shklinkenberg.github.io/post/gr_2019_blog_2/</guid>
       <description>So, it’s taken some time before I could really start this grassroot project, but I finally got the ball rolling. Looking at my own plan in my previous post I immediately went another rout. As I will base my first video on my earlier screencast on ANOVA (in Dutch), I decided to download the auto generated transcript from my YouTube channel. This gave me a rough outline with timestamps and all.</description>
     </item>
     
     <item>
       <title>3D tracked knowledge video</title>
-      <link>https://shklinkenberg.github.io/site/post/gr_2019_blog_1/</link>
+      <link>https://shklinkenberg.github.io/post/gr_2019_blog_1/</link>
       <pubDate>Wed, 20 Mar 2019 10:30:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/gr_2019_blog_1/</guid>
+      <guid>https://shklinkenberg.github.io/post/gr_2019_blog_1/</guid>
       <description>It&amp;rsquo;s that time of the year again. The grass is turning green and so, it&amp;rsquo;s time for a new grassroots project. This time I&amp;rsquo;m going to dive into the world of 3D tracking in Adobe After Effects to create next level knowledge videos.
 I was inspired by the awesome Peter McKinnon and his short tutorial on how to merge 3D graphics and video footage. I thought, how cool would it be to explain some statistical concepts and have it play out right in front of me on the table.</description>
     </item>

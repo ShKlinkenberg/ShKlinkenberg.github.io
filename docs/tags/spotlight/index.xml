@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spotlight on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/site/tags/spotlight/</link>
+    <link>https://shklinkenberg.github.io/tags/spotlight/</link>
     <description>Recent content in Spotlight on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Mon, 27 Mar 2017 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/site/tags/spotlight/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/tags/spotlight/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VR is so last year</title>
-      <link>https://shklinkenberg.github.io/site/post/spotlight/</link>
+      <link>https://shklinkenberg.github.io/post/spotlight/</link>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/site/post/spotlight/</guid>
+      <guid>https://shklinkenberg.github.io/post/spotlight/</guid>
       <description>So, we’re done with VR for lecture recordings. Why? We just can’t see the presentation, let alone the laser pointer. VR is out. Enter the next generation of presenter tools: The Logi(tech) Spotlight. The spotlight presenter promises to boost your confidence. But let’s ignore that nonsense.
  The Spotlight does deliver the main goal we had of merging the campus lectures and the online weblectures. The remote is able to project a digital spotlight on the screen which of course can be captured by the weblecture registration software that we have here on campus.</description>
     </item>
