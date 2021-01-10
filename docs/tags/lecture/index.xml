@@ -2,22 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lecture on Klinkenberg</title>
-    <link>/tags/lecture/</link>
+    <link>https://shklinkenberg.github.io/tags/lecture/</link>
     <description>Recent content in Lecture on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/lecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/tags/lecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Live Online Lecturering</title>
+      <link>https://shklinkenberg.github.io/post/2021-01-10-online-lecture/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shklinkenberg.github.io/post/2021-01-10-online-lecture/</guid>
+      <description>I have been teaching two large scale courses amidst the pandemic. In this post, I want to share my experiences with lecturing online. First off, my classes started in September, so I had quite some time to prepare.
+As the courses have been around for quite some time, we had the lecture recordings of previous years at our disposal. Though simply providing these recordings would have been an easy solution, it did not feel right to throw this over the fence and call it a day.</description>
+    </item>
+    
+    <item>
       <title>My Online Lecture Setup</title>
-      <link>/post/2020-08-16-lecture-setup/</link>
+      <link>https://shklinkenberg.github.io/post/2020-08-16-lecture-setup/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-08-16-lecture-setup/</guid>
+      <guid>https://shklinkenberg.github.io/post/2020-08-16-lecture-setup/</guid>
       <description>Strap in there, because this is going to be a deep dive. In a previous blog post, I already described how you could use open broadcast software (OBS) to overly a logo or presentation on your webcam feed, and switch between scenes while presenting. Based on that experience, I recently gave a two-hour online workshop taking this to the next level. The video below shows live interaction with the students.</description>
     </item>
     
