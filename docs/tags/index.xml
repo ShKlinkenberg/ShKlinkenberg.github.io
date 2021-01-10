@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/tags/</link>
+    <link>https://shklinkenberg.github.io/site/tags/</link>
     <description>Recent content in Tags on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://shklinkenberg.github.io/tags/academic/</link>
+      <link>https://shklinkenberg.github.io/site/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/academic/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://shklinkenberg.github.io/tags/blog/</link>
+      <link>https://shklinkenberg.github.io/site/tags/blog/</link>
       <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/blog/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grassroots</title>
-      <link>https://shklinkenberg.github.io/tags/grassroots/</link>
+      <link>https://shklinkenberg.github.io/site/tags/grassroots/</link>
       <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/grassroots/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/grassroots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lecture</title>
-      <link>https://shklinkenberg.github.io/tags/lecture/</link>
+      <link>https://shklinkenberg.github.io/site/tags/lecture/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/lecture/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/lecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Live</title>
-      <link>https://shklinkenberg.github.io/tags/live/</link>
+      <link>https://shklinkenberg.github.io/site/tags/live/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/live/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/live/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mac</title>
-      <link>https://shklinkenberg.github.io/tags/mac/</link>
+      <link>https://shklinkenberg.github.io/site/tags/mac/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/mac/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Obs</title>
-      <link>https://shklinkenberg.github.io/tags/obs/</link>
+      <link>https://shklinkenberg.github.io/site/tags/obs/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/obs/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/obs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online</title>
-      <link>https://shklinkenberg.github.io/tags/online/</link>
+      <link>https://shklinkenberg.github.io/site/tags/online/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/online/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/online/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overlay</title>
-      <link>https://shklinkenberg.github.io/tags/overlay/</link>
+      <link>https://shklinkenberg.github.io/site/tags/overlay/</link>
       <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/overlay/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/overlay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotlight</title>
-      <link>https://shklinkenberg.github.io/tags/spotlight/</link>
+      <link>https://shklinkenberg.github.io/site/tags/spotlight/</link>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/spotlight/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/spotlight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stats</title>
-      <link>https://shklinkenberg.github.io/tags/stats/</link>
+      <link>https://shklinkenberg.github.io/site/tags/stats/</link>
       <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/stats/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/stats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Switch</title>
-      <link>https://shklinkenberg.github.io/tags/switch/</link>
+      <link>https://shklinkenberg.github.io/site/tags/switch/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/switch/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/switch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Switched</title>
-      <link>https://shklinkenberg.github.io/tags/switched/</link>
+      <link>https://shklinkenberg.github.io/site/tags/switched/</link>
       <pubDate>Sat, 28 Dec 2019 14:45:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/switched/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/switched/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Videos</title>
-      <link>https://shklinkenberg.github.io/tags/videos/</link>
+      <link>https://shklinkenberg.github.io/site/tags/videos/</link>
       <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/videos/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/videos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vr</title>
-      <link>https://shklinkenberg.github.io/tags/vr/</link>
+      <link>https://shklinkenberg.github.io/site/tags/vr/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/vr/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/vr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weblectures</title>
-      <link>https://shklinkenberg.github.io/tags/weblectures/</link>
+      <link>https://shklinkenberg.github.io/site/tags/weblectures/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/tags/weblectures/</guid>
+      <guid>https://shklinkenberg.github.io/site/tags/weblectures/</guid>
       <description></description>
     </item>
     

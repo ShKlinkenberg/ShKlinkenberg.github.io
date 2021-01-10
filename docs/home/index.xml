@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/home/</link>
+    <link>https://shklinkenberg.github.io/site/home/</link>
     <description>Recent content in Homes on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/site/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://shklinkenberg.github.io/home/about/</link>
+      <link>https://shklinkenberg.github.io/site/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/home/about/</guid>
+      <guid>https://shklinkenberg.github.io/site/home/about/</guid>
       <description>About Sharon Klinkenberg is a lecturer at the department of Psychology. His teaching is mainly focussed on statistics and Psychological methods. Sharon is an educational innovator at the forefront of educational technology. As a winner of the national SURF education award, he specialised in digital assessment, he integrates formative and summative assessment in order to personalize large scale education. His research is focussed on the validity and reliability of adaptive assessment methods and the effectiveness of blended learning interventions.</description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://shklinkenberg.github.io/home/talks/</link>
+      <link>https://shklinkenberg.github.io/site/home/talks/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/home/talks/</guid>
+      <guid>https://shklinkenberg.github.io/site/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://shklinkenberg.github.io/home/posts/</link>
+      <link>https://shklinkenberg.github.io/site/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/home/posts/</guid>
+      <guid>https://shklinkenberg.github.io/site/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://shklinkenberg.github.io/home/teaching/</link>
+      <link>https://shklinkenberg.github.io/site/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/home/teaching/</guid>
+      <guid>https://shklinkenberg.github.io/site/home/teaching/</guid>
       <description> Current courses:  Scientific and Statistical Reasoning Lecture slides: Hosted on GitHub Evaluations: 2018-2019, 2017-2018, 2016-2017, 2015-2016, 2014-2015, 2013-2014 Test Theory and Practice  Past courses:  Introductory statistics at the department of Psychobiology and Beta-Gamma SPSS at the department of Psychology and Psychobiology Reasearch methods at computer applications in social science  </description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://shklinkenberg.github.io/home/publications_selected/</link>
+      <link>https://shklinkenberg.github.io/site/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/home/publications_selected/</guid>
+      <guid>https://shklinkenberg.github.io/site/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://shklinkenberg.github.io/home/publications/</link>
+      <link>https://shklinkenberg.github.io/site/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/home/publications/</guid>
+      <guid>https://shklinkenberg.github.io/site/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://shklinkenberg.github.io/home/projects/</link>
+      <link>https://shklinkenberg.github.io/site/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/home/projects/</guid>
+      <guid>https://shklinkenberg.github.io/site/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://shklinkenberg.github.io/home/contact/</link>
+      <link>https://shklinkenberg.github.io/site/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/home/contact/</guid>
+      <guid>https://shklinkenberg.github.io/site/home/contact/</guid>
       <description> ln.AvU@grebneknilK.S  4096 525 02 13+ Nieuwe Achtergracht 129B, 1018 VZ Amsterdam,
 Room REC-G –1.12, Netherlands  </description>
     </item>

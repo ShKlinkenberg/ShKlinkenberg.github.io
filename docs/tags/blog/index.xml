@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/tags/blog/</link>
+    <link>https://shklinkenberg.github.io/site/tags/blog/</link>
     <description>Recent content in Blog on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Mon, 20 Apr 2020 14:45:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/site/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Presentation Overlay</title>
-      <link>https://shklinkenberg.github.io/post/presentation_overlay/</link>
+      <link>https://shklinkenberg.github.io/site/post/presentation_overlay/</link>
       <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/post/presentation_overlay/</guid>
+      <guid>https://shklinkenberg.github.io/site/post/presentation_overlay/</guid>
       <description>So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.
  All about the layers To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called OBS studio.</description>
     </item>
     
     <item>
       <title>I switched to windows!</title>
-      <link>https://shklinkenberg.github.io/post/switched/</link>
+      <link>https://shklinkenberg.github.io/site/post/switched/</link>
       <pubDate>Sat, 28 Dec 2019 14:45:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/post/switched/</guid>
+      <guid>https://shklinkenberg.github.io/site/post/switched/</guid>
       <description>#OMG it really happened. I switched to windows. After some twenty years of personal Mac use, I decided to switch. Now I’m not a complete noob to windows. I had my fair share of windows 98 trouble shooting back in the day. You know, the days where buying a new computer really meant getting a beige box with a DOS floppy, and finding a windows cd and drivers and solving al the problems associated with owning a computer.</description>
     </item>
     

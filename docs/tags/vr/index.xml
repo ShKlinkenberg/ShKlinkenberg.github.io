@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vr on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/tags/vr/</link>
+    <link>https://shklinkenberg.github.io/site/tags/vr/</link>
     <description>Recent content in Vr on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/site/tags/vr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VR Lecture recordings</title>
-      <link>https://shklinkenberg.github.io/project/vr-lectures/</link>
+      <link>https://shklinkenberg.github.io/site/project/vr-lectures/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/project/vr-lectures/</guid>
+      <guid>https://shklinkenberg.github.io/site/project/vr-lectures/</guid>
       <description>Visit SURFspace for the complete blog.</description>
     </item>
     
     <item>
       <title>VR is so last year</title>
-      <link>https://shklinkenberg.github.io/post/spotlight/</link>
+      <link>https://shklinkenberg.github.io/site/post/spotlight/</link>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/post/spotlight/</guid>
+      <guid>https://shklinkenberg.github.io/site/post/spotlight/</guid>
       <description>So, we’re done with VR for lecture recordings. Why? We just can’t see the presentation, let alone the laser pointer. VR is out. Enter the next generation of presenter tools: The Logi(tech) Spotlight. The spotlight presenter promises to boost your confidence. But let’s ignore that nonsense.
  The Spotlight does deliver the main goal we had of merging the campus lectures and the online weblectures. The remote is able to project a digital spotlight on the screen which of course can be captured by the weblecture registration software that we have here on campus.</description>
     </item>
