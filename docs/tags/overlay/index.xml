@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overlay on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/tags/overlay/</link>
+    <link>www.klinkenberg.amsterdam/tags/overlay/</link>
     <description>Recent content in Overlay on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Mon, 20 Apr 2020 14:45:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/tags/overlay/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.klinkenberg.amsterdam/tags/overlay/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Presentation Overlay</title>
-      <link>https://shklinkenberg.github.io/post/presentation_overlay/</link>
+      <link>www.klinkenberg.amsterdam/post/presentation_overlay/</link>
       <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/post/presentation_overlay/</guid>
+      <guid>www.klinkenberg.amsterdam/post/presentation_overlay/</guid>
       <description>So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.
  All about the layers To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called OBS studio.</description>
     </item>

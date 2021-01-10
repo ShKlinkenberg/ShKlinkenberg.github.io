@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Klinkenberg</title>
-    <link>https://shklinkenberg.github.io/project/</link>
+    <link>www.klinkenberg.amsterdam/project/</link>
     <description>Recent content in Projects on Klinkenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.klinkenberg.amsterdam/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VR Lecture recordings</title>
-      <link>https://shklinkenberg.github.io/project/vr-lectures/</link>
+      <link>www.klinkenberg.amsterdam/project/vr-lectures/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/project/vr-lectures/</guid>
+      <guid>www.klinkenberg.amsterdam/project/vr-lectures/</guid>
       <description>Visit SURFspace for the complete blog.</description>
     </item>
     
     <item>
       <title>CI mixed ANOVA</title>
-      <link>https://shklinkenberg.github.io/project/cimixed/</link>
+      <link>www.klinkenberg.amsterdam/project/cimixed/</link>
       <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://shklinkenberg.github.io/project/cimixed/</guid>
+      <guid>www.klinkenberg.amsterdam/project/cimixed/</guid>
       <description></description>
     </item>
     
