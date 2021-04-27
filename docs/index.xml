@@ -1,48 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Klinkenberg on Klinkenberg</title>
+    <title>Klinkenberg</title>
     <link>https://www.klinkenberg.amsterdam/</link>
-    <description>Recent content in Klinkenberg on Klinkenberg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://www.klinkenberg.amsterdam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Klinkenberg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Tue, 19 Jan 2021 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Klinkenberg</title>
+      <link>https://www.klinkenberg.amsterdam/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://www.klinkenberg.amsterdam/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://www.klinkenberg.amsterdam/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D tracked!</title>
+      <link>https://www.klinkenberg.amsterdam/post/gr_2019_blog_4/</link>
+      <pubDate>Tue, 19 Jan 2021 12:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/gr_2019_blog_4/</guid>
+      <description>&lt;p&gt;Do you remember that &lt;a href=&#34;https://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grassroots project I started back in 2019&lt;/a&gt;? Well, after months of COVID crisis management and online teaching, I finally came around to finishing the project during the winter break.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/MDaEXZyIhfc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Though I&amp;rsquo;m moderately pleased with the result, my conclusion is that it&amp;rsquo;s way too much work to be worth the effort. Though I enjoyed messing around with adobe after effects, much time could have been saved by leaving this part to the experts.&lt;/p&gt;
+&lt;p&gt;As mentioned in &lt;a href=&#34;http://localhost:4321/post/gr_2019_blog_3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my previous blog, It&amp;rsquo;s all about the timing&lt;/a&gt;. I came to appreciate this aspect of teaching even more during this project. Making an animation happen at the touch of a button, precisely at the right time, makes for a more natural teaching experience.&lt;/p&gt;
+&lt;p&gt;As I have been &lt;a href=&#34;https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;live lecturing online&lt;/a&gt; the last few months, I found this timing aspect can easily be done using interactive webGL widgets. As shown in the clip below, It takes so much less effort to get the timing right.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/d-hs6LPXtJ8?start=5723&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Imagine using these 3D models and overlaying them in realtime on the table or even augmented in a lecture hall. I feel a next grassroots coming up. You can &lt;a href=&#34;http://localhost:4321/tag/grassroots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;read the previous grassroods blogs here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Live Online Lecturing</title>
       <link>https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</guid>
       <description>&lt;p&gt;I have been teaching a large scale course amidst the pandemic. In this post, I want to share my experiences with live lecturing online.&lt;/p&gt;
-
 &lt;p&gt;As the course has been around for quite some time, we had the lecture recordings of previous years at our disposal. Though simply providing these recordings would have been an easy solution, it did not feel right to throw this over the fence and call it a day. To me, It felt like a signal to students that they could just figure it all out on their own. So the plan arose to provide live lectures. Spending way too many hours in zoom from March to June gave us the confidence to pull this off.&lt;/p&gt;
-
-&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/&#34; target=&#34;_blank&#34;&gt;previous blog&lt;/a&gt;, I used &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34;&gt;OBS&lt;/a&gt; as my central hub. Though the whole process has become much more straightforward with the new OBS virtual webcam feature. Just hit the start virtual webcam button, and you can use it in any video conferencing tool.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/img/desk.png&#34; alt=&#34;Desk&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As can be seen from the picture above, I teach from my kids&amp;rsquo; bedroom, armed with a couple of NERF&amp;rsquo;s. I use apple&amp;rsquo;s &lt;a href=&#34;https://www.imore.com/how-use-sidecar-your-mac-and-ipad&#34; target=&#34;_blank&#34;&gt;Sidecar&lt;/a&gt; to use my iPad as a second monitor, &lt;a href=&#34;https://www.smallrig.com/smallrig-multi-functional-crab-shaped-clamp-with-ballhead-magic-arm-2164.html&#34; target=&#34;_blank&#34;&gt;clamped&lt;/a&gt; to a shelf with a &lt;a href=&#34;https://joby.com/be-en/griptight-pro-tablet-jb01395-config/&#34; target=&#34;_blank&#34;&gt;JOBI tablet grip&lt;/a&gt;. Placed at eye level to the right of &lt;a href=&#34;https://www.canon.nl/cameras/eos-m50/&#34; target=&#34;_blank&#34;&gt;my camera&lt;/a&gt;, it matches the scene when I look at the screen.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/img/screen_grab.png&#34; alt=&#34;Screen grab&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous blog&lt;/a&gt;, I used &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OBS&lt;/a&gt; as my central hub. Though the whole process has become much more straightforward with the new OBS virtual webcam feature. Just hit the start virtual webcam button, and you can use it in any video conferencing tool.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/desk.png&#34; alt=&#34;Desk&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As can be seen from the picture above, I teach from my kids&#39; bedroom, armed with a couple of NERF&amp;rsquo;s. I use apple&amp;rsquo;s &lt;a href=&#34;https://www.imore.com/how-use-sidecar-your-mac-and-ipad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sidecar&lt;/a&gt; to use my iPad as a second monitor, &lt;a href=&#34;https://www.smallrig.com/smallrig-multi-functional-crab-shaped-clamp-with-ballhead-magic-arm-2164.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clamped&lt;/a&gt; to a shelf with a &lt;a href=&#34;https://joby.com/be-en/griptight-pro-tablet-jb01395-config/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JOBI tablet grip&lt;/a&gt;. Placed at eye level to the right of &lt;a href=&#34;https://www.canon.nl/cameras/eos-m50/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my camera&lt;/a&gt;, it matches the scene when I look at the screen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/screen_grab.png&#34; alt=&#34;Screen grab&#34;&gt;&lt;/p&gt;
 &lt;p&gt;My camera has a cheap plastic teleprompter mounted. With my iPhone logged into zoom. This lets me see my presentation when I speak, see my students when they ask questions, and Look straight into the camera.&lt;/p&gt;
-
-&lt;p&gt;For audio, I use the amazingly versatile &lt;a href=&#34;https://www.rode.com/microphones/videomicntg&#34; target=&#34;_blank&#34;&gt;RØDE VideoMic NTG&lt;/a&gt;. Furthermore, the &lt;a href=&#34;https://www.elgato.com/en/gaming/stream-deck-mini&#34; target=&#34;_blank&#34;&gt;Stream Deck&lt;/a&gt; makes tactile scene switching a breeze. So, without looking away from the camera, I can easily change the scene.&lt;/p&gt;
-
-&lt;p&gt;Speaking of scenes, I essentially have two. One is a &lt;a href=&#34;https://www.studiobinder.com/blog/types-of-camera-shot-angles-in-film/#shoulder-level-shot&#34; target=&#34;_blank&#34;&gt;shoulder level shot&lt;/a&gt;, and the second is a side by side shot with about two-third desktop and one-third camera, as can be seen above. Additionally, I have a &amp;ldquo;starting in 5 minutes&amp;rdquo; and a &amp;ldquo;Right Back&amp;rdquo; scene. During the break, I actually step out and get a cup of coffee.&lt;/p&gt;
-
+&lt;p&gt;For audio, I use the amazingly versatile &lt;a href=&#34;https://www.rode.com/microphones/videomicntg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RØDE VideoMic NTG&lt;/a&gt;. Furthermore, the &lt;a href=&#34;https://www.elgato.com/en/gaming/stream-deck-mini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stream Deck&lt;/a&gt; makes tactile scene switching a breeze. So, without looking away from the camera, I can easily change the scene.&lt;/p&gt;
+&lt;p&gt;Speaking of scenes, I essentially have two. One is a &lt;a href=&#34;https://www.studiobinder.com/blog/types-of-camera-shot-angles-in-film/#shoulder-level-shot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shoulder level shot&lt;/a&gt;, and the second is a side by side shot with about two-third desktop and one-third camera, as can be seen above. Additionally, I have a &amp;ldquo;starting in 5 minutes&amp;rdquo; and a &amp;ldquo;Right Back&amp;rdquo; scene. During the break, I actually step out and get a cup of coffee.&lt;/p&gt;
 &lt;p&gt;Looking at the center monitor, you can see my desktop layout. I have OBS running at the right side. On the bottom left, the main zoom session, showing the chat and participants window. With so many students in a session, I sometimes have to mute all. The top left shows the YouTube Livestream panel. Yes, I stream the entire session for students who cannot attend the zoom session. Students that are constrained by timezones can view the lecture afterwards. Though some only watch the YouTube lecture at double speed.&lt;/p&gt;
-
 &lt;p&gt;As my internet service provider had a few outages, the web lecture recordings from the previous year served us well as a backup. Being logged in through my iPhone also proved to be very useful. Because I was still connected to students, I could tell them what was going on. And in one case, even continued my lecture on my phone.&lt;/p&gt;
-
 &lt;p&gt;As for the most important question, did our students actually enjoy this type of online lecture. Well, see for yourself in the video below.&lt;/p&gt;
-
 &lt;iframe width=&#34;100%&#34; height=&#34;415&#34; style=&#34;margin: 10px 0 20px 0;&#34; src=&#34;https://www.youtube.com/embed/d-hs6LPXtJ8?start=6286&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;You can find all my lectures in the following &lt;a href=&#34;https://youtube.com/playlist?list=PL5Zp3a0DklNyQlBF9MYorFzNlXxL5iDb-&#34; target=&#34;_blank&#34;&gt;playlist&lt;/a&gt; on our &lt;a href=&#34;https://www.youtube.com/channel/UCt9z-wt6x8TbgJWCCSges8w&#34; target=&#34;_blank&#34;&gt;YouTube Channel&lt;/a&gt;. Looking at the time indication, you can see that my classes are about two hours long. Though I recently came across some articles stating that this is way too long to retain concentration, I think we should not underestimate students. Apart from these lectures, our students also attend &lt;a href=&#34;https://youtu.be/9KxgKDZxKr8?t=847&#34; target=&#34;_blank&#34;&gt;two-hour tutorial sessions&lt;/a&gt; and had weekly assignments. With the help of our outstanding tutors, I think we managed to pull off a pretty amazing online course.&lt;/p&gt;
+&lt;p&gt;You can find all my lectures in the following &lt;a href=&#34;https://youtube.com/playlist?list=PL5Zp3a0DklNyQlBF9MYorFzNlXxL5iDb-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;playlist&lt;/a&gt; on our &lt;a href=&#34;https://www.youtube.com/channel/UCt9z-wt6x8TbgJWCCSges8w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Channel&lt;/a&gt;. Looking at the time indication, you can see that my classes are about two hours long. Though I recently came across some articles stating that this is way too long to retain concentration, I think we should not underestimate students. Apart from these lectures, our students also attend &lt;a href=&#34;https://youtu.be/9KxgKDZxKr8?t=847&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two-hour tutorial sessions&lt;/a&gt; and had weekly assignments. With the help of our outstanding tutors, I think we managed to pull off a pretty amazing online course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keuzes en mogelijkheden bij toepassing van online proctoring</title>
+      <link>https://www.klinkenberg.amsterdam/talk/keuzes-en-mogelijkheden-bij-toepassing-van-online-proctoring/</link>
+      <pubDate>Tue, 08 Dec 2020 13:30:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/keuzes-en-mogelijkheden-bij-toepassing-van-online-proctoring/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/G5zHdbHksOU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -50,94 +104,61 @@
       <title>My Online Lecture Setup</title>
       <link>https://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/</guid>
-      <description>
-
-&lt;p&gt;Strap in there, because this is going to be a deep dive. In a previous blog post, I already described how you could use open broadcast software (OBS) to overly a logo or presentation on your webcam feed, and switch between scenes while presenting. Based on that experience, I recently gave a two-hour online workshop taking this to the next level. The video below shows live interaction with the students. In this post, I will elaborate on how to connect all the applications and the hardware I use.&lt;/p&gt;
-
+      <description>&lt;p&gt;Strap in there, because this is going to be a deep dive. In a previous blog post, I already described how you could use open broadcast software (OBS) to overly a logo or presentation on your webcam feed, and switch between scenes while presenting. Based on that experience, I recently gave a two-hour online workshop taking this to the next level. The video below shows live interaction with the students. In this post, I will elaborate on how to connect all the applications and the hardware I use.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;415&#34;   src=&#34;https://www.youtube.com/embed/epsqxVKkYpE?start=2224&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;As I &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac/&#34; target=&#34;_blank&#34;&gt;recently switched back to the mac&lt;/a&gt;, this post focusses on the setup for the mac only. Though it also works on windows. Sometimes even easier.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/img/camera.png&#34; alt=&#34;Camera Setup&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;As I &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recently switched back to the mac&lt;/a&gt;, this post focusses on the setup for the mac only. Though it also works on windows. Sometimes even easier.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/camera.png&#34; alt=&#34;Camera Setup&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connecting-obs-to-zoom&#34;&gt;Connecting OBS to zoom&lt;/h2&gt;
-
-&lt;p&gt;Using OBS as the central hub for all video input means we have to get that video feed into zoom. For windows, this is easy with the &lt;a href=&#34;https://obsproject.com/forum/resources/obs-virtualcam.539/&#34; target=&#34;_blank&#34;&gt;OBS webcam plugin&lt;/a&gt;. Though on the MAC, we have to use the &lt;a href=&#34;https://obsproject.com/forum/resources/obs-ndi-newtek-ndi™-integration-into-obs-studio.528/&#34; target=&#34;_blank&#34;&gt;Network Device Interface (NDI) plugin&lt;/a&gt; to send out a video and convert that to a virtual camera, using the NDI Virtual input application, which is available in the &lt;a href=&#34;https://ndi.tv/tools/&#34; target=&#34;_blank&#34;&gt;NDITools package at NDI.tv&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Using OBS as the central hub for all video input means we have to get that video feed into zoom. For windows, this is easy with the &lt;a href=&#34;https://obsproject.com/forum/resources/obs-virtualcam.539/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OBS webcam plugin&lt;/a&gt;. Though on the MAC, we have to use the &lt;a href=&#34;https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%e2%84%a2-integration-into-obs-studio.528/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Device Interface (NDI) plugin&lt;/a&gt; to send out a video and convert that to a virtual camera, using the NDI Virtual input application, which is available in the &lt;a href=&#34;https://ndi.tv/tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NDITools package at NDI.tv&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;While zoom initially supported virtual camera input, the current version 5.0.4 seems to break that support. Though by unsigning the zoom application, this problem can be resolved quickly. Just paste the following command in the terminal.&lt;/p&gt;
-
 &lt;p&gt;&lt;code&gt;codesign --remove-signature /Applications/zoom.us.app&lt;/code&gt;&lt;/p&gt;
-
 &lt;p&gt;Now, we are finally ready to stream video from OBS to zoom, and at the same time, we can record or stream the OBS output in HD, which lands us at the next problem. The only audio recorded is your voice and not the questions or conversations with your students.&lt;/p&gt;
-
-&lt;p&gt;For OBS to pick up the sound from zoom, the audio needs to be redirected. For this purpose, the best application on the mac is &lt;a href=&#34;https://rogueamoeba.com/loopback/&#34; target=&#34;_blank&#34;&gt;Loopback&lt;/a&gt;. However, this will set you back $120. I tried a bunch of free alternatives, but none seemed to work consistently.&lt;/p&gt;
-
-&lt;p&gt;While this allowed me to record all the necessary audio and I could tell my students their faces would not end up online, the recordings do feel a bit eery, with student voices coming out of nowhere. To fix this problem, I added a &lt;a href=&#34;https://obsproject.com/forum/resources/spectralizer.861/&#34; target=&#34;_blank&#34;&gt;spectralizer in OBS&lt;/a&gt; to visualize the audio from my students.&lt;/p&gt;
-
-&lt;p&gt;In my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/presentation_overlay/&#34; target=&#34;_blank&#34;&gt;previous post on using OBS&lt;/a&gt;, I described using a second monitor to use as input for zoom. I recently realized this is not even needed. Because you can screen share in zoom using the same virtual camera input. Screen sharing in zoom forces the presenter mode on the students. So, you, as a teacher, are assured they are not just staring at each other.&lt;/p&gt;
-
+&lt;p&gt;For OBS to pick up the sound from zoom, the audio needs to be redirected. For this purpose, the best application on the mac is &lt;a href=&#34;https://rogueamoeba.com/loopback/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Loopback&lt;/a&gt;. However, this will set you back $120. I tried a bunch of free alternatives, but none seemed to work consistently.&lt;/p&gt;
+&lt;p&gt;While this allowed me to record all the necessary audio and I could tell my students their faces would not end up online, the recordings do feel a bit eery, with student voices coming out of nowhere. To fix this problem, I added a &lt;a href=&#34;https://obsproject.com/forum/resources/spectralizer.861/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spectralizer in OBS&lt;/a&gt; to visualize the audio from my students.&lt;/p&gt;
+&lt;p&gt;In my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/presentation_overlay/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous post on using OBS&lt;/a&gt;, I described using a second monitor to use as input for zoom. I recently realized this is not even needed. Because you can screen share in zoom using the same virtual camera input. Screen sharing in zoom forces the presenter mode on the students. So, you, as a teacher, are assured they are not just staring at each other.&lt;/p&gt;
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
-
-&lt;p&gt;As I am an &lt;a href=&#34;https://www.facebook.com/119450864790538/photos/pb.119450864790538.-2207520000../121665361235755/?type=3&amp;amp;theater&#34; target=&#34;_blank&#34;&gt;award-winning amateur photographer&lt;/a&gt; :-) I have some camera gear lying around.&lt;/p&gt;
-
+&lt;p&gt;As I am an &lt;a href=&#34;https://www.facebook.com/119450864790538/photos/pb.119450864790538.-2207520000../121665361235755/?type=3&amp;amp;theater&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;award-winning amateur photographer&lt;/a&gt; :-) I have some camera gear lying around.&lt;/p&gt;
 &lt;p&gt;So, instead of using my laptop webcam, I connect my canon M50 camera through USB, added a continuous power source, and attached my 24mm F2 canon EF lens for a nice wide-angle. For audio, I recently switched to the RodeVideoMic NTG. Attached to the cold shoe of my camera, with a magic arm, it makes for a pretty compact recording setup. Though, the icing on the cake is the 3D printed camera mounted teleprompter, which I use with my iPhone running an extra zoom session. This way, it is easier to look straight into the camera at your students asking questions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/img/hub.png&#34; alt=&#34;USB-C Hub&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/hub.png&#34; alt=&#34;USB-C Hub&#34;&gt;&lt;/p&gt;
 &lt;p&gt;With only one USB-c hub connected to my mac, the USB from the M50 and Mic go straight into the MacBook pro. The USB-c hub also supports a network cable, which is a must to ensure an uninterrupted connection.&lt;/p&gt;
-
 &lt;h2 id=&#34;tying-it-all-together&#34;&gt;Tying it all together&lt;/h2&gt;
-
 &lt;p&gt;So, to run an online lecture, I fire up zoom on the computer and iPhone using the same account. iPhone in the teleprompter with all notifications and audio video turned off. I set the &amp;ldquo;starting in 5 minutes scene&amp;rdquo;, turn on screen sharing from 2nd camera (advanced tab) and hit record in OBS.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Back to the Mac</title>
-      <link>https://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac/</link>
+      <link>https://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac.en/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac/</guid>
-      <description>&lt;p&gt;Remember that time &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/switched/&#34; target=&#34;_blank&#34;&gt;I switched to windows&lt;/a&gt;? Well, after less than half a year, I already caved. Though I really tried to make this relationship work, in the end, there was just no love. Within a month of purchasing the DELL XPS 13, I already had significant regret. Not for Mac craving but because a new XPS was announced. An even slicker smaller better one than the one I just got. So, initially, it was not windows that made me restless. I even invested heavily in learning the superuser tricks. Installing linux subsystem for windows, getting to know a bunch of shortcuts, and diving deep into system thingies to customize the heck out of the XPS. Setting up incremental backups and system restore points, the whole shebang.&lt;/p&gt;
-
+      <guid>https://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac.en/</guid>
+      <description>&lt;p&gt;Remember that time &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/switched/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I switched to windows&lt;/a&gt;? Well, after less than half a year, I already caved. Though I really tried to make this relationship work, in the end, there was just no love. Within a month of purchasing the DELL XPS 13, I already had significant regret. Not for Mac craving but because a new XPS was announced. An even slicker smaller better one than the one I just got. So, initially, it was not windows that made me restless. I even invested heavily in learning the superuser tricks. Installing linux subsystem for windows, getting to know a bunch of shortcuts, and diving deep into system thingies to customize the heck out of the XPS. Setting up incremental backups and system restore points, the whole shebang.&lt;/p&gt;
 &lt;p&gt;All the while, having that beautiful 4K touch screen to stare at. But wait, that screen is sucking the battery dry in no time. I ended up with a DELL powerbank because the ones I owned could not output 90 Watts.&lt;/p&gt;
-
 &lt;p&gt;And then came the updates. The OCD in me wants to have an up to date system. So, I installed the first update, and the second, and they kept coming. Not just the windows updates, but also an insane amount of DELL command center updates. It just would not stop.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/img/back_to_mac_2.png&#34; alt=&#34;MacBook Pro&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/back_to_mac_2.png&#34; alt=&#34;MacBook Pro&#34;&gt;&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s when I started to play around with Linux. Trying out different distros, but I always ran into one or the other problem. I was searching for solutions to problems I didn&amp;rsquo;t have on the Mac.&lt;/p&gt;
-
 &lt;p&gt;And then, out of nowhere, came the salvation. Apple updated its MacBook Pro lineup. Bringing the 13-inch model back on spec with no keyboard issues anymore. So here I am, back in my walled garden, writing this blog on a Mac again.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Workflow Digitaal Toetsen</title>
-      <link>https://www.klinkenberg.amsterdam/talk/2020-06-19-workshop-using-r/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/workflow-digitaal-toetsen/</link>
       <pubDate>Tue, 07 Jul 2020 16:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/talk/2020-06-19-workshop-using-r/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/workflow-digitaal-toetsen/</guid>
       <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/quxrQqjHlfA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;p&gt;Duurzaam en robuuste inrichting van het digitale toetsproces.&lt;/p&gt;
-
 &lt;p&gt;Waar digitaal toetsen een paar maanden geleden nog slechts een optie was, is het nu plots een noodzaak geworden. Voor die afdelingen die het digitaal toetsen nog niet omarmt hadden kan dit behoorlijk overweldigend zijn. Nu de plannen voor het komend studiejaar gemaakt worden lijkt het ons het moment om met elkaar na te denken hoe met name digitale tentaminering idealiter ingeregeld zou moeten worden. Met die stip op de horizon kunnen digitale toets processen op een duurzame en robuuste manier worden ingericht.&lt;/p&gt;
-
 &lt;p&gt;In deze sessie zullen we in gaan op mogelijke werkprocessen, rollen rechten en het afbakenen en spreiden van verantwoordelijkheden. Met name dit laatste aspect moet de risico’s van uitval van medewerkers, gezien de COVID omstandigheden, in het toets proces minimaliseren.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Online workshop: Introduction to R, Rstudio, Rstudio Cloud and Rmarkdown</title>
-      <link>https://www.klinkenberg.amsterdam/talk/2020-07-07-digital-assessment-workflow/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/online-workshop-introduction-to-r-rstudio-rstudio-cloud-and-rmarkdown/</link>
       <pubDate>Fri, 19 Jun 2020 15:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/talk/2020-07-07-digital-assessment-workflow/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/online-workshop-introduction-to-r-rstudio-rstudio-cloud-and-rmarkdown/</guid>
       <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34;  src=&#34;https://www.youtube.com/embed/epsqxVKkYpE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;p&gt;In this workshop, we will dive into using Rmarkdown for presentations and reproducible research. We will use Rstudio cloud for education. At the end of this workshop, you will have a basic understanding of these tools and be able to apply it in your own research and courses.&lt;/p&gt;
 </description>
     </item>
@@ -146,24 +167,14 @@
       <title>Presentation Overlay</title>
       <link>https://www.klinkenberg.amsterdam/post/presentation_overlay/</link>
       <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
-      
       <guid>https://www.klinkenberg.amsterdam/post/presentation_overlay/</guid>
-      <description>
-
-&lt;p&gt;So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.&lt;/p&gt;
-
+      <description>&lt;p&gt;So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;385px&#34; src=&#34;https://www.youtube.com/embed/wzMtb3vFJm4?start=168&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;h2 id=&#34;all-about-the-layers&#34;&gt;All about the layers&lt;/h2&gt;
-
-&lt;p&gt;To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34;&gt;OBS studio&lt;/a&gt;. The three essential layers needed are, of course, the webcam middle layer, a white image background layer, and the presentation layer, which is a PowerPoint with a chroma-key (green) background (&lt;a href=&#34;http://www.klinkenberg.amsterdam/files/Chroma_Key_PowerPoint.pptx&#34; target=&#34;_blank&#34;&gt;Download Template&lt;/a&gt;).&lt;/p&gt;
-
+&lt;p&gt;To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OBS studio&lt;/a&gt;. The three essential layers needed are, of course, the webcam middle layer, a white image background layer, and the presentation layer, which is a PowerPoint with a chroma-key (green) background (&lt;a href=&#34;http://www.klinkenberg.amsterdam/files/Chroma_Key_PowerPoint.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download Template&lt;/a&gt;).&lt;/p&gt;
 &lt;!-- http://cogentstudios.com/how-to-set-opacity-obs-studio/ --&gt;
-
-&lt;p&gt;In OBS you need to set the webcam layer&amp;rsquo;s opacity to 40% by applying a a &lt;strong&gt;color key&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/-aXtar17E3o?t=64&#34; target=&#34;_blank&#34;&gt;filter&lt;/a&gt;, and you will get a more transparent image. To add the Powerpoint overlay, &lt;a href=&#34;https://superuser.com/questions/865094/how-can-i-view-a-powerpoint-slideshow-in-windowed-mode-ie-not-full-screen&#34; target=&#34;_blank&#34;&gt;set Powerpoint to windowed mode&lt;/a&gt; and window &lt;a href=&#34;https://youtu.be/1V9rxexjyXU?t=615&#34; target=&#34;_blank&#34;&gt;capture this window in OBS&lt;/a&gt;. Watch &lt;a href=&#34;https://youtu.be/1V9rxexjyXU&#34; target=&#34;_blank&#34;&gt;this last video&lt;/a&gt; entirely for all the sources options available in OBS.&lt;/p&gt;
-
-&lt;p&gt;In the final step, you just need to select a &lt;a href=&#34;https://obsproject.com/forum/threads/preview-output-on-second-monitor.112853/&#34; target=&#34;_blank&#34;&gt;second monitor as output in OBS&lt;/a&gt; and use this second monitor as input for your conferencing software like zoom, meets, or teams. Well, here you go.&lt;/p&gt;
-
+&lt;p&gt;In OBS you need to set the webcam layer&amp;rsquo;s opacity to 40% by applying a a &lt;strong&gt;color key&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/-aXtar17E3o?t=64&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;filter&lt;/a&gt;, and you will get a more transparent image. To add the Powerpoint overlay, &lt;a href=&#34;https://superuser.com/questions/865094/how-can-i-view-a-powerpoint-slideshow-in-windowed-mode-ie-not-full-screen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;set Powerpoint to windowed mode&lt;/a&gt; and window &lt;a href=&#34;https://youtu.be/1V9rxexjyXU?t=615&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;capture this window in OBS&lt;/a&gt;. Watch &lt;a href=&#34;https://youtu.be/1V9rxexjyXU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this last video&lt;/a&gt; entirely for all the sources options available in OBS.&lt;/p&gt;
+&lt;p&gt;In the final step, you just need to select a &lt;a href=&#34;https://obsproject.com/forum/threads/preview-output-on-second-monitor.112853/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second monitor as output in OBS&lt;/a&gt; and use this second monitor as input for your conferencing software like zoom, meets, or teams. Well, here you go.&lt;/p&gt;
 &lt;p&gt;So, am I satisfied? Nah, the text overlaying the eyes is just too distracting to me. I already experimented with using a half-width PowerPoint presentation, so you only use half of the screen. I&amp;rsquo;ll come back to that in the next post.&lt;/p&gt;
 </description>
     </item>
@@ -172,19 +183,14 @@
       <title>Timing is everything</title>
       <link>https://www.klinkenberg.amsterdam/post/gr_2019_blog_3/</link>
       <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
-      
       <guid>https://www.klinkenberg.amsterdam/post/gr_2019_blog_3/</guid>
-      <description>&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_2/&#34; target=&#34;_blank&#34;&gt;previous grassroots blog&lt;/a&gt;, creating the animation I wanted for my 3D tracking video wasn&amp;rsquo;t that hard. This time I decided to follow my own advice and write the script first. After recording the audio in one session and trimming all the mistakes, I finally had an outline for the timing of the animation.&lt;/p&gt;
-
+      <description>&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous grassroots blog&lt;/a&gt;, creating the animation I wanted for my 3D tracking video wasn&amp;rsquo;t that hard. This time I decided to follow my own advice and write the script first. After recording the audio in one session and trimming all the mistakes, I finally had an outline for the timing of the animation.&lt;/p&gt;
 &lt;p&gt;By importing the audio track into after effects, I was able to place the animation in such a way that it aligned perfectly. So I now have a synced animation that you can view in the clip below.&lt;/p&gt;
-
 &lt;div style=&#34;margin:15px 0 15px 0;&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/SN2aH8iyiVw?start=29&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/SN2aH8iyiVw?start=29&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 &lt;p&gt;Now the next puzzle will be the video recording. By first recording only the audio, I essentially ruined the possibility of doing a talking-head video. So, I plan to shoot some videos of only my hands explaining the animation without showing my head. And maybe try to do a lip-sync recording for a few parts.&lt;/p&gt;
-
-&lt;p&gt;If you missed the previous posts on my grassroots project, you can &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34;&gt;find them here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you missed the previous posts on my grassroots project, you can &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;find them here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -192,20 +198,13 @@
       <title>I switched to windows!</title>
       <link>https://www.klinkenberg.amsterdam/post/switched/</link>
       <pubDate>Sat, 28 Dec 2019 14:45:00 +0000</pubDate>
-      
       <guid>https://www.klinkenberg.amsterdam/post/switched/</guid>
       <description>&lt;p&gt;#OMG it really happened. I switched to windows. After some twenty years of personal Mac use, I decided to switch. Now I’m not a complete noob to windows. I had my fair share of windows 98 trouble shooting back in the day. You know, the days where buying a new computer really meant getting a beige box with a DOS floppy, and finding a windows cd and drivers and solving al the problems associated with owning a computer.&lt;/p&gt;
-
 &lt;p&gt;But the Mac was a big relief. It just worked. And, in a time where I needed to get actual work done, and I could afford a Mac, it was a very welcome relief. I managed for years to alleviate the price tag by selling after about two years, and getting a very reasonable return. So I went from a 12” MacBook to a 15” and then the black 13”, after which I stayed with the second generation MacBook air for two consecutive units, and eventually landing back at 12” with the 2015 MacBook.&lt;/p&gt;
-
 &lt;p&gt;And there it started to lag. As I started to get restless and wanting to update, there was no update available. So I waited, and waited, but a significant update fell short. As I wanted to stay with the small form factor, the 2019 discontinuation of the 12” model was a major disappointment. So, I stuck to my 12” until it started to show problems with charging, battery life and random quirks.&lt;/p&gt;
-
 &lt;p&gt;A new Machine was inevitable but witch one? As the departure from the 12” would land me in a category of Macs that was plagued by keyboard issues and were not on par with today’s processing specs, the decision to switch started to loom. There was a sparkle of hope with the introduction of the 16” MacBook pro, but the keyboard and spec update stayed limited to the largest Machine of the bunch.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/img/xps13.jpg&#34; alt=&#34;XPS 13&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/xps13.jpg&#34; alt=&#34;XPS 13&#34;&gt;&lt;/p&gt;
 &lt;p&gt;So, here I am, typing this blog on a DELL XPS 13” only slightly larger than my 12” MacBook, but with an intel 10th gen CPU, 16 gigs of RAM and a 512 SSD. Throwing on a 4K touch screen with a 10% discount, costed a fraction of the price of a Mac. Though windows 10 is the real price to pay.&lt;/p&gt;
-
 &lt;p&gt;As being formally trained in the adobe suite, and wanting the full-fledged system integration of outlook exchange for work, going with a Linux distro only was not an option. Though I do plan on going for a dual boot at one point, for now I’ll stick to windows 10. The first week has been pretty painless.&lt;/p&gt;
 </description>
     </item>
@@ -214,36 +213,26 @@
       <title>Not 3D tracking yet</title>
       <link>https://www.klinkenberg.amsterdam/post/gr_2019_blog_2/</link>
       <pubDate>Fri, 06 Dec 2019 12:00:00 +0000</pubDate>
-      
       <guid>https://www.klinkenberg.amsterdam/post/gr_2019_blog_2/</guid>
-      <description>&lt;p&gt;So, it’s taken some time before I could really start this grassroot project, but I finally got the ball rolling. Looking at my own plan in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34;&gt;previous post&lt;/a&gt; I immediately went another rout. As I will base my first video on my &lt;a href=&#34;https://youtu.be/Q86DiHcuOVE&#34; target=&#34;_blank&#34;&gt;earlier screencast on ANOVA&lt;/a&gt; (in Dutch), I decided to download the auto generated transcript from my YouTube channel. This gave me a rough outline with timestamps and all.&lt;/p&gt;
-
+      <description>&lt;p&gt;So, it’s taken some time before I could really start this grassroot project, but I finally got the ball rolling. Looking at my own plan in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous post&lt;/a&gt; I immediately went another rout. As I will base my first video on my &lt;a href=&#34;https://youtu.be/Q86DiHcuOVE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier screencast on ANOVA&lt;/a&gt; (in Dutch), I decided to download the auto generated transcript from my YouTube channel. This gave me a rough outline with timestamps and all.&lt;/p&gt;
 &lt;p&gt;Reading through the transcript, it became clear this was much too long. So, I wrote a shortened script that is much more to the point.&lt;/p&gt;
-
-&lt;p&gt;Next up, was creating the graph I want to show in the video. Writing some R code, quickly landed me the plot I wanted. In the next step I followed the &lt;a href=&#34;https://youtu.be/prnmH3YVrQo&#34; target=&#34;_blank&#34;&gt;instruction that Peter Farago laid out in the video&lt;/a&gt; below (left), and fired up illustrator to import my PDF. There, adding layers was easy. But getting the right path into the correct layer was a bit of a puzzle. Turning paths on and off, showed me which vector element was what. Making it easier to identify where everyting needed to go.&lt;/p&gt;
-
+&lt;p&gt;Next up, was creating the graph I want to show in the video. Writing some R code, quickly landed me the plot I wanted. In the next step I followed the &lt;a href=&#34;https://youtu.be/prnmH3YVrQo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;instruction that Peter Farago laid out in the video&lt;/a&gt; below (left), and fired up illustrator to import my PDF. There, adding layers was easy. But getting the right path into the correct layer was a bit of a puzzle. Turning paths on and off, showed me which vector element was what. Making it easier to identify where everyting needed to go.&lt;/p&gt;
 &lt;div style=&#34;margin:15px 0 15px 0;&#34;&gt;
 &lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/prnmH3YVrQo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/-iXhbMjQoNU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 &lt;p&gt;I made a lot of mistakes along the way, but I will spare you that pain. In the final Illustrator step, a quick CMD-A selected everything. Turning all the line colors white, made sure I could see the plot in After Effects.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/prnmH3YVrQo&#34; target=&#34;_blank&#34;&gt;Peter’s instructions&lt;/a&gt; were still very helpful as I initially forgot to convert the vector layers to shapes. Now that this is all covered, I could create a trim path to animate the individual lines. I’m now creating the animation as we speak. You can watch the preview above (right).&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/prnmH3YVrQo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter’s instructions&lt;/a&gt; were still very helpful as I initially forgot to convert the vector layers to shapes. Now that this is all covered, I could create a trim path to animate the individual lines. I’m now creating the animation as we speak. You can watch the preview above (right).&lt;/p&gt;
 &lt;p&gt;One of the problems with animating is the timing. How long should each part be visible. For that, it might be easier if I first record the script and tune the animation accordingly. I will follow up on this progress in the next post.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Naar een inrichtingsmodel voor flexibele en veilige toetsafname</title>
-      <link>https://www.klinkenberg.amsterdam/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/naar-een-inrichtingsmodel-voor-flexibele-en-veilige-toetsafname/</link>
       <pubDate>Fri, 24 May 2019 15:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/naar-een-inrichtingsmodel-voor-flexibele-en-veilige-toetsafname/</guid>
       <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34;  src=&#34;https://www.youtube.com/embed/F8iGR4tILE4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;p&gt;Sharon Klinkenberg, voorzitter van SIG DT, startte de bijeenkomst met een droomscenario, voortbouwend op de 2e expertbijeenkomst in november 2018. Hij schetst een verdergaand droomscenario voor een student die een authentieke toets gaat maken. Stel je voor: “Je logt op een device in als student met je instellings ID, waarna een virtuele machine opstart, met daarin alleen de applicaties en bestanden die jij nodig hebt bij jouw toets. De toets start automatisch op, je werkt met de applicatie(s), levert uiteindelijk de bestanden/resultaten in en bij het afsluiten wordt een backup gemaakt van je materialen.” Dit is nu al technisch mogelijk. Maar is het schaalbaar, is er voldoende bandbreedte? Is het flexibel in de architectuur in te passen? Is het goed en flexibel koppelbaar met andere systemen, om bestanden in te leveren? En zijn de kosten beheersbaar? De vragen en antwoorden die deze droom oproept, kwamen in deze bijeenkomst aan bod met vier demo’s en daaraan gekoppelde werksessies. Deze demo&amp;rsquo;s worden verderop in dit artikel nader toegelicht.&lt;/p&gt;
 </description>
     </item>
@@ -252,64 +241,312 @@
       <title>3D tracked knowledge video</title>
       <link>https://www.klinkenberg.amsterdam/post/gr_2019_blog_1/</link>
       <pubDate>Wed, 20 Mar 2019 10:30:00 +0000</pubDate>
-      
       <guid>https://www.klinkenberg.amsterdam/post/gr_2019_blog_1/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s that time of the year again. The grass is turning green and so, it&amp;rsquo;s time for a new grassroots project. This time I&amp;rsquo;m going to dive into the world of 3D tracking in Adobe After Effects to create next level knowledge videos.&lt;/p&gt;
-
-&lt;p&gt;I was inspired by the awesome &lt;a href=&#34;https://www.youtube.com/user/petermckinnon24&#34; target=&#34;_blank&#34;&gt;Peter McKinnon&lt;/a&gt; and his short tutorial on how to merge 3D graphics and video footage. I thought, how cool would it be to explain some statistical concepts and have it play out right in front of me on the table. Looking at what &lt;a href=&#34;https://www.youtube.com/channel/UCswCpVHySdNMVwIekKThGyQ&#34; target=&#34;_blank&#34;&gt;AE Tutorials&lt;/a&gt; created, I could totally see this happening.&lt;/p&gt;
-
+&lt;p&gt;I was inspired by the awesome &lt;a href=&#34;https://www.youtube.com/user/petermckinnon24&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter McKinnon&lt;/a&gt; and his short tutorial on how to merge 3D graphics and video footage. I thought, how cool would it be to explain some statistical concepts and have it play out right in front of me on the table. Looking at what &lt;a href=&#34;https://www.youtube.com/channel/UCswCpVHySdNMVwIekKThGyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AE Tutorials&lt;/a&gt; created, I could totally see this happening.&lt;/p&gt;
 &lt;div style=&#34;margin:15px 0 15px 0;&#34;&gt;
 &lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/m5_QznjzAlk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/4aaPSQcFpZg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 &lt;p&gt;So, the grassroots project got approved and we&amp;rsquo;re going to do this. The goal is of course to create a few clips, but also to see how viable it is within the confounds of my own desktop computer and the Adobe CC suite. To answer this question, I will document my findings in this blog series. And if all goes well, I&amp;rsquo;ll create a video on how to do this on your own.&lt;/p&gt;
-
 &lt;p&gt;The process is looking fairly easy, but I reckon we&amp;rsquo;ll bump into problems along the way. What we need to do is: Create some vector graphics and formula&amp;rsquo;s to use in the video. In my case, I will be making them in R, exporting to PDF and layering them in illustrator. Next up is to create a storyboard. Shoot a video, and finally edit it all together in after effects.&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s the plan at least. I will be doing a remake of my &lt;a href=&#34;https://youtu.be/Q86DiHcuOVE&#34; target=&#34;_blank&#34;&gt;earlier&lt;/a&gt; analysis of variance &lt;a href=&#34;https://youtu.be/lZqwTzCb_0A&#34; target=&#34;_blank&#34;&gt;videos&lt;/a&gt;. And if all goes well, I&amp;rsquo;ll tackle the fundamentals of null hypotheses testing.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s the plan at least. I will be doing a remake of my &lt;a href=&#34;https://youtu.be/Q86DiHcuOVE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier&lt;/a&gt; analysis of variance &lt;a href=&#34;https://youtu.be/lZqwTzCb_0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;videos&lt;/a&gt;. And if all goes well, I&amp;rsquo;ll tackle the fundamentals of null hypotheses testing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>De weg naar Digitaal Toegankelijk Toetsen</title>
-      <link>https://www.klinkenberg.amsterdam/talk/2019-03-14-ntt/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/de-weg-naar-digitaal-toegankelijk-toetsen/</link>
       <pubDate>Thu, 14 Mar 2019 10:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/talk/2019-03-14-ntt/</guid>
-      <description>&lt;p&gt;In this talk we discussed the state of large scale digital assessment in higher education and what is needed to facilitate accessibility. The main take away, first make sure you have an established infrastructure for regular digital assessment and build your &lt;a href=&#34;https://en.wikipedia.org/wiki/Accessibility&#34; target=&#34;_blank&#34;&gt;accessibility&lt;/a&gt; layer on top of that.&lt;/p&gt;
-
+      <guid>https://www.klinkenberg.amsterdam/talk/de-weg-naar-digitaal-toegankelijk-toetsen/</guid>
+      <description>&lt;p&gt;In this talk we discussed the state of large scale digital assessment in higher education and what is needed to facilitate accessibility. The main take away, first make sure you have an established infrastructure for regular digital assessment and build your &lt;a href=&#34;https://en.wikipedia.org/wiki/Accessibility&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accessibility&lt;/a&gt; layer on top of that.&lt;/p&gt;
 &lt;p&gt;My challenge to the National network on Accessibility Assessment: Write a model policy memorandum which outlines the needs and course of action to facilitate accessible digital assessment.&lt;/p&gt;
-
-&lt;p&gt;Thanks &lt;a href=&#34;https://www.cinop.nl/home.aspx&#34; target=&#34;_blank&#34;&gt;CINOP&lt;/a&gt; and &lt;a href=&#34;https://www.handicap-studie.nl/home.aspx&#34; target=&#34;_blank&#34;&gt;Handicap+Studie&lt;/a&gt; for inviting me.&lt;/p&gt;
+&lt;p&gt;Thanks &lt;a href=&#34;https://www.cinop.nl/home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CINOP&lt;/a&gt; and &lt;a href=&#34;https://www.handicap-studie.nl/home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Handicap+Studie&lt;/a&gt; for inviting me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Role of Assessment for Remediation</title>
-      <link>https://www.klinkenberg.amsterdam/talk/2019-02-19-assessment-remediation/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/role-of-assessment-for-remediation/</link>
       <pubDate>Tue, 19 Feb 2019 13:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/talk/2019-02-19-assessment-remediation/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/role-of-assessment-for-remediation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub on Rstudio</title>
-      <link>https://www.klinkenberg.amsterdam/talk/2019-02-14-bds-github/</link>
+      <link>https://www.klinkenberg.amsterdam/talk/github-on-rstudio/</link>
       <pubDate>Thu, 14 Feb 2019 13:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/talk/2019-02-14-bds-github/</guid>
+      <guid>https://www.klinkenberg.amsterdam/talk/github-on-rstudio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Statistical basis for experimentation</title>
-      <link>https://www.klinkenberg.amsterdam/talk/2019-01-07-stat-basis-exp/</link>
-      <pubDate>Mon, 07 Jan 2019 13:00:00 +0000</pubDate>
+      <title>Slides</title>
+      <link>https://www.klinkenberg.amsterdam/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>https://www.klinkenberg.amsterdam/talk/2019-01-07-stat-basis-exp/</guid>
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical basis for experimentation</title>
+      <link>https://www.klinkenberg.amsterdam/talk/statistical-basis-for-experimentation/</link>
+      <pubDate>Mon, 07 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/statistical-basis-for-experimentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expertbijeenkomst Veilig en veelzijdig toetsen op mobiele apparaten</title>
+      <link>https://www.klinkenberg.amsterdam/talk/expertbijeenkomst-veilig-en-veelzijdig-toetsen-op-mobiele-apparaten/</link>
+      <pubDate>Tue, 13 Nov 2018 13:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/expertbijeenkomst-veilig-en-veelzijdig-toetsen-op-mobiele-apparaten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geen flexibilisering zonder digitaal toetsen</title>
+      <link>https://www.klinkenberg.amsterdam/talk/geen-flexibilisering-zonder-digitaal-toetsen/</link>
+      <pubDate>Tue, 06 Nov 2018 13:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/geen-flexibilisering-zonder-digitaal-toetsen/</guid>
+      <description>&lt;p&gt;Topic also covered by &lt;a href=&#34;https://www.scienceguide.nl/2018/11/onderwijs-moment-plek/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scienceguide.nl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blended Learning: Beyond the Hype</title>
+      <link>https://www.klinkenberg.amsterdam/talk/blended-learning-beyond-the-hype/</link>
+      <pubDate>Tue, 18 Sep 2018 13:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/blended-learning-beyond-the-hype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blended M&amp;T</title>
+      <link>https://www.klinkenberg.amsterdam/talk/blended-mt/</link>
+      <pubDate>Tue, 12 Jun 2018 13:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/blended-mt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Teaching Time Savers</title>
+      <link>https://www.klinkenberg.amsterdam/talk/the-ultimate-teaching-time-savers/</link>
+      <pubDate>Tue, 20 Feb 2018 17:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/the-ultimate-teaching-time-savers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wegwijs in de jungle van digitale toetsvragen</title>
+      <link>https://www.klinkenberg.amsterdam/talk/wegwijs-in-de-jungle-van-digitale-toetsvragen/</link>
+      <pubDate>Wed, 08 Nov 2017 13:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/wegwijs-in-de-jungle-van-digitale-toetsvragen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment as driving force for personalised blended learning</title>
+      <link>https://www.klinkenberg.amsterdam/talk/assessment-as-driving-force-for-personalised-blended-learning/</link>
+      <pubDate>Tue, 13 Jun 2017 13:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/assessment-as-driving-force-for-personalised-blended-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using personalized learning in your class</title>
+      <link>https://www.klinkenberg.amsterdam/talk/using-personalized-learning-in-your-class/</link>
+      <pubDate>Wed, 31 May 2017 15:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/using-personalized-learning-in-your-class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Formative Assessment in a Blended Learning Course</title>
+      <link>https://www.klinkenberg.amsterdam/publication/formative_assessment/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/publication/formative_assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment in the BKO</title>
+      <link>https://www.klinkenberg.amsterdam/talk/assessment-in-the-bko/</link>
+      <pubDate>Thu, 11 May 2017 11:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/assessment-in-the-bko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR is so last year</title>
+      <link>https://www.klinkenberg.amsterdam/post/spotlight/</link>
+      <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/spotlight/</guid>
+      <description>&lt;p&gt;So, we’re done with VR for lecture recordings. Why? We just can’t see the presentation, let alone the laser pointer. VR is out. Enter the next generation of presenter tools: The Logi(tech) Spotlight. The spotlight presenter promises to boost your confidence. But let’s ignore that nonsense.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;385px&#34; src=&#34;https://www.youtube.com/embed/BPrKQx1wcXQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;The Spotlight does deliver the main goal we had of merging the campus lectures and the online weblectures. The remote is able to project a digital spotlight on the screen which of course can be captured by the weblecture registration software that we have here on campus. With this technology students watching the weblectures can finally see what the lecturer is focusing on. Bang! Problem solved, almost. We do need to enable full video recordings instead of key frame capture. Have a look at the video below to see the spotlight in action. I also squeezed in some weblecture recordings so you can judge for yourself if the quality is good enough to replace VR.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;385px&#34; src=&#34;https://www.youtube.com/embed/4GBqfDPyd7U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Now how does it work? It’s a gyroscope. The spotlight appears at the location of the mouse on your computer screen. Any movement of the remote translates to movement of the spotlight on screen. No matter where you point the remote, press the spotlight button and it works. Now that looks quite stupid if you&amp;rsquo;re pointing the wrong way, but the concept is genius. Point at a giant beamer screen and it just magically works. Why isn’t there an app for that?&lt;/p&gt;
+&lt;p&gt;If you are looking to blend campus lectures and online lectures, this is the tool for you. Oh, and one more thing. Did I mention that you don’t have to turn it on or off? That might sound trivial but I occasionally find myself out of batteries because I forgot to turn off my laser pointer. So now I don’t have to carry an extra battery pack around anymore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://www.klinkenberg.amsterdam/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>https://www.klinkenberg.amsterdam/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Practical Procedure for the Construction and Reliability Analysis of Fixed-Length Tests with Randomly Drawn Test Items</title>
+      <link>https://www.klinkenberg.amsterdam/publication/cbalpha/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/publication/cbalpha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</title>
+      <link>https://www.klinkenberg.amsterdam/publication/math-garden/</link>
+      <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/publication/math-garden/</guid>
       <description></description>
     </item>
     

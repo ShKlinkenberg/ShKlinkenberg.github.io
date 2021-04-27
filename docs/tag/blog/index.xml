@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog | Klinkenberg</title>
+    <link>https://www.klinkenberg.amsterdam/tag/blog/</link>
+      <atom:link href="https://www.klinkenberg.amsterdam/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>blog</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Mon, 20 Apr 2020 14:45:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>blog</title>
+      <link>https://www.klinkenberg.amsterdam/tag/blog/</link>
+    </image>
+    
+    <item>
+      <title>Presentation Overlay</title>
+      <link>https://www.klinkenberg.amsterdam/post/presentation_overlay/</link>
+      <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/presentation_overlay/</guid>
+      <description>&lt;p&gt;So, the webinar on distance assessment was received quite well. Apart from the 200 attendees and now almost a hundred views on YouTube, I also received many questions on how I created the presentation overlay as can be seen in the video below.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;385px&#34; src=&#34;https://www.youtube.com/embed/wzMtb3vFJm4?start=168&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;all-about-the-layers&#34;&gt;All about the layers&lt;/h2&gt;
+&lt;p&gt;To create this effect, I stacked some video layers and applied some chroma-keying to make it all look smooth. For this, I used the opensource open broadcast software called &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OBS studio&lt;/a&gt;. The three essential layers needed are, of course, the webcam middle layer, a white image background layer, and the presentation layer, which is a PowerPoint with a chroma-key (green) background (&lt;a href=&#34;http://www.klinkenberg.amsterdam/files/Chroma_Key_PowerPoint.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download Template&lt;/a&gt;).&lt;/p&gt;
+&lt;!-- http://cogentstudios.com/how-to-set-opacity-obs-studio/ --&gt;
+&lt;p&gt;In OBS you need to set the webcam layer&amp;rsquo;s opacity to 40% by applying a a &lt;strong&gt;color key&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/-aXtar17E3o?t=64&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;filter&lt;/a&gt;, and you will get a more transparent image. To add the Powerpoint overlay, &lt;a href=&#34;https://superuser.com/questions/865094/how-can-i-view-a-powerpoint-slideshow-in-windowed-mode-ie-not-full-screen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;set Powerpoint to windowed mode&lt;/a&gt; and window &lt;a href=&#34;https://youtu.be/1V9rxexjyXU?t=615&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;capture this window in OBS&lt;/a&gt;. Watch &lt;a href=&#34;https://youtu.be/1V9rxexjyXU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this last video&lt;/a&gt; entirely for all the sources options available in OBS.&lt;/p&gt;
+&lt;p&gt;In the final step, you just need to select a &lt;a href=&#34;https://obsproject.com/forum/threads/preview-output-on-second-monitor.112853/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second monitor as output in OBS&lt;/a&gt; and use this second monitor as input for your conferencing software like zoom, meets, or teams. Well, here you go.&lt;/p&gt;
+&lt;p&gt;So, am I satisfied? Nah, the text overlaying the eyes is just too distracting to me. I already experimented with using a half-width PowerPoint presentation, so you only use half of the screen. I&amp;rsquo;ll come back to that in the next post.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I switched to windows!</title>
+      <link>https://www.klinkenberg.amsterdam/post/switched/</link>
+      <pubDate>Sat, 28 Dec 2019 14:45:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/switched/</guid>
+      <description>&lt;p&gt;#OMG it really happened. I switched to windows. After some twenty years of personal Mac use, I decided to switch. Now I’m not a complete noob to windows. I had my fair share of windows 98 trouble shooting back in the day. You know, the days where buying a new computer really meant getting a beige box with a DOS floppy, and finding a windows cd and drivers and solving al the problems associated with owning a computer.&lt;/p&gt;
+&lt;p&gt;But the Mac was a big relief. It just worked. And, in a time where I needed to get actual work done, and I could afford a Mac, it was a very welcome relief. I managed for years to alleviate the price tag by selling after about two years, and getting a very reasonable return. So I went from a 12” MacBook to a 15” and then the black 13”, after which I stayed with the second generation MacBook air for two consecutive units, and eventually landing back at 12” with the 2015 MacBook.&lt;/p&gt;
+&lt;p&gt;And there it started to lag. As I started to get restless and wanting to update, there was no update available. So I waited, and waited, but a significant update fell short. As I wanted to stay with the small form factor, the 2019 discontinuation of the 12” model was a major disappointment. So, I stuck to my 12” until it started to show problems with charging, battery life and random quirks.&lt;/p&gt;
+&lt;p&gt;A new Machine was inevitable but witch one? As the departure from the 12” would land me in a category of Macs that was plagued by keyboard issues and were not on par with today’s processing specs, the decision to switch started to loom. There was a sparkle of hope with the introduction of the 16” MacBook pro, but the keyboard and spec update stayed limited to the largest Machine of the bunch.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/xps13.jpg&#34; alt=&#34;XPS 13&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So, here I am, typing this blog on a DELL XPS 13” only slightly larger than my 12” MacBook, but with an intel 10th gen CPU, 16 gigs of RAM and a 512 SSD. Throwing on a 4K touch screen with a 10% discount, costed a fraction of the price of a Mac. Though windows 10 is the real price to pay.&lt;/p&gt;
+&lt;p&gt;As being formally trained in the adobe suite, and wanting the full-fledged system integration of outlook exchange for work, going with a Linux distro only was not an option. Though I do plan on going for a dual boot at one point, for now I’ll stick to windows 10. The first week has been pretty painless.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,519 +1,354 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</loc>
-      <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/</loc>
-      <lastmod>2020-08-16T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac/</loc>
-      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2020-06-19-workshop-using-r/</loc>
-      <lastmod>2020-07-07T16:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/gr_2019_blog_4/</loc>
+    <lastmod>2021-01-19T12:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2020-07-07-digital-assessment-workflow/</loc>
-      <lastmod>2020-06-19T15:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/grassroots/</loc>
+    <lastmod>2021-01-19T12:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/presentation_overlay/</loc>
-      <lastmod>2020-04-20T14:45:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/</loc>
+    <lastmod>2021-01-19T12:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/gr_2019_blog_3/</loc>
-      <lastmod>2020-03-11T12:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/</loc>
+    <lastmod>2021-01-19T12:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/switched/</loc>
-      <lastmod>2019-12-28T14:45:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tags/</loc>
+    <lastmod>2021-01-19T12:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/gr_2019_blog_2/</loc>
-      <lastmod>2019-12-06T12:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/videos/</loc>
+    <lastmod>2021-01-19T12:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2019-05-24-inrichtingsmodel-flexibele-veilige-toetsafname/</loc>
-      <lastmod>2019-05-24T15:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/lecture/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/gr_2019_blog_1/</loc>
-      <lastmod>2019-03-20T10:30:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/live/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2019-03-14-ntt/</loc>
-      <lastmod>2019-03-14T10:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2019-02-19-assessment-remediation/</loc>
-      <lastmod>2019-02-19T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/obs/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2019-02-14-bds-github/</loc>
-      <lastmod>2019-02-14T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/online/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2019-01-07-stat-basis-exp/</loc>
-      <lastmod>2019-01-07T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/authors/</loc>
+    <lastmod>2020-12-08T13:30:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2018-11-13-assessment-mobile/</loc>
-      <lastmod>2018-11-13T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/keuzes-en-mogelijkheden-bij-toepassing-van-online-proctoring/</loc>
+    <lastmod>2020-12-08T13:30:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2019-11-06-owd2018/</loc>
-      <lastmod>2018-11-06T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/author/klinkenberg/</loc>
+    <lastmod>2020-12-08T13:30:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2018-09-18-blended-learning-beyond-the-hype/</loc>
-      <lastmod>2018-09-18T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/event/</loc>
+    <lastmod>2020-12-08T13:30:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2018-06-12-blended-m-t/</loc>
-      <lastmod>2018-06-12T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/</loc>
+    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2018-02-20-ultimate-teaching-timesavers/</loc>
-      <lastmod>2018-02-20T17:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac.en/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2017-11-08-owd2017/</loc>
-      <lastmod>2017-11-08T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/mac/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2017-06-13-elearning/</loc>
-      <lastmod>2017-06-13T13:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/switch/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2017-05-31-education-day/</loc>
-      <lastmod>2017-05-31T15:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/workflow-digitaal-toetsen/</loc>
+    <lastmod>2020-07-07T16:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/project/vr-lectures/</loc>
-      <lastmod>2017-05-20T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/online-workshop-introduction-to-r-rstudio-rstudio-cloud-and-rmarkdown/</loc>
+    <lastmod>2020-06-19T15:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/publication/formative_assessment/</loc>
-      <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/blog/</loc>
+    <lastmod>2020-04-20T14:45:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/2017-05-11-bko/</loc>
-      <lastmod>2017-05-11T11:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/overlay/</loc>
+    <lastmod>2020-04-20T14:45:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/spotlight/</loc>
-      <lastmod>2017-03-27T12:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/presentation_overlay/</loc>
+    <lastmod>2020-04-20T14:45:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/gr_2019_blog_3/</loc>
+    <lastmod>2020-03-11T12:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/switched/</loc>
+    <lastmod>2019-12-28T14:45:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/switched/</loc>
+    <lastmod>2019-12-28T14:45:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/gr_2019_blog_2/</loc>
+    <lastmod>2019-12-06T12:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/publication/cbalpha/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/naar-een-inrichtingsmodel-voor-flexibele-en-veilige-toetsafname/</loc>
+    <lastmod>2019-05-24T15:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/project/cimixed/</loc>
-      <lastmod>2014-09-08T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/publication/math-garden/</loc>
-      <lastmod>2011-02-03T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/gr_2019_blog_1/</loc>
+    <lastmod>2019-03-20T10:30:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/publication_types/2/</loc>
-      <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/de-weg-naar-digitaal-toegankelijk-toetsen/</loc>
+    <lastmod>2019-03-14T10:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/blog/</loc>
-      <lastmod>2020-04-20T14:45:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/role-of-assessment-for-remediation/</loc>
+    <lastmod>2019-02-19T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/github-on-rstudio/</loc>
+    <lastmod>2019-02-14T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/grassroots/</loc>
-      <lastmod>2020-03-11T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/lecture/</loc>
-      <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/statistical-basis-for-experimentation/</loc>
+    <lastmod>2019-01-07T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/live/</loc>
-      <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/expertbijeenkomst-veilig-en-veelzijdig-toetsen-op-mobiele-apparaten/</loc>
+    <lastmod>2018-11-13T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/mac/</loc>
-      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/geen-flexibilisering-zonder-digitaal-toetsen/</loc>
+    <lastmod>2018-11-06T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/obs/</loc>
-      <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/blended-learning-beyond-the-hype/</loc>
+    <lastmod>2018-09-18T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/online/</loc>
-      <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/blended-mt/</loc>
+    <lastmod>2018-06-12T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/overlay/</loc>
-      <lastmod>2020-04-20T14:45:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/the-ultimate-teaching-time-savers/</loc>
+    <lastmod>2018-02-20T17:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/project/</loc>
-      <lastmod>2017-05-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/wegwijs-in-de-jungle-van-digitale-toetsvragen/</loc>
+    <lastmod>2017-11-08T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/publication_types/</loc>
-      <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/assessment-as-driving-force-for-personalised-blended-learning/</loc>
+    <lastmod>2017-06-13T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/spotlight/</loc>
-      <lastmod>2017-03-27T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/using-personalized-learning-in-your-class/</loc>
+    <lastmod>2017-05-31T15:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/stats/</loc>
-      <lastmod>2014-09-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/publication-type/2/</loc>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/switch/</loc>
-      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/publication_types/</loc>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/switched/</loc>
-      <lastmod>2019-12-28T14:45:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/publication/</loc>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/author/sharon-klinkenberg/</loc>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/videos/</loc>
-      <lastmod>2020-03-11T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/publication/formative_assessment/</loc>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/vr/</loc>
-      <lastmod>2017-05-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/talk/assessment-in-the-bko/</loc>
+    <lastmod>2017-05-11T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.klinkenberg.amsterdam/tags/weblectures/</loc>
-      <lastmod>2017-05-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/spotlight/</loc>
+    <lastmod>2017-03-27T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/vr/</loc>
+    <lastmod>2017-03-27T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/post/spotlight/</loc>
+    <lastmod>2017-03-27T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/publication/cbalpha/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/author/silvester-draaijer/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/publication/math-garden/</loc>
+    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/elo-rating/</loc>
+    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/author/han-van-der-maas/</loc>
+    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/author/marthe-straatemeier/</loc>
+    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/tag/math-garden/</loc>
+    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.klinkenberg.amsterdam/categories/</loc>
+  </url>
   
 </urlset>

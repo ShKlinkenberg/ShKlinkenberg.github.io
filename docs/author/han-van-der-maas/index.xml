@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Han van der Maas | Klinkenberg</title>
+    <link>https://www.klinkenberg.amsterdam/author/han-van-der-maas/</link>
+      <atom:link href="https://www.klinkenberg.amsterdam/author/han-van-der-maas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Han van der Maas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Thu, 03 Feb 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Han van der Maas</title>
+      <link>https://www.klinkenberg.amsterdam/author/han-van-der-maas/</link>
+    </image>
+    
+    <item>
+      <title>Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</title>
+      <link>https://www.klinkenberg.amsterdam/publication/math-garden/</link>
+      <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/publication/math-garden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

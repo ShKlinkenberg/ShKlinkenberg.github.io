@@ -1,12 +1,7 @@
-+++
-title = "Posts"
-date = "2017-01-01T00:00:00Z"
-math = false
-highlight = false
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-
-+++
+---
+header:
+  caption: "Writing blogs"
+  image: "storyblocks-hands-of-man-typing-on-laptop_BL-kaDNpZG.jpg"
+title: Posts
+view: 2
+---

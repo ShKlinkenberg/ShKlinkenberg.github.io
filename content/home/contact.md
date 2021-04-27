@@ -1,29 +1,33 @@
-+++
-# Contact widget.
+---
+# An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: contact
 
-date = "2016-04-20T00:00:00"
-draft = false
+# This file represents a page section.
+headless: true
 
-title = "Contact"
-subtitle = ""
-# widget = "contact"
+# Turn off widget
+active: true  # Activate this widget? true/false
 
-# Order that this section will appear in.
-weight = 80
+# Order that this section appears on the page.
+weight: 130
 
-# Automatically link email and phone?
-autolink = true
+title: Contact
+subtitle:
 
-+++
-
-<ul  class="fa-ul">
-
-<li><i class="fa-li fa fa-envelope big-icon"></i> <a style="unicode-bidi:bidi-override; direction: rtl;" href="javascript:window.location.href = 'mailto:' + ['s.klinkenberg','uva.nl'].join('@')">ln.AvU@grebneknilK.S</a></li>
-
-<li><i class="fa-li fa fa-phone fa-2x"></i> <span style="unicode-bidi:bidi-override; direction: rtl;">4096 525 02 13+</span></li>
-
-<li><i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>Nieuwe Achtergracht 129B, 1018 VZ Amsterdam,<br>Room REC-G –1.12, Netherlands</li>
-</ul>
-
-
-
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+  
+  # # Email form provider
+  # form:
+  #   provider: formspree
+  #   formspree:
+  #     id: test
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
+  
+design:
+  columns: '2'
+---

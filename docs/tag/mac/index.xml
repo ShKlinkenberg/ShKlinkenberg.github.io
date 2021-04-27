@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac | Klinkenberg</title>
+    <link>https://www.klinkenberg.amsterdam/tag/mac/</link>
+      <atom:link href="https://www.klinkenberg.amsterdam/tag/mac/index.xml" rel="self" type="application/rss+xml" />
+    <description>mac</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>mac</title>
+      <link>https://www.klinkenberg.amsterdam/tag/mac/</link>
+    </image>
+    
+    <item>
+      <title>Back to the Mac</title>
+      <link>https://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac.en/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/2020-07-24-back-to-the-mac.en/</guid>
+      <description>&lt;p&gt;Remember that time &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/switched/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I switched to windows&lt;/a&gt;? Well, after less than half a year, I already caved. Though I really tried to make this relationship work, in the end, there was just no love. Within a month of purchasing the DELL XPS 13, I already had significant regret. Not for Mac craving but because a new XPS was announced. An even slicker smaller better one than the one I just got. So, initially, it was not windows that made me restless. I even invested heavily in learning the superuser tricks. Installing linux subsystem for windows, getting to know a bunch of shortcuts, and diving deep into system thingies to customize the heck out of the XPS. Setting up incremental backups and system restore points, the whole shebang.&lt;/p&gt;
+&lt;p&gt;All the while, having that beautiful 4K touch screen to stare at. But wait, that screen is sucking the battery dry in no time. I ended up with a DELL powerbank because the ones I owned could not output 90 Watts.&lt;/p&gt;
+&lt;p&gt;And then came the updates. The OCD in me wants to have an up to date system. So, I installed the first update, and the second, and they kept coming. Not just the windows updates, but also an insane amount of DELL command center updates. It just would not stop.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/back_to_mac_2.png&#34; alt=&#34;MacBook Pro&#34;&gt;&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s when I started to play around with Linux. Trying out different distros, but I always ran into one or the other problem. I was searching for solutions to problems I didn&amp;rsquo;t have on the Mac.&lt;/p&gt;
+&lt;p&gt;And then, out of nowhere, came the salvation. Apple updated its MacBook Pro lineup. Bringing the 13-inch model back on spec with no keyboard issues anymore. So here I am, back in my walled garden, writing this blog on a Mac again.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

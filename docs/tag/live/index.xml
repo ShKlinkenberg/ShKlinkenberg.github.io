@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>live | Klinkenberg</title>
+    <link>https://www.klinkenberg.amsterdam/tag/live/</link>
+      <atom:link href="https://www.klinkenberg.amsterdam/tag/live/index.xml" rel="self" type="application/rss+xml" />
+    <description>live</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>live</title>
+      <link>https://www.klinkenberg.amsterdam/tag/live/</link>
+    </image>
+    
+    <item>
+      <title>Live Online Lecturing</title>
+      <link>https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/</guid>
+      <description>&lt;p&gt;I have been teaching a large scale course amidst the pandemic. In this post, I want to share my experiences with live lecturing online.&lt;/p&gt;
+&lt;p&gt;As the course has been around for quite some time, we had the lecture recordings of previous years at our disposal. Though simply providing these recordings would have been an easy solution, it did not feel right to throw this over the fence and call it a day. To me, It felt like a signal to students that they could just figure it all out on their own. So the plan arose to provide live lectures. Spending way too many hours in zoom from March to June gave us the confidence to pull this off.&lt;/p&gt;
+&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/2020-08-16-lecture-setup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous blog&lt;/a&gt;, I used &lt;a href=&#34;https://obsproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OBS&lt;/a&gt; as my central hub. Though the whole process has become much more straightforward with the new OBS virtual webcam feature. Just hit the start virtual webcam button, and you can use it in any video conferencing tool.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/desk.png&#34; alt=&#34;Desk&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As can be seen from the picture above, I teach from my kids&#39; bedroom, armed with a couple of NERF&amp;rsquo;s. I use apple&amp;rsquo;s &lt;a href=&#34;https://www.imore.com/how-use-sidecar-your-mac-and-ipad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sidecar&lt;/a&gt; to use my iPad as a second monitor, &lt;a href=&#34;https://www.smallrig.com/smallrig-multi-functional-crab-shaped-clamp-with-ballhead-magic-arm-2164.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clamped&lt;/a&gt; to a shelf with a &lt;a href=&#34;https://joby.com/be-en/griptight-pro-tablet-jb01395-config/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JOBI tablet grip&lt;/a&gt;. Placed at eye level to the right of &lt;a href=&#34;https://www.canon.nl/cameras/eos-m50/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my camera&lt;/a&gt;, it matches the scene when I look at the screen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.klinkenberg.amsterdam/media/screen_grab.png&#34; alt=&#34;Screen grab&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My camera has a cheap plastic teleprompter mounted. With my iPhone logged into zoom. This lets me see my presentation when I speak, see my students when they ask questions, and Look straight into the camera.&lt;/p&gt;
+&lt;p&gt;For audio, I use the amazingly versatile &lt;a href=&#34;https://www.rode.com/microphones/videomicntg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RØDE VideoMic NTG&lt;/a&gt;. Furthermore, the &lt;a href=&#34;https://www.elgato.com/en/gaming/stream-deck-mini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stream Deck&lt;/a&gt; makes tactile scene switching a breeze. So, without looking away from the camera, I can easily change the scene.&lt;/p&gt;
+&lt;p&gt;Speaking of scenes, I essentially have two. One is a &lt;a href=&#34;https://www.studiobinder.com/blog/types-of-camera-shot-angles-in-film/#shoulder-level-shot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shoulder level shot&lt;/a&gt;, and the second is a side by side shot with about two-third desktop and one-third camera, as can be seen above. Additionally, I have a &amp;ldquo;starting in 5 minutes&amp;rdquo; and a &amp;ldquo;Right Back&amp;rdquo; scene. During the break, I actually step out and get a cup of coffee.&lt;/p&gt;
+&lt;p&gt;Looking at the center monitor, you can see my desktop layout. I have OBS running at the right side. On the bottom left, the main zoom session, showing the chat and participants window. With so many students in a session, I sometimes have to mute all. The top left shows the YouTube Livestream panel. Yes, I stream the entire session for students who cannot attend the zoom session. Students that are constrained by timezones can view the lecture afterwards. Though some only watch the YouTube lecture at double speed.&lt;/p&gt;
+&lt;p&gt;As my internet service provider had a few outages, the web lecture recordings from the previous year served us well as a backup. Being logged in through my iPhone also proved to be very useful. Because I was still connected to students, I could tell them what was going on. And in one case, even continued my lecture on my phone.&lt;/p&gt;
+&lt;p&gt;As for the most important question, did our students actually enjoy this type of online lecture. Well, see for yourself in the video below.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; style=&#34;margin: 10px 0 20px 0;&#34; src=&#34;https://www.youtube.com/embed/d-hs6LPXtJ8?start=6286&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;You can find all my lectures in the following &lt;a href=&#34;https://youtube.com/playlist?list=PL5Zp3a0DklNyQlBF9MYorFzNlXxL5iDb-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;playlist&lt;/a&gt; on our &lt;a href=&#34;https://www.youtube.com/channel/UCt9z-wt6x8TbgJWCCSges8w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Channel&lt;/a&gt;. Looking at the time indication, you can see that my classes are about two hours long. Though I recently came across some articles stating that this is way too long to retain concentration, I think we should not underestimate students. Apart from these lectures, our students also attend &lt;a href=&#34;https://youtu.be/9KxgKDZxKr8?t=847&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two-hour tutorial sessions&lt;/a&gt; and had weekly assignments. With the help of our outstanding tutors, I think we managed to pull off a pretty amazing online course.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

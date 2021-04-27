@@ -1,160 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Klinkenberg</title>
+    <title>Tags | Klinkenberg</title>
     <link>https://www.klinkenberg.amsterdam/tags/</link>
-    <description>Recent content in Tags on Klinkenberg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2016 Sharon Klinkenberg</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.klinkenberg.amsterdam/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://www.klinkenberg.amsterdam/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://www.klinkenberg.amsterdam/tags/blog/</link>
-      <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grassroots</title>
-      <link>https://www.klinkenberg.amsterdam/tags/grassroots/</link>
-      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/grassroots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lecture</title>
-      <link>https://www.klinkenberg.amsterdam/tags/lecture/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/lecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Live</title>
-      <link>https://www.klinkenberg.amsterdam/tags/live/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/live/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mac</title>
-      <link>https://www.klinkenberg.amsterdam/tags/mac/</link>
-      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/mac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obs</title>
-      <link>https://www.klinkenberg.amsterdam/tags/obs/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/obs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online</title>
-      <link>https://www.klinkenberg.amsterdam/tags/online/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/online/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Overlay</title>
-      <link>https://www.klinkenberg.amsterdam/tags/overlay/</link>
-      <pubDate>Mon, 20 Apr 2020 14:45:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/overlay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spotlight</title>
-      <link>https://www.klinkenberg.amsterdam/tags/spotlight/</link>
-      <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/spotlight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stats</title>
-      <link>https://www.klinkenberg.amsterdam/tags/stats/</link>
-      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/stats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Switch</title>
-      <link>https://www.klinkenberg.amsterdam/tags/switch/</link>
-      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/switch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Switched</title>
-      <link>https://www.klinkenberg.amsterdam/tags/switched/</link>
-      <pubDate>Sat, 28 Dec 2019 14:45:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/switched/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videos</title>
-      <link>https://www.klinkenberg.amsterdam/tags/videos/</link>
-      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/videos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vr</title>
-      <link>https://www.klinkenberg.amsterdam/tags/vr/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/vr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weblectures</title>
-      <link>https://www.klinkenberg.amsterdam/tags/weblectures/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.klinkenberg.amsterdam/tags/weblectures/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://www.klinkenberg.amsterdam/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Tue, 19 Jan 2021 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://www.klinkenberg.amsterdam/tags/</link>
+    </image>
     
   </channel>
 </rss>

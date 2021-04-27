@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Klinkenberg</title>
+    <link>https://www.klinkenberg.amsterdam/publication-type/2/</link>
+      <atom:link href="https://www.klinkenberg.amsterdam/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Sat, 13 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://www.klinkenberg.amsterdam/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The Role of Formative Assessment in a Blended Learning Course</title>
+      <link>https://www.klinkenberg.amsterdam/publication/formative_assessment/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/publication/formative_assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Practical Procedure for the Construction and Reliability Analysis of Fixed-Length Tests with Randomly Drawn Test Items</title>
+      <link>https://www.klinkenberg.amsterdam/publication/cbalpha/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/publication/cbalpha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation</title>
+      <link>https://www.klinkenberg.amsterdam/publication/math-garden/</link>
+      <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/publication/math-garden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

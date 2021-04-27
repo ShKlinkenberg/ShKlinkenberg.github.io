@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klinkenberg</title>
+    <link>https://www.klinkenberg.amsterdam/author/klinkenberg/</link>
+      <atom:link href="https://www.klinkenberg.amsterdam/author/klinkenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Klinkenberg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Tue, 08 Dec 2020 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Klinkenberg</title>
+      <link>https://www.klinkenberg.amsterdam/author/klinkenberg/</link>
+    </image>
+    
+    <item>
+      <title>Keuzes en mogelijkheden bij toepassing van online proctoring</title>
+      <link>https://www.klinkenberg.amsterdam/talk/keuzes-en-mogelijkheden-bij-toepassing-van-online-proctoring/</link>
+      <pubDate>Tue, 08 Dec 2020 13:30:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/keuzes-en-mogelijkheden-bij-toepassing-van-online-proctoring/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/G5zHdbHksOU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

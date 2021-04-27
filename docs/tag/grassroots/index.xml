@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grassroots | Klinkenberg</title>
+    <link>https://www.klinkenberg.amsterdam/tag/grassroots/</link>
+      <atom:link href="https://www.klinkenberg.amsterdam/tag/grassroots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grassroots</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Tue, 19 Jan 2021 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Grassroots</title>
+      <link>https://www.klinkenberg.amsterdam/tag/grassroots/</link>
+    </image>
+    
+    <item>
+      <title>3D tracked!</title>
+      <link>https://www.klinkenberg.amsterdam/post/gr_2019_blog_4/</link>
+      <pubDate>Tue, 19 Jan 2021 12:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/gr_2019_blog_4/</guid>
+      <description>&lt;p&gt;Do you remember that &lt;a href=&#34;https://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grassroots project I started back in 2019&lt;/a&gt;? Well, after months of COVID crisis management and online teaching, I finally came around to finishing the project during the winter break.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/MDaEXZyIhfc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Though I&amp;rsquo;m moderately pleased with the result, my conclusion is that it&amp;rsquo;s way too much work to be worth the effort. Though I enjoyed messing around with adobe after effects, much time could have been saved by leaving this part to the experts.&lt;/p&gt;
+&lt;p&gt;As mentioned in &lt;a href=&#34;http://localhost:4321/post/gr_2019_blog_3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my previous blog, It&amp;rsquo;s all about the timing&lt;/a&gt;. I came to appreciate this aspect of teaching even more during this project. Making an animation happen at the touch of a button, precisely at the right time, makes for a more natural teaching experience.&lt;/p&gt;
+&lt;p&gt;As I have been &lt;a href=&#34;https://www.klinkenberg.amsterdam/post/2021-01-10-online-lecture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;live lecturing online&lt;/a&gt; the last few months, I found this timing aspect can easily be done using interactive webGL widgets. As shown in the clip below, It takes so much less effort to get the timing right.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/d-hs6LPXtJ8?start=5723&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Imagine using these 3D models and overlaying them in realtime on the table or even augmented in a lecture hall. I feel a next grassroots coming up. You can &lt;a href=&#34;http://localhost:4321/tag/grassroots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;read the previous grassroods blogs here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Timing is everything</title>
+      <link>https://www.klinkenberg.amsterdam/post/gr_2019_blog_3/</link>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/gr_2019_blog_3/</guid>
+      <description>&lt;p&gt;As mentioned in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous grassroots blog&lt;/a&gt;, creating the animation I wanted for my 3D tracking video wasn&amp;rsquo;t that hard. This time I decided to follow my own advice and write the script first. After recording the audio in one session and trimming all the mistakes, I finally had an outline for the timing of the animation.&lt;/p&gt;
+&lt;p&gt;By importing the audio track into after effects, I was able to place the animation in such a way that it aligned perfectly. So I now have a synced animation that you can view in the clip below.&lt;/p&gt;
+&lt;div style=&#34;margin:15px 0 15px 0;&#34;&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;415&#34; src=&#34;https://www.youtube.com/embed/SN2aH8iyiVw?start=29&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Now the next puzzle will be the video recording. By first recording only the audio, I essentially ruined the possibility of doing a talking-head video. So, I plan to shoot some videos of only my hands explaining the animation without showing my head. And maybe try to do a lip-sync recording for a few parts.&lt;/p&gt;
+&lt;p&gt;If you missed the previous posts on my grassroots project, you can &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;find them here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Not 3D tracking yet</title>
+      <link>https://www.klinkenberg.amsterdam/post/gr_2019_blog_2/</link>
+      <pubDate>Fri, 06 Dec 2019 12:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/gr_2019_blog_2/</guid>
+      <description>&lt;p&gt;So, it’s taken some time before I could really start this grassroot project, but I finally got the ball rolling. Looking at my own plan in my &lt;a href=&#34;http://www.klinkenberg.amsterdam/post/gr_2019_blog_1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous post&lt;/a&gt; I immediately went another rout. As I will base my first video on my &lt;a href=&#34;https://youtu.be/Q86DiHcuOVE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier screencast on ANOVA&lt;/a&gt; (in Dutch), I decided to download the auto generated transcript from my YouTube channel. This gave me a rough outline with timestamps and all.&lt;/p&gt;
+&lt;p&gt;Reading through the transcript, it became clear this was much too long. So, I wrote a shortened script that is much more to the point.&lt;/p&gt;
+&lt;p&gt;Next up, was creating the graph I want to show in the video. Writing some R code, quickly landed me the plot I wanted. In the next step I followed the &lt;a href=&#34;https://youtu.be/prnmH3YVrQo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;instruction that Peter Farago laid out in the video&lt;/a&gt; below (left), and fired up illustrator to import my PDF. There, adding layers was easy. But getting the right path into the correct layer was a bit of a puzzle. Turning paths on and off, showed me which vector element was what. Making it easier to identify where everyting needed to go.&lt;/p&gt;
+&lt;div style=&#34;margin:15px 0 15px 0;&#34;&gt;
+&lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/prnmH3YVrQo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/-iXhbMjQoNU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;I made a lot of mistakes along the way, but I will spare you that pain. In the final Illustrator step, a quick CMD-A selected everything. Turning all the line colors white, made sure I could see the plot in After Effects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/prnmH3YVrQo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter’s instructions&lt;/a&gt; were still very helpful as I initially forgot to convert the vector layers to shapes. Now that this is all covered, I could create a trim path to animate the individual lines. I’m now creating the animation as we speak. You can watch the preview above (right).&lt;/p&gt;
+&lt;p&gt;One of the problems with animating is the timing. How long should each part be visible. For that, it might be easier if I first record the script and tune the animation accordingly. I will follow up on this progress in the next post.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D tracked knowledge video</title>
+      <link>https://www.klinkenberg.amsterdam/post/gr_2019_blog_1/</link>
+      <pubDate>Wed, 20 Mar 2019 10:30:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/post/gr_2019_blog_1/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s that time of the year again. The grass is turning green and so, it&amp;rsquo;s time for a new grassroots project. This time I&amp;rsquo;m going to dive into the world of 3D tracking in Adobe After Effects to create next level knowledge videos.&lt;/p&gt;
+&lt;p&gt;I was inspired by the awesome &lt;a href=&#34;https://www.youtube.com/user/petermckinnon24&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter McKinnon&lt;/a&gt; and his short tutorial on how to merge 3D graphics and video footage. I thought, how cool would it be to explain some statistical concepts and have it play out right in front of me on the table. Looking at what &lt;a href=&#34;https://www.youtube.com/channel/UCswCpVHySdNMVwIekKThGyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AE Tutorials&lt;/a&gt; created, I could totally see this happening.&lt;/p&gt;
+&lt;div style=&#34;margin:15px 0 15px 0;&#34;&gt;
+&lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/m5_QznjzAlk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe style=&#34;width:350px;&#34; src=&#34;https://www.youtube.com/embed/4aaPSQcFpZg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;So, the grassroots project got approved and we&amp;rsquo;re going to do this. The goal is of course to create a few clips, but also to see how viable it is within the confounds of my own desktop computer and the Adobe CC suite. To answer this question, I will document my findings in this blog series. And if all goes well, I&amp;rsquo;ll create a video on how to do this on your own.&lt;/p&gt;
+&lt;p&gt;The process is looking fairly easy, but I reckon we&amp;rsquo;ll bump into problems along the way. What we need to do is: Create some vector graphics and formula&amp;rsquo;s to use in the video. In my case, I will be making them in R, exporting to PDF and layering them in illustrator. Next up is to create a storyboard. Shoot a video, and finally edit it all together in after effects.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s the plan at least. I will be doing a remake of my &lt;a href=&#34;https://youtu.be/Q86DiHcuOVE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier&lt;/a&gt; analysis of variance &lt;a href=&#34;https://youtu.be/lZqwTzCb_0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;videos&lt;/a&gt;. And if all goes well, I&amp;rsquo;ll tackle the fundamentals of null hypotheses testing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
