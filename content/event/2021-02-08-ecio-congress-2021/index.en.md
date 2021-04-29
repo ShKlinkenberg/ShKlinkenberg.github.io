@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+url_video: "https://youtu.be/Aq4y2yQR8j0"
 ---
 
 Panel participation at the [ECIO congress 2021](https://ecio.nl/en/events/ecio-congress-2021-make-inclusion-a-priority/) on inclusive assessment. What is needed to make assessment more accessible. 
