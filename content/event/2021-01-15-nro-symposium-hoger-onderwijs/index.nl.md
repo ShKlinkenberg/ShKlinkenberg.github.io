@@ -23,7 +23,7 @@ Bijdrage aan het NRO Symposium 2021.
 
 Bron: [Toetsen op afstand en monitoren van de studievoortgang](https://www.onderwijskennis.nl/nro-symposium-hoger-onderwijs-nieuwe-richtingen-na-de-pandemie/toetsen-op-afstand-en-monitoren-van-de-studievoortgang)
 
-<iframe width="100%" height="315" style="margin: 0 0 20px 0;" src="https://www.youtube.com/embed/g6MiiQzOWfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" style="margin: 0 0 20px 0;" src="https://www.youtube.com/embed/Aq4y2yQR8j0?start=4229" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Het [verslag van de sessie is hier te lezen](https://www.onderwijskennis.nl/nro-symposium-hoger-onderwijs-nieuwe-richtingen-na-de-pandemie/toetsen-op-afstand-en-monitoren-van-de-studievoortgang/verslag). Mijn [essay over Plaats- en tijdonafhankelijk toetsen is hier](https://www.onderwijskennis.nl/sites/onderwijskennis/files/media-files/Thema%205%20-%20Sharon%20Klinkenberg.pdf) te vinden. De overige essays van [Desirée Joosten-ten Brinke](https://www.linkedin.com/in/desirée-joosten-ten-brinke-15a9905/) en [Kim Schildkamp](https://www.linkedin.com/in/kim-schildkamp/) zijn [hier](https://www.onderwijskennis.nl/nro-symposium-hoger-onderwijs-nieuwe-richtingen-na-de-pandemie/toetsen-op-afstand-en-monitoren-van-de-studievoortgang) beschikbaar.
 
