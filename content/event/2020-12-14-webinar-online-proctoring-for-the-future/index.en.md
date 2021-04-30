@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
 ---
 
 Since the lockdown in March 2020 we have seen an enormous growth in the number of digital exams. Online proctoring in particular has been subject to a lot of discussion. The impact on the privacy of students is the main concern. During corona the lawful basis is quite simple. We have to ensure study progress. But what are the post-corona scenario’s and possibilities for online proctoring? That was the subject of the webinar Online proctoring for the future, last Monday December 14. [Read the highlights here](https://communities.surf.nl/artikel/highlights-webinar-online-proctoring-for-the-future).

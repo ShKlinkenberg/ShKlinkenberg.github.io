@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+url_video: https://youtu.be/Z6Ie_ELBq40
 ---
 
 Chip Huisman, an experienced methodology teacher within the Sociology department recently interviewed Sharon Klinkenberg about moving methodology teaching online.
