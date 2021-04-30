@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TLC-FMG | Klinkenberg</title>
+    <link>https://www.klinkenberg.amsterdam/tag/tlc-fmg/</link>
+      <atom:link href="https://www.klinkenberg.amsterdam/tag/tlc-fmg/index.xml" rel="self" type="application/rss+xml" />
+    <description>TLC-FMG</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016 Sharon Klinkenberg</copyright><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.klinkenberg.amsterdam/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>TLC-FMG</title>
+      <link>https://www.klinkenberg.amsterdam/tag/tlc-fmg/</link>
+    </image>
+    
+    <item>
+      <title>Tips for Methodology Teaching</title>
+      <link>https://www.klinkenberg.amsterdam/talk/tips-for-methodology-teaching/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.klinkenberg.amsterdam/talk/tips-for-methodology-teaching/</guid>
+      <description>&lt;p&gt;Chip Huisman, an experienced methodology teacher within the Sociology department recently interviewed Sharon Klinkenberg about moving methodology teaching online.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Z6Ie_ELBq40&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
