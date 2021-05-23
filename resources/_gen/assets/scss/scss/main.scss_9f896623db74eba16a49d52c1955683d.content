@@ -9326,6 +9326,16 @@ html[dir="rtl"] body {
 .portrait-title h2 {
   font-size: 1.5em !important; }
 
+.media {
+  display: flex;
+  flex-direction: column; }
+
+.stream-item :nth-child(1) {
+  order: 2; }
+
+.stream-item :nth-child(2) {
+  order: 1; }
+
 /*
 .ml-3 {
   
